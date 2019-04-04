@@ -14,11 +14,11 @@ const options = {
 const mappa = new Mappa('Mapbox', key);
 let myMap;
 let canvas;
-
+let airData = [];
 
 function preload() {
-
-
+  airData.push(loadTable('../data/2017.csv', 'csv', 'header'));
+  airData.push(loadTable('../data/2018.csv', 'csv', 'header'));
 }
 
 function setup() {
@@ -27,6 +27,12 @@ function setup() {
   // Create a tile map and overlay the canvas on top.
   myMap = mappa.tileMap(options);
   myMap.overlay(canvas);
+
+  for(let row of airData[0].rows) {
+    
+  }
+
+
 } 
 
 function draw() {
