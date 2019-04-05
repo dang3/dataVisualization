@@ -1,0 +1,1858 @@
+CARRIER_NAME,ORIGIN,ORIGIN_CITY_NAME,ORIGIN_COUNTRY_NAME,DEST,DEST_CITY_NAME,DEST_COUNTRY_NAME,PASSENGER
+SkyWest Airlines Inc.,BOI,"Boise, ID",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,COS,"Colorado Springs, CO",United States,SJC,"San Jose, CA",United States,True
+"Jet Aviation Flight Services, Inc.",YVR,"Vancouver, Canada",Canada,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,SLC,"Salt Lake City, UT",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,SMF,"Sacramento, CA",United States,SJC,"San Jose, CA",United States,True
+Federal Express Corporation,IND,"Indianapolis, IN",United States,SJC,"San Jose, CA",United States,False
+Federal Express Corporation,MEM,"Memphis, TN",United States,SJC,"San Jose, CA",United States,False
+Federal Express Corporation,MEM,"Memphis, TN",United States,SJC,"San Jose, CA",United States,False
+Delta Air Lines Inc.,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+United Parcel Service,DFW,"Dallas/Fort Worth, TX",United States,SJC,"San Jose, CA",United States,False
+United Parcel Service,SDF,"Louisville, KY",United States,SJC,"San Jose, CA",United States,False
+United Parcel Service,SDF,"Louisville, KY",United States,SJC,"San Jose, CA",United States,False
+"Jet Aviation Flight Services, Inc.",SLC,"Salt Lake City, UT",United States,SJC,"San Jose, CA",United States,True
+Federal Express Corporation,IND,"Indianapolis, IN",United States,SJC,"San Jose, CA",United States,False
+Federal Express Corporation,MEM,"Memphis, TN",United States,SJC,"San Jose, CA",United States,False
+Delta Air Lines Inc.,DEN,"Denver, CO",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+"Jet Aviation Flight Services, Inc.",BDL,"Hartford, CT",United States,SJC,"San Jose, CA",United States,True
+"Jet Aviation Flight Services, Inc.",TEB,"Teterboro, NJ",United States,SJC,"San Jose, CA",United States,True
+United Parcel Service,DFW,"Dallas/Fort Worth, TX",United States,SJC,"San Jose, CA",United States,False
+United Parcel Service,SDF,"Louisville, KY",United States,SJC,"San Jose, CA",United States,False
+United Parcel Service,SDF,"Louisville, KY",United States,SJC,"San Jose, CA",United States,False
+London Air Services Limited,BFI,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+"Jet Aviation Flight Services, Inc.",MRY,"Monterey, CA",United States,SJC,"San Jose, CA",United States,True
+Federal Express Corporation,MEM,"Memphis, TN",United States,SJC,"San Jose, CA",United States,False
+"Swift Air, LLC",AZA,"Phoenix, AZ",United States,SJC,"San Jose, CA",United States,True
+Federal Express Corporation,MEM,"Memphis, TN",United States,SJC,"San Jose, CA",United States,False
+Avjet Corporation,BUR,"Burbank, CA",United States,SJC,"San Jose, CA",United States,True
+Avjet Corporation,BUR,"Burbank, CA",United States,SJC,"San Jose, CA",United States,True
+Avjet Corporation,MRY,"Monterey, CA",United States,SJC,"San Jose, CA",United States,True
+Avjet Corporation,OAK,"Oakland, CA",United States,SJC,"San Jose, CA",United States,True
+United Parcel Service,DFW,"Dallas/Fort Worth, TX",United States,SJC,"San Jose, CA",United States,False
+United Parcel Service,SDF,"Louisville, KY",United States,SJC,"San Jose, CA",United States,False
+United Parcel Service,SDF,"Louisville, KY",United States,SJC,"San Jose, CA",United States,False
+"Swift Air, LLC",YMX,"Montreal, Canada",Canada,SJC,"San Jose, CA",United States,True
+Federal Express Corporation,MEM,"Memphis, TN",United States,SJC,"San Jose, CA",United States,False
+Avjet Corporation,BUR,"Burbank, CA",United States,SJC,"San Jose, CA",United States,True
+Avjet Corporation,BUR,"Burbank, CA",United States,SJC,"San Jose, CA",United States,True
+Avjet Corporation,BUR,"Burbank, CA",United States,SJC,"San Jose, CA",United States,True
+Avjet Corporation,BUR,"Burbank, CA",United States,SJC,"San Jose, CA",United States,True
+"Swift Air, LLC",LAS,"Las Vegas, NV",United States,SJC,"San Jose, CA",United States,True
+"Swift Air, LLC",LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+United Parcel Service,DFW,"Dallas/Fort Worth, TX",United States,SJC,"San Jose, CA",United States,False
+United Parcel Service,EWR,"Newark, NJ",United States,SJC,"San Jose, CA",United States,False
+United Parcel Service,RFD,"Rockford, IL",United States,SJC,"San Jose, CA",United States,False
+United Parcel Service,SDF,"Louisville, KY",United States,SJC,"San Jose, CA",United States,False
+United Parcel Service,SDF,"Louisville, KY",United States,SJC,"San Jose, CA",United States,False
+United Parcel Service,SDF,"Louisville, KY",United States,SJC,"San Jose, CA",United States,False
+Miami Air International,PHX,"Phoenix, AZ",United States,SJC,"San Jose, CA",United States,True
+United Parcel Service,SDF,"Louisville, KY",United States,SJC,"San Jose, CA",United States,False
+United Parcel Service,SDF,"Louisville, KY",United States,SJC,"San Jose, CA",United States,False
+United Parcel Service,SDF,"Louisville, KY",United States,SJC,"San Jose, CA",United States,False
+Compass Airlines,SLC,"Salt Lake City, UT",United States,SJC,"San Jose, CA",United States,True
+Avjet Corporation,BUR,"Burbank, CA",United States,SJC,"San Jose, CA",United States,True
+Avjet Corporation,SAN,"San Diego, CA",United States,SJC,"San Jose, CA",United States,True
+Jazz Aviation LP,YYC,"Calgary, Canada",Canada,SJC,"San Jose, CA",United States,True
+United Parcel Service,DFW,"Dallas/Fort Worth, TX",United States,SJC,"San Jose, CA",United States,False
+United Parcel Service,SDF,"Louisville, KY",United States,SJC,"San Jose, CA",United States,False
+United Parcel Service,SDF,"Louisville, KY",United States,SJC,"San Jose, CA",United States,False
+"Swift Air, LLC",LAS,"Las Vegas, NV",United States,SJC,"San Jose, CA",United States,True
+Avjet Corporation,BUR,"Burbank, CA",United States,SJC,"San Jose, CA",United States,True
+Avjet Corporation,BUR,"Burbank, CA",United States,SJC,"San Jose, CA",United States,True
+Avjet Corporation,EGE,"Eagle, CO",United States,SJC,"San Jose, CA",United States,True
+United Parcel Service,DFW,"Dallas/Fort Worth, TX",United States,SJC,"San Jose, CA",United States,False
+United Parcel Service,SDF,"Louisville, KY",United States,SJC,"San Jose, CA",United States,False
+United Parcel Service,SDF,"Louisville, KY",United States,SJC,"San Jose, CA",United States,False
+United Parcel Service,SDF,"Louisville, KY",United States,SJC,"San Jose, CA",United States,False
+United Parcel Service,SDF,"Louisville, KY",United States,SJC,"San Jose, CA",United States,False
+"Swift Air, LLC",BNA,"Nashville, TN",United States,SJC,"San Jose, CA",United States,True
+Avjet Corporation,BUR,"Burbank, CA",United States,SJC,"San Jose, CA",United States,True
+Federal Express Corporation,IND,"Indianapolis, IN",United States,SJC,"San Jose, CA",United States,False
+Federal Express Corporation,MEM,"Memphis, TN",United States,SJC,"San Jose, CA",United States,False
+Avjet Corporation,BUR,"Burbank, CA",United States,SJC,"San Jose, CA",United States,True
+Avjet Corporation,BUR,"Burbank, CA",United States,SJC,"San Jose, CA",United States,True
+Avjet Corporation,BUR,"Burbank, CA",United States,SJC,"San Jose, CA",United States,True
+Atlas Air Inc.,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+Avjet Corporation,BUR,"Burbank, CA",United States,SJC,"San Jose, CA",United States,True
+Avjet Corporation,BUR,"Burbank, CA",United States,SJC,"San Jose, CA",United States,True
+United Parcel Service,DFW,"Dallas/Fort Worth, TX",United States,SJC,"San Jose, CA",United States,False
+United Parcel Service,SDF,"Louisville, KY",United States,SJC,"San Jose, CA",United States,False
+United Parcel Service,SDF,"Louisville, KY",United States,SJC,"San Jose, CA",United States,False
+Delta Air Lines Inc.,LAS,"Las Vegas, NV",United States,SJC,"San Jose, CA",United States,True
+"Swift Air, LLC",GNV,"Gainesville, FL",United States,SJC,"San Jose, CA",United States,True
+United Parcel Service,CAE,"Columbia, SC",United States,SJC,"San Jose, CA",United States,False
+United Parcel Service,LAS,"Las Vegas, NV",United States,SJC,"San Jose, CA",United States,False
+United Parcel Service,PHL,"Philadelphia, PA",United States,SJC,"San Jose, CA",United States,False
+United Parcel Service,RFD,"Rockford, IL",United States,SJC,"San Jose, CA",United States,False
+Delta Air Lines Inc.,PHX,"Phoenix, AZ",United States,SJC,"San Jose, CA",United States,True
+Federal Express Corporation,MEM,"Memphis, TN",United States,SJC,"San Jose, CA",United States,False
+Federal Express Corporation,MEM,"Memphis, TN",United States,SJC,"San Jose, CA",United States,False
+Federal Express Corporation,OAK,"Oakland, CA",United States,SJC,"San Jose, CA",United States,False
+Miami Air International,OAK,"Oakland, CA",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,ONT,"Ontario, CA",United States,SJC,"San Jose, CA",United States,True
+"Swift Air, LLC",BNA,"Nashville, TN",United States,SJC,"San Jose, CA",United States,True
+United Parcel Service,DFW,"Dallas/Fort Worth, TX",United States,SJC,"San Jose, CA",United States,False
+United Parcel Service,DSM,"Des Moines, IA",United States,SJC,"San Jose, CA",United States,False
+United Parcel Service,SDF,"Louisville, KY",United States,SJC,"San Jose, CA",United States,False
+United Parcel Service,SDF,"Louisville, KY",United States,SJC,"San Jose, CA",United States,False
+SkyWest Airlines Inc.,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+Federal Express Corporation,MEM,"Memphis, TN",United States,SJC,"San Jose, CA",United States,False
+Federal Express Corporation,MEM,"Memphis, TN",United States,SJC,"San Jose, CA",United States,False
+"Swift Air, LLC",DEN,"Denver, CO",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,SFO,"San Francisco, CA",United States,SJC,"San Jose, CA",United States,True
+Federal Express Corporation,MEM,"Memphis, TN",United States,SJC,"San Jose, CA",United States,False
+Federal Express Corporation,ORD,"Chicago, IL",United States,SJC,"San Jose, CA",United States,False
+"Swift Air, LLC",AZA,"Phoenix, AZ",United States,SJC,"San Jose, CA",United States,True
+Federal Express Corporation,MEM,"Memphis, TN",United States,SJC,"San Jose, CA",United States,False
+United Parcel Service,DFW,"Dallas/Fort Worth, TX",United States,SJC,"San Jose, CA",United States,False
+Federal Express Corporation,IND,"Indianapolis, IN",United States,SJC,"San Jose, CA",United States,False
+Federal Express Corporation,IND,"Indianapolis, IN",United States,SJC,"San Jose, CA",United States,False
+Federal Express Corporation,MEM,"Memphis, TN",United States,SJC,"San Jose, CA",United States,False
+Federal Express Corporation,IND,"Indianapolis, IN",United States,SJC,"San Jose, CA",United States,False
+Federal Express Corporation,IND,"Indianapolis, IN",United States,SJC,"San Jose, CA",United States,False
+Delta Air Lines Inc.,SFO,"San Francisco, CA",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,SFO,"San Francisco, CA",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,SMF,"Sacramento, CA",United States,SJC,"San Jose, CA",United States,True
+Ameristar Air Cargo,LRD,"Laredo, TX",United States,SJC,"San Jose, CA",United States,False
+United Parcel Service,DFW,"Dallas/Fort Worth, TX",United States,SJC,"San Jose, CA",United States,False
+United Parcel Service,DFW,"Dallas/Fort Worth, TX",United States,SJC,"San Jose, CA",United States,False
+United Parcel Service,SDF,"Louisville, KY",United States,SJC,"San Jose, CA",United States,False
+United Parcel Service,SDF,"Louisville, KY",United States,SJC,"San Jose, CA",United States,False
+Avjet Corporation,BUR,"Burbank, CA",United States,SJC,"San Jose, CA",United States,True
+Federal Express Corporation,MEM,"Memphis, TN",United States,SJC,"San Jose, CA",United States,False
+Federal Express Corporation,MEM,"Memphis, TN",United States,SJC,"San Jose, CA",United States,False
+CFM Inc d/b/a Contour Airlines,LAS,"Las Vegas, NV",United States,SJC,"San Jose, CA",United States,True
+United Parcel Service,DFW,"Dallas/Fort Worth, TX",United States,SJC,"San Jose, CA",United States,False
+United Parcel Service,SDF,"Louisville, KY",United States,SJC,"San Jose, CA",United States,False
+United Parcel Service,SDF,"Louisville, KY",United States,SJC,"San Jose, CA",United States,False
+SkyWest Airlines Inc.,PHX,"Phoenix, AZ",United States,SJC,"San Jose, CA",United States,True
+London Air Services Limited,OAK,"Oakland, CA",United States,SJC,"San Jose, CA",United States,True
+"Jet Aviation Flight Services, Inc.",JFK,"New York, NY",United States,SJC,"San Jose, CA",United States,True
+"Jet Aviation Flight Services, Inc.",MMU,"Morristown, NJ",United States,SJC,"San Jose, CA",United States,True
+"Jet Aviation Flight Services, Inc.",SAN,"San Diego, CA",United States,SJC,"San Jose, CA",United States,True
+"Jet Aviation Flight Services, Inc.",SNA,"Santa Ana, CA",United States,SJC,"San Jose, CA",United States,True
+"Jet Aviation Flight Services, Inc.",VIS,"Visalia, CA",United States,SJC,"San Jose, CA",United States,True
+London Air Services Limited,YYJ,"Victoria, Canada",Canada,SJC,"San Jose, CA",United States,True
+"Jet Aviation Flight Services, Inc.",SLC,"Salt Lake City, UT",United States,SJC,"San Jose, CA",United States,True
+Chartright Air Inc.,YYZ,"Toronto, Canada",Canada,SJC,"San Jose, CA",United States,True
+Albinati Aeronautics SA,GVA,"Geneva, Switzerland",Switzerland,SJC,"San Jose, CA",United States,True
+"Jet Aviation Flight Services, Inc.",HPN,"White Plains, NY",United States,SJC,"San Jose, CA",United States,True
+"Jet Aviation Flight Services, Inc.",APA,"Denver, CO",United States,SJC,"San Jose, CA",United States,True
+VistaJet Limited,HEL,"Helsinki, Finland",Finland,SJC,"San Jose, CA",United States,True
+Avjet Corporation,BUR,"Burbank, CA",United States,SJC,"San Jose, CA",United States,True
+Avjet Corporation,CLD,"Carlsbad, CA",United States,SJC,"San Jose, CA",United States,True
+Avjet Corporation,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+Avjet Corporation,VNY,"Van Nuys, CA",United States,SJC,"San Jose, CA",United States,True
+"Jet Aviation Flight Services, Inc.",AGS,"Augusta, GA",United States,SJC,"San Jose, CA",United States,True
+"Jet Aviation Flight Services, Inc.",VNY,"Van Nuys, CA",United States,SJC,"San Jose, CA",United States,True
+"Jet Aviation Flight Services, Inc.",TEB,"Teterboro, NJ",United States,SJC,"San Jose, CA",United States,True
+"Jet Aviation Flight Services, Inc.",DET,"Detroit, MI",United States,SJC,"San Jose, CA",United States,True
+Avjet Corporation,BUR,"Burbank, CA",United States,SJC,"San Jose, CA",United States,True
+CFM Inc d/b/a Contour Airlines,VNY,"Van Nuys, CA",United States,SJC,"San Jose, CA",United States,True
+Avjet Corporation,OGG,"Kahului, HI",United States,SJC,"San Jose, CA",United States,True
+VistaJet Limited,HND,"Tokyo, Japan",Japan,SJC,"San Jose, CA",United States,True
+Avjet Corporation,BUR,"Burbank, CA",United States,SJC,"San Jose, CA",United States,True
+Avjet Corporation,LNY,"Lanai, HI",United States,SJC,"San Jose, CA",United States,True
+Avjet Corporation,TKF,"Truckee, CA",United States,SJC,"San Jose, CA",United States,True
+"Jet Aviation Flight Services, Inc.",SMO,"Santa Monica, CA",United States,SJC,"San Jose, CA",United States,True
+"Jet Aviation Flight Services, Inc.",TEB,"Teterboro, NJ",United States,SJC,"San Jose, CA",United States,True
+Avjet Corporation,BUR,"Burbank, CA",United States,SJC,"San Jose, CA",United States,True
+CFM Inc d/b/a Contour Airlines,LAS,"Las Vegas, NV",United States,SJC,"San Jose, CA",United States,True
+"Jet Aviation Flight Services, Inc.",SMO,"Santa Monica, CA",United States,SJC,"San Jose, CA",United States,True
+"Jet Aviation Flight Services, Inc.",VNY,"Van Nuys, CA",United States,SJC,"San Jose, CA",United States,True
+"Jet Aviation Flight Services, Inc.",LAS,"Las Vegas, NV",United States,SJC,"San Jose, CA",United States,True
+London Air Services Limited,YVR,"Vancouver, Canada",Canada,SJC,"San Jose, CA",United States,True
+VistaJet Limited,ANC,"Anchorage, AK",United States,SJC,"San Jose, CA",United States,True
+VistaJet Limited,LTN,"London, United Kingdom",United Kingdom,SJC,"San Jose, CA",United States,True
+"Jet Aviation Flight Services, Inc.",APA,"Denver, CO",United States,SJC,"San Jose, CA",United States,True
+"Jet Aviation Flight Services, Inc.",LIM,"Lima, Peru",Peru,SJC,"San Jose, CA",United States,True
+VistaJet Limited,HND,"Tokyo, Japan",Japan,SJC,"San Jose, CA",United States,True
+Avjet Corporation,BUR,"Burbank, CA",United States,SJC,"San Jose, CA",United States,True
+Avjet Corporation,BUR,"Burbank, CA",United States,SJC,"San Jose, CA",United States,True
+VistaJet Limited,YVR,"Vancouver, Canada",Canada,SJC,"San Jose, CA",United States,True
+"Jet Aviation Flight Services, Inc.",TEB,"Teterboro, NJ",United States,SJC,"San Jose, CA",United States,True
+"Jet Aviation Flight Services, Inc.",LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+VistaJet Limited,CTS,"Sapporo, Japan",Japan,SJC,"San Jose, CA",United States,True
+CFM Inc d/b/a Contour Airlines,BNA,"Nashville, TN",United States,SJC,"San Jose, CA",United States,True
+VistaJet Limited,FAR,"Fargo, ND",United States,SJC,"San Jose, CA",United States,True
+CFM Inc d/b/a Contour Airlines,BNA,"Nashville, TN",United States,SJC,"San Jose, CA",United States,True
+"Jet Aviation Flight Services, Inc.",HOU,"Houston, TX",United States,SJC,"San Jose, CA",United States,True
+"Jet Aviation Flight Services, Inc.",TEB,"Teterboro, NJ",United States,SJC,"San Jose, CA",United States,True
+"Jet Aviation Flight Services, Inc.",TOA,"Torrance, CA",United States,SJC,"San Jose, CA",United States,True
+"Jet Aviation Flight Services, Inc.",LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+VistaJet Limited,LIM,"Lima, Peru",Peru,SJC,"San Jose, CA",United States,True
+Tradewind Aviation,SAT,"San Antonio, TX",United States,SJC,"San Jose, CA",United States,True
+"Jet Aviation Flight Services, Inc.",OGG,"Kahului, HI",United States,SJC,"San Jose, CA",United States,True
+Avjet Corporation,KIX,"Osaka, Japan",Japan,SJC,"San Jose, CA",United States,True
+Avjet Corporation,YLW,"Kelowna, Canada",Canada,SJC,"San Jose, CA",United States,True
+Avjet Corporation,BUR,"Burbank, CA",United States,SJC,"San Jose, CA",United States,True
+Avjet Corporation,JAC,"Jackson, WY",United States,SJC,"San Jose, CA",United States,True
+Tyrolean Jet Service,LTN,"London, United Kingdom",United Kingdom,SJC,"San Jose, CA",United States,True
+"Jet Aviation Flight Services, Inc.",ID1,"Driggs, ID",United States,SJC,"San Jose, CA",United States,True
+"Jet Aviation Flight Services, Inc.",TEB,"Teterboro, NJ",United States,SJC,"San Jose, CA",United States,True
+"Jet Aviation Flight Services, Inc.",CAK,"Akron, OH",United States,SJC,"San Jose, CA",United States,True
+"Jet Aviation Flight Services, Inc.",LNK,"Lincoln, NE",United States,SJC,"San Jose, CA",United States,True
+VistaJet Limited,ANC,"Anchorage, AK",United States,SJC,"San Jose, CA",United States,True
+Svenskt Industriflyg AB,BHD,"Belfast, United Kingdom",United Kingdom,SJC,"San Jose, CA",United States,True
+Avjet Corporation,MKC,"Kansas City, MO",United States,SJC,"San Jose, CA",United States,True
+VistaJet Limited,YVR,"Vancouver, Canada",Canada,SJC,"San Jose, CA",United States,True
+"Jet Aviation Flight Services, Inc.",TEB,"Teterboro, NJ",United States,SJC,"San Jose, CA",United States,True
+VistaJet Limited,SCL,"Santiago, Chile",Chile,SJC,"San Jose, CA",United States,True
+Avjet Corporation,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+VistaJet Limited,CSL,"Cabo San Lucas, Mexico",Mexico,SJC,"San Jose, CA",United States,True
+Chartright Air Inc.,BUR,"Burbank, CA",United States,SJC,"San Jose, CA",United States,True
+"Jet Aviation Flight Services, Inc.",XNA,"Fayetteville, AR",United States,SJC,"San Jose, CA",United States,True
+"Jet Aviation Flight Services, Inc.",XNA,"Fayetteville, AR",United States,SJC,"San Jose, CA",United States,True
+Avjet Corporation,BUR,"Burbank, CA",United States,SJC,"San Jose, CA",United States,True
+Avjet Corporation,OGG,"Kahului, HI",United States,SJC,"San Jose, CA",United States,True
+VistaJet Limited,LTN,"London, United Kingdom",United Kingdom,SJC,"San Jose, CA",United States,True
+"Jet Aviation Flight Services, Inc.",LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+Avjet Corporation,HND,"Tokyo, Japan",Japan,SJC,"San Jose, CA",United States,True
+VistaJet Limited,NGO,"Nagoya, Japan",Japan,SJC,"San Jose, CA",United States,True
+Avjet Corporation,OGG,"Kahului, HI",United States,SJC,"San Jose, CA",United States,True
+"Jet Aviation Flight Services, Inc.",SMO,"Santa Monica, CA",United States,SJC,"San Jose, CA",United States,True
+"Jet Aviation Flight Services, Inc.",TEB,"Teterboro, NJ",United States,SJC,"San Jose, CA",United States,True
+"Jet Aviation Flight Services, Inc.",HPN,"White Plains, NY",United States,SJC,"San Jose, CA",United States,True
+CFM Inc d/b/a Contour Airlines,LAS,"Las Vegas, NV",United States,SJC,"San Jose, CA",United States,True
+"Jet Aviation Flight Services, Inc.",KOA,"Kona, HI",United States,SJC,"San Jose, CA",United States,True
+CFM Inc d/b/a Contour Airlines,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+Delux Public Charter LLC,BUR,"Burbank, CA",United States,SJC,"San Jose, CA",United States,True
+"Jet Aviation Flight Services, Inc.",BUR,"Burbank, CA",United States,SJC,"San Jose, CA",United States,True
+Delux Public Charter LLC,BZN,"Bozeman, MT",United States,SJC,"San Jose, CA",United States,True
+Sun Country Airlines d/b/a MN Airlines,MSN,"Madison, WI",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,SMF,"Sacramento, CA",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+"Swift Air, LLC",MKE,"Milwaukee, WI",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+Delux Public Charter LLC,BUR,"Burbank, CA",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,IND,"Indianapolis, IN",United States,SJC,"San Jose, CA",United States,True
+"KaiserAir, Inc.",LAS,"Las Vegas, NV",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+"KaiserAir, Inc.",LGB,"Long Beach, CA",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,YYC,"Calgary, Canada",Canada,SJC,"San Jose, CA",United States,True
+Air Canada,YYZ,"Toronto, Canada",Canada,SJC,"San Jose, CA",United States,True
+"KaiserAir, Inc.",LGB,"Long Beach, CA",United States,SJC,"San Jose, CA",United States,True
+Air Canada,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,DAL,"Dallas, TX",United States,SJC,"San Jose, CA",United States,True
+Eastern Airlines Group Inc.,BNA,"Nashville, TN",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+"Swift Air, LLC",ORD,"Chicago, IL",United States,SJC,"San Jose, CA",United States,True
+"KaiserAir, Inc.",YYC,"Calgary, Canada",Canada,SJC,"San Jose, CA",United States,True
+"Swift Air, LLC",LAS,"Las Vegas, NV",United States,SJC,"San Jose, CA",United States,True
+Air Canada,YYZ,"Toronto, Canada",Canada,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,DEN,"Denver, CO",United States,SJC,"San Jose, CA",United States,True
+"KaiserAir, Inc.",BNA,"Nashville, TN",United States,SJC,"San Jose, CA",United States,True
+"KaiserAir, Inc.",YWG,"Winnipeg, Canada",Canada,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+"KaiserAir, Inc.",PHX,"Phoenix, AZ",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,ONT,"Ontario, CA",United States,SJC,"San Jose, CA",United States,True
+Air Canada,YVR,"Vancouver, Canada",Canada,SJC,"San Jose, CA",United States,True
+Air Canada,YVR,"Vancouver, Canada",Canada,SJC,"San Jose, CA",United States,True
+"KaiserAir, Inc.",OMA,"Omaha, NE",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,IAD,"Washington, DC",United States,SJC,"San Jose, CA",United States,True
+XTRA Airways,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,BUF,"Buffalo, NY",United States,SJC,"San Jose, CA",United States,True
+"KaiserAir, Inc.",BUF,"Buffalo, NY",United States,SJC,"San Jose, CA",United States,True
+Miami Air International,TPA,"Tampa, FL",United States,SJC,"San Jose, CA",United States,True
+"KaiserAir, Inc.",YEG,"Edmonton, Canada",Canada,SJC,"San Jose, CA",United States,True
+"KaiserAir, Inc.",YWG,"Winnipeg, Canada",Canada,SJC,"San Jose, CA",United States,True
+Air Canada,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,TUS,"Tucson, AZ",United States,SJC,"San Jose, CA",United States,True
+"KaiserAir, Inc.",LAS,"Las Vegas, NV",United States,SJC,"San Jose, CA",United States,True
+"KaiserAir, Inc.",LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+Air Canada,YYC,"Calgary, Canada",Canada,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,RNO,"Reno, NV",United States,SJC,"San Jose, CA",United States,True
+"KaiserAir, Inc.",YVR,"Vancouver, Canada",Canada,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,TUS,"Tucson, AZ",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,MSP,"Minneapolis, MN",United States,SJC,"San Jose, CA",United States,True
+"KaiserAir, Inc.",PHX,"Phoenix, AZ",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,DEN,"Denver, CO",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,SFO,"San Francisco, CA",United States,SJC,"San Jose, CA",United States,True
+Air Canada,YVR,"Vancouver, Canada",Canada,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,LGB,"Long Beach, CA",United States,SJC,"San Jose, CA",United States,True
+"KaiserAir, Inc.",GRI,"Grand Island, NE",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+Air Canada,YUL,"Montreal, Canada",Canada,SJC,"San Jose, CA",United States,True
+"KaiserAir, Inc.",YVR,"Vancouver, Canada",Canada,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,PHL,"Philadelphia, PA",United States,SJC,"San Jose, CA",United States,True
+"Swift Air, LLC",BNA,"Nashville, TN",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+Delux Public Charter LLC,BUR,"Burbank, CA",United States,SJC,"San Jose, CA",United States,True
+Atlas Air Inc.,DAL,"Dallas, TX",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,BUF,"Buffalo, NY",United States,SJC,"San Jose, CA",United States,True
+"Swift Air, LLC",LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+"Swift Air, LLC",LGB,"Long Beach, CA",United States,SJC,"San Jose, CA",United States,True
+"Swift Air, LLC",LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,FAT,"Fresno, CA",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,SNA,"Santa Ana, CA",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+"Swift Air, LLC",YVR,"Vancouver, Canada",Canada,SJC,"San Jose, CA",United States,True
+"KaiserAir, Inc.",YVR,"Vancouver, Canada",Canada,SJC,"San Jose, CA",United States,True
+Sun Country Airlines d/b/a MN Airlines,RDU,"Raleigh/Durham, NC",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,DAL,"Dallas, TX",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,PDX,"Portland, OR",United States,SJC,"San Jose, CA",United States,True
+Air Canada,YYZ,"Toronto, Canada",Canada,SJC,"San Jose, CA",United States,True
+Delux Public Charter LLC,BZN,"Bozeman, MT",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,TUS,"Tucson, AZ",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,RDU,"Raleigh/Durham, NC",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,SLC,"Salt Lake City, UT",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,GEG,"Spokane, WA",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,DEN,"Denver, CO",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,SAN,"San Diego, CA",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,EWR,"Newark, NJ",United States,SJC,"San Jose, CA",United States,True
+Sun Country Airlines d/b/a MN Airlines,LEX,"Lexington, KY",United States,SJC,"San Jose, CA",United States,True
+"Swift Air, LLC",PDX,"Portland, OR",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,BUR,"Burbank, CA",United States,SJC,"San Jose, CA",United States,True
+Horizon Air,PDX,"Portland, OR",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,DEN,"Denver, CO",United States,SJC,"San Jose, CA",United States,True
+Compass Airlines,SLC,"Salt Lake City, UT",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,BUR,"Burbank, CA",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,BOI,"Boise, ID",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,DEN,"Denver, CO",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,RNO,"Reno, NV",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,OAK,"Oakland, CA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,SLC,"Salt Lake City, UT",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,MSP,"Minneapolis, MN",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,MSP,"Minneapolis, MN",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,OAK,"Oakland, CA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,PHX,"Phoenix, AZ",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,AUS,"Austin, TX",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,PSP,"Palm Springs, CA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,BUR,"Burbank, CA",United States,SJC,"San Jose, CA",United States,True
+"KaiserAir, Inc.",YEG,"Edmonton, Canada",Canada,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,BUR,"Burbank, CA",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,SJD,"San Jose del Cabo, Mexico",Mexico,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+American Airlines Inc.,JFK,"New York, NY",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,BUR,"Burbank, CA",United States,SJC,"San Jose, CA",United States,True
+Delux Public Charter LLC,BZN,"Bozeman, MT",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,OAK,"Oakland, CA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+"Swift Air, LLC",LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,AUS,"Austin, TX",United States,SJC,"San Jose, CA",United States,True
+Allegiant Air,FWA,"Fort Wayne, IN",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,RNO,"Reno, NV",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+XTRA Airways,DAL,"Dallas, TX",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+Horizon Air,PDX,"Portland, OR",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,PHX,"Phoenix, AZ",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,OAK,"Oakland, CA",United States,SJC,"San Jose, CA",United States,True
+"KaiserAir, Inc.",YVR,"Vancouver, Canada",Canada,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,DEN,"Denver, CO",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,SLC,"Salt Lake City, UT",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,SNA,"Santa Ana, CA",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,LAS,"Las Vegas, NV",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,SJD,"San Jose del Cabo, Mexico",Mexico,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,EWR,"Newark, NJ",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,ONT,"Ontario, CA",United States,SJC,"San Jose, CA",United States,True
+"KaiserAir, Inc.",YEG,"Edmonton, Canada",Canada,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,SJD,"San Jose del Cabo, Mexico",Mexico,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,ORD,"Chicago, IL",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,LAS,"Las Vegas, NV",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,EWR,"Newark, NJ",United States,SJC,"San Jose, CA",United States,True
+Sun Country Airlines d/b/a MN Airlines,IFP,"Bullhead City, AZ",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,SLC,"Salt Lake City, UT",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,PDX,"Portland, OR",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,IAH,"Houston, TX",United States,SJC,"San Jose, CA",United States,True
+"KaiserAir, Inc.",LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,BOI,"Boise, ID",United States,SJC,"San Jose, CA",United States,True
+Sun Country Airlines d/b/a MN Airlines,GEG,"Spokane, WA",United States,SJC,"San Jose, CA",United States,True
+Compass Airlines,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,ONT,"Ontario, CA",United States,SJC,"San Jose, CA",United States,True
+Air Canada,YEG,"Edmonton, Canada",Canada,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,SLC,"Salt Lake City, UT",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,SNA,"Santa Ana, CA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+Sun Country Airlines d/b/a MN Airlines,CVG,"Cincinnati, OH",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,IAH,"Houston, TX",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,PDX,"Portland, OR",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,IAH,"Houston, TX",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,DEN,"Denver, CO",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,ORD,"Chicago, IL",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,GEG,"Spokane, WA",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,SLC,"Salt Lake City, UT",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,PDX,"Portland, OR",United States,SJC,"San Jose, CA",United States,True
+American Airlines Inc.,PHX,"Phoenix, AZ",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,IAH,"Houston, TX",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+Sun Country Airlines d/b/a MN Airlines,CKB,"Clarksburg/Fairmont, WV",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,PDX,"Portland, OR",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,IAH,"Houston, TX",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,BOS,"Boston, MA",United States,SJC,"San Jose, CA",United States,True
+JetBlue Airways,LAS,"Las Vegas, NV",United States,SJC,"San Jose, CA",United States,True
+JetBlue Airways,LAS,"Las Vegas, NV",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,AUS,"Austin, TX",United States,SJC,"San Jose, CA",United States,True
+American Airlines Inc.,ABQ,"Albuquerque, NM",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,DFW,"Dallas/Fort Worth, TX",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,SLC,"Salt Lake City, UT",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,PDX,"Portland, OR",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,OAK,"Oakland, CA",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,IAH,"Houston, TX",United States,SJC,"San Jose, CA",United States,True
+JetBlue Airways,LAS,"Las Vegas, NV",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,ORD,"Chicago, IL",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,SAN,"San Diego, CA",United States,SJC,"San Jose, CA",United States,True
+Allegiant Air,DEN,"Denver, CO",United States,SJC,"San Jose, CA",United States,True
+American Airlines Inc.,CLT,"Charlotte, NC",United States,SJC,"San Jose, CA",United States,True
+JetBlue Airways,PHX,"Phoenix, AZ",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+Sun Country Airlines d/b/a MN Airlines,SAN,"San Diego, CA",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,DEN,"Denver, CO",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,ONT,"Ontario, CA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,LIH,"Lihue, HI",United States,SJC,"San Jose, CA",United States,True
+JetBlue Airways,JFK,"New York, NY",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,SJD,"San Jose del Cabo, Mexico",Mexico,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,DEN,"Denver, CO",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,MSP,"Minneapolis, MN",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,SLC,"Salt Lake City, UT",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,IAH,"Houston, TX",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,SAN,"San Diego, CA",United States,SJC,"San Jose, CA",United States,True
+JetBlue Airways,LAS,"Las Vegas, NV",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,MSP,"Minneapolis, MN",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,IAH,"Houston, TX",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,IAH,"Houston, TX",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,ABQ,"Albuquerque, NM",United States,SJC,"San Jose, CA",United States,True
+Sun Country Airlines d/b/a MN Airlines,TUS,"Tucson, AZ",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,SLC,"Salt Lake City, UT",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,SLC,"Salt Lake City, UT",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,AUS,"Austin, TX",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,MSP,"Minneapolis, MN",United States,SJC,"San Jose, CA",United States,True
+Sun Country Airlines d/b/a MN Airlines,LAR,"Laramie, WY",United States,SJC,"San Jose, CA",United States,True
+JetBlue Airways,ABQ,"Albuquerque, NM",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,SJD,"San Jose del Cabo, Mexico",Mexico,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,OGG,"Kahului, HI",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,DAL,"Dallas, TX",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,SJD,"San Jose del Cabo, Mexico",Mexico,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,SNA,"Santa Ana, CA",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,SAT,"San Antonio, TX",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,SLC,"Salt Lake City, UT",United States,SJC,"San Jose, CA",United States,True
+Allegiant Air,SLC,"Salt Lake City, UT",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+JetBlue Airways,DEN,"Denver, CO",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,STL,"St. Louis, MO",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,AUS,"Austin, TX",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,BOI,"Boise, ID",United States,SJC,"San Jose, CA",United States,True
+JetBlue Airways,RNO,"Reno, NV",United States,SJC,"San Jose, CA",United States,True
+American Airlines Inc.,DFW,"Dallas/Fort Worth, TX",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,SLC,"Salt Lake City, UT",United States,SJC,"San Jose, CA",United States,True
+Allegiant Air,AUS,"Austin, TX",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,PHX,"Phoenix, AZ",United States,SJC,"San Jose, CA",United States,True
+Sun Country Airlines d/b/a MN Airlines,SAT,"San Antonio, TX",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,EWR,"Newark, NJ",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,SLC,"Salt Lake City, UT",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,DEN,"Denver, CO",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,ONT,"Ontario, CA",United States,SJC,"San Jose, CA",United States,True
+Allegiant Air,LGU,"Logan, UT",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,EWR,"Newark, NJ",United States,SJC,"San Jose, CA",United States,True
+Hawaiian Airlines Inc.,HNL,"Honolulu, HI",United States,SJC,"San Jose, CA",United States,True
+National Air Cargo Group Inc d/ba National Airlines,TPA,"Tampa, FL",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,BUR,"Burbank, CA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,PHX,"Phoenix, AZ",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,BWI,"Baltimore, MD",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,DEN,"Denver, CO",United States,SJC,"San Jose, CA",United States,True
+JetBlue Airways,BUF,"Buffalo, NY",United States,SJC,"San Jose, CA",United States,True
+JetBlue Airways,BUF,"Buffalo, NY",United States,SJC,"San Jose, CA",United States,True
+Atlas Air Inc.,PHX,"Phoenix, AZ",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,DEN,"Denver, CO",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,MSP,"Minneapolis, MN",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,ATL,"Atlanta, GA",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,IAH,"Houston, TX",United States,SJC,"San Jose, CA",United States,True
+American Airlines Inc.,PHX,"Phoenix, AZ",United States,SJC,"San Jose, CA",United States,True
+Sun Country Airlines d/b/a MN Airlines,IFP,"Bullhead City, AZ",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,LAS,"Las Vegas, NV",United States,SJC,"San Jose, CA",United States,True
+American Airlines Inc.,MIA,"Miami, FL",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,ORD,"Chicago, IL",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,BUR,"Burbank, CA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,PDX,"Portland, OR",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,GDL,"Guadalajara, Mexico",Mexico,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,LGB,"Long Beach, CA",United States,SJC,"San Jose, CA",United States,True
+Horizon Air,BUR,"Burbank, CA",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,LWS,"Lewiston, ID",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,MSP,"Minneapolis, MN",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,BFI,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,DAL,"Dallas, TX",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,IAH,"Houston, TX",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,ORD,"Chicago, IL",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,PHX,"Phoenix, AZ",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,SJD,"San Jose del Cabo, Mexico",Mexico,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,LGB,"Long Beach, CA",United States,SJC,"San Jose, CA",United States,True
+American Airlines Inc.,ANC,"Anchorage, AK",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,MSP,"Minneapolis, MN",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,DEN,"Denver, CO",United States,SJC,"San Jose, CA",United States,True
+American Airlines Inc.,PHX,"Phoenix, AZ",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,LAS,"Las Vegas, NV",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,GDL,"Guadalajara, Mexico",Mexico,SJC,"San Jose, CA",United States,True
+American Airlines Inc.,DFW,"Dallas/Fort Worth, TX",United States,SJC,"San Jose, CA",United States,True
+Concesionaria Vuela Compania De Aviacion SA de CV (Volaris),TIJ,"Tijuana, Mexico",Mexico,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,ORD,"Chicago, IL",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,GDL,"Guadalajara, Mexico",Mexico,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,EWR,"Newark, NJ",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,PHX,"Phoenix, AZ",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,PDX,"Portland, OR",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,EWR,"Newark, NJ",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,BWI,"Baltimore, MD",United States,SJC,"San Jose, CA",United States,True
+Atlas Air Inc.,JAX,"Jacksonville, FL",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,ORD,"Chicago, IL",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,IAH,"Houston, TX",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,SLC,"Salt Lake City, UT",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,DEN,"Denver, CO",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,AUS,"Austin, TX",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,ORD,"Chicago, IL",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+Hawaiian Airlines Inc.,BWI,"Baltimore, MD",United States,SJC,"San Jose, CA",United States,True
+Air Canada,YYZ,"Toronto, Canada",Canada,SJC,"San Jose, CA",United States,True
+Hawaiian Airlines Inc.,OGG,"Kahului, HI",United States,SJC,"San Jose, CA",United States,True
+JetBlue Airways,SLC,"Salt Lake City, UT",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,BWI,"Baltimore, MD",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,PHL,"Philadelphia, PA",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,IND,"Indianapolis, IN",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,DEN,"Denver, CO",United States,SJC,"San Jose, CA",United States,True
+American Airlines Inc.,CLT,"Charlotte, NC",United States,SJC,"San Jose, CA",United States,True
+British Airways Plc,LHR,"London, United Kingdom",United Kingdom,SJC,"San Jose, CA",United States,True
+Compass Airlines,LAS,"Las Vegas, NV",United States,SJC,"San Jose, CA",United States,True
+JetBlue Airways,SLC,"Salt Lake City, UT",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,PDX,"Portland, OR",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+JetBlue Airways,SLC,"Salt Lake City, UT",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,ONT,"Ontario, CA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,BUR,"Burbank, CA",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,SLC,"Salt Lake City, UT",United States,SJC,"San Jose, CA",United States,True
+Air Canada,YYZ,"Toronto, Canada",Canada,SJC,"San Jose, CA",United States,True
+Horizon Air,SLC,"Salt Lake City, UT",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,IAH,"Houston, TX",United States,SJC,"San Jose, CA",United States,True
+JetBlue Airways,JFK,"New York, NY",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,EWR,"Newark, NJ",United States,SJC,"San Jose, CA",United States,True
+Hawaiian Airlines Inc.,OGG,"Kahului, HI",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,ATL,"Atlanta, GA",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,IAH,"Houston, TX",United States,SJC,"San Jose, CA",United States,True
+American Airlines Inc.,CLT,"Charlotte, NC",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,SJD,"San Jose del Cabo, Mexico",Mexico,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,BUR,"Burbank, CA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,AUS,"Austin, TX",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,KOA,"Kona, HI",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,PDX,"Portland, OR",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,SLC,"Salt Lake City, UT",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,SLC,"Salt Lake City, UT",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,ONT,"Ontario, CA",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,IAH,"Houston, TX",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,DEN,"Denver, CO",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,DEN,"Denver, CO",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,SJD,"San Jose del Cabo, Mexico",Mexico,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,ONT,"Ontario, CA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,DEN,"Denver, CO",United States,SJC,"San Jose, CA",United States,True
+JetBlue Airways,LAS,"Las Vegas, NV",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,SJD,"San Jose del Cabo, Mexico",Mexico,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,PDX,"Portland, OR",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,BUR,"Burbank, CA",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,SJD,"San Jose del Cabo, Mexico",Mexico,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+Delux Public Charter LLC,BUR,"Burbank, CA",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,ONT,"Ontario, CA",United States,SJC,"San Jose, CA",United States,True
+Hawaiian Airlines Inc.,HNL,"Honolulu, HI",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,OAK,"Oakland, CA",United States,SJC,"San Jose, CA",United States,True
+Hainan Airlines Company Limited,PEK,"Beijing, China",China,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,EWR,"Newark, NJ",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,SLC,"Salt Lake City, UT",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,EWR,"Newark, NJ",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,SJD,"San Jose del Cabo, Mexico",Mexico,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+Concesionaria Vuela Compania De Aviacion SA de CV (Volaris),ZCL,"Zacatecas, Mexico",Mexico,SJC,"San Jose, CA",United States,True
+American Airlines Inc.,DFW,"Dallas/Fort Worth, TX",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,SLC,"Salt Lake City, UT",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,SLC,"Salt Lake City, UT",United States,SJC,"San Jose, CA",United States,True
+Concesionaria Vuela Compania De Aviacion SA de CV (Volaris),GDL,"Guadalajara, Mexico",Mexico,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,SLC,"Salt Lake City, UT",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,MSP,"Minneapolis, MN",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,IAH,"Houston, TX",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,IAH,"Houston, TX",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,BUR,"Burbank, CA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,SLC,"Salt Lake City, UT",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,IAH,"Houston, TX",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,SLC,"Salt Lake City, UT",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,IAH,"Houston, TX",United States,SJC,"San Jose, CA",United States,True
+Hawaiian Airlines Inc.,HNL,"Honolulu, HI",United States,SJC,"San Jose, CA",United States,True
+JetBlue Airways,SLC,"Salt Lake City, UT",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,ORD,"Chicago, IL",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,DEN,"Denver, CO",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,PHX,"Phoenix, AZ",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,EWR,"Newark, NJ",United States,SJC,"San Jose, CA",United States,True
+Sun Country Airlines d/b/a MN Airlines,IFP,"Bullhead City, AZ",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,DEN,"Denver, CO",United States,SJC,"San Jose, CA",United States,True
+JetBlue Airways,ABQ,"Albuquerque, NM",United States,SJC,"San Jose, CA",United States,True
+All Nippon Airways Co.,NRT,"Tokyo, Japan",Japan,SJC,"San Jose, CA",United States,True
+Frontier Airlines Inc.,DEN,"Denver, CO",United States,SJC,"San Jose, CA",United States,True
+JetBlue Airways,SLC,"Salt Lake City, UT",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,KOA,"Kona, HI",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,BUR,"Burbank, CA",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,KOA,"Kona, HI",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,EWR,"Newark, NJ",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,PDX,"Portland, OR",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,GDL,"Guadalajara, Mexico",Mexico,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,SLC,"Salt Lake City, UT",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,GDL,"Guadalajara, Mexico",Mexico,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,DEN,"Denver, CO",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,EWR,"Newark, NJ",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,MDW,"Chicago, IL",United States,SJC,"San Jose, CA",United States,True
+Compass Airlines,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,SLC,"Salt Lake City, UT",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,IAH,"Houston, TX",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,DAL,"Dallas, TX",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,DEN,"Denver, CO",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,ORD,"Chicago, IL",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,DEN,"Denver, CO",United States,SJC,"San Jose, CA",United States,True
+JetBlue Airways,SLC,"Salt Lake City, UT",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,OAK,"Oakland, CA",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,DEN,"Denver, CO",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,PDX,"Portland, OR",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,GDL,"Guadalajara, Mexico",Mexico,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,GDL,"Guadalajara, Mexico",Mexico,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,GDL,"Guadalajara, Mexico",Mexico,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,ORD,"Chicago, IL",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,ONT,"Ontario, CA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,AUS,"Austin, TX",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,GDL,"Guadalajara, Mexico",Mexico,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,LAS,"Las Vegas, NV",United States,SJC,"San Jose, CA",United States,True
+Horizon Air,BUR,"Burbank, CA",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,IAH,"Houston, TX",United States,SJC,"San Jose, CA",United States,True
+JetBlue Airways,JFK,"New York, NY",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,MSP,"Minneapolis, MN",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,LAS,"Las Vegas, NV",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,EWR,"Newark, NJ",United States,SJC,"San Jose, CA",United States,True
+JetBlue Airways,DEN,"Denver, CO",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,ONT,"Ontario, CA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,BOI,"Boise, ID",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,AUS,"Austin, TX",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,SLC,"Salt Lake City, UT",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,PHX,"Phoenix, AZ",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,PDX,"Portland, OR",United States,SJC,"San Jose, CA",United States,True
+Compass Airlines,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+JetBlue Airways,SLC,"Salt Lake City, UT",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,PDX,"Portland, OR",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,KOA,"Kona, HI",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,PDX,"Portland, OR",United States,SJC,"San Jose, CA",United States,True
+American Airlines Inc.,PHX,"Phoenix, AZ",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,DEN,"Denver, CO",United States,SJC,"San Jose, CA",United States,True
+Compass Airlines,LAS,"Las Vegas, NV",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+JetBlue Airways,JFK,"New York, NY",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,IAH,"Houston, TX",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,BUR,"Burbank, CA",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,PDX,"Portland, OR",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,DEN,"Denver, CO",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,PDX,"Portland, OR",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,IAH,"Houston, TX",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,PDX,"Portland, OR",United States,SJC,"San Jose, CA",United States,True
+Hainan Airlines Company Limited,PEK,"Beijing, China",China,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+Compass Airlines,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,PDX,"Portland, OR",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,BUR,"Burbank, CA",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,GDL,"Guadalajara, Mexico",Mexico,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,EWR,"Newark, NJ",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,SJD,"San Jose del Cabo, Mexico",Mexico,SJC,"San Jose, CA",United States,True
+Compass Airlines,LAS,"Las Vegas, NV",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,SJD,"San Jose del Cabo, Mexico",Mexico,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,MDW,"Chicago, IL",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,ORD,"Chicago, IL",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,ATL,"Atlanta, GA",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,SLC,"Salt Lake City, UT",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,SLC,"Salt Lake City, UT",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,BOI,"Boise, ID",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,BOI,"Boise, ID",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,PDX,"Portland, OR",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,ONT,"Ontario, CA",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,DEN,"Denver, CO",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,SJD,"San Jose del Cabo, Mexico",Mexico,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,SJD,"San Jose del Cabo, Mexico",Mexico,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,EWR,"Newark, NJ",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+Compass Airlines,LAS,"Las Vegas, NV",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,AUS,"Austin, TX",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,SJD,"San Jose del Cabo, Mexico",Mexico,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,GDL,"Guadalajara, Mexico",Mexico,SJC,"San Jose, CA",United States,True
+Compass Airlines,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,LAS,"Las Vegas, NV",United States,SJC,"San Jose, CA",United States,True
+American Airlines Inc.,PHX,"Phoenix, AZ",United States,SJC,"San Jose, CA",United States,True
+American Airlines Inc.,PHX,"Phoenix, AZ",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,DAL,"Dallas, TX",United States,SJC,"San Jose, CA",United States,True
+Compass Airlines,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+Hainan Airlines Company Limited,PEK,"Beijing, China",China,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,SLC,"Salt Lake City, UT",United States,SJC,"San Jose, CA",United States,True
+American Airlines Inc.,CLT,"Charlotte, NC",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,IAH,"Houston, TX",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,MSP,"Minneapolis, MN",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,SLC,"Salt Lake City, UT",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,BOI,"Boise, ID",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,SJD,"San Jose del Cabo, Mexico",Mexico,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,GDL,"Guadalajara, Mexico",Mexico,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,IAH,"Houston, TX",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,SJD,"San Jose del Cabo, Mexico",Mexico,SJC,"San Jose, CA",United States,True
+Hainan Airlines Company Limited,PEK,"Beijing, China",China,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,BOI,"Boise, ID",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,PDX,"Portland, OR",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,EWR,"Newark, NJ",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,ONT,"Ontario, CA",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,GDL,"Guadalajara, Mexico",Mexico,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,EWR,"Newark, NJ",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,SJD,"San Jose del Cabo, Mexico",Mexico,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,DEN,"Denver, CO",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,ONT,"Ontario, CA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,MDW,"Chicago, IL",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,KOA,"Kona, HI",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,SAN,"San Diego, CA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,SAN,"San Diego, CA",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,HNL,"Honolulu, HI",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,SLC,"Salt Lake City, UT",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,DAL,"Dallas, TX",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,DEN,"Denver, CO",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,DEN,"Denver, CO",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,SJD,"San Jose del Cabo, Mexico",Mexico,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,SJD,"San Jose del Cabo, Mexico",Mexico,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,ATL,"Atlanta, GA",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,IAH,"Houston, TX",United States,SJC,"San Jose, CA",United States,True
+Delux Public Charter LLC,BUR,"Burbank, CA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,SLC,"Salt Lake City, UT",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,ORD,"Chicago, IL",United States,SJC,"San Jose, CA",United States,True
+Delux Public Charter LLC,BUR,"Burbank, CA",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,EWR,"Newark, NJ",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,LAS,"Las Vegas, NV",United States,SJC,"San Jose, CA",United States,True
+JetBlue Airways,SLC,"Salt Lake City, UT",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,MDW,"Chicago, IL",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,SLC,"Salt Lake City, UT",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,PHX,"Phoenix, AZ",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,DAL,"Dallas, TX",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,GDL,"Guadalajara, Mexico",Mexico,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,DEN,"Denver, CO",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,DEN,"Denver, CO",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,PHX,"Phoenix, AZ",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,DAL,"Dallas, TX",United States,SJC,"San Jose, CA",United States,True
+Delux Public Charter LLC,BUR,"Burbank, CA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,BWI,"Baltimore, MD",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,DEN,"Denver, CO",United States,SJC,"San Jose, CA",United States,True
+Concesionaria Vuela Compania De Aviacion SA de CV (Volaris),MLM,"Morelia, Mexico",Mexico,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,GDL,"Guadalajara, Mexico",Mexico,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,SAN,"San Diego, CA",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,SLC,"Salt Lake City, UT",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,GDL,"Guadalajara, Mexico",Mexico,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,PHX,"Phoenix, AZ",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,EWR,"Newark, NJ",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,EWR,"Newark, NJ",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,BUR,"Burbank, CA",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,ORD,"Chicago, IL",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,MDW,"Chicago, IL",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+Hawaiian Airlines Inc.,HNL,"Honolulu, HI",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,IAH,"Houston, TX",United States,SJC,"San Jose, CA",United States,True
+Compass Airlines,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,MSP,"Minneapolis, MN",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,SLC,"Salt Lake City, UT",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,KOA,"Kona, HI",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,MDW,"Chicago, IL",United States,SJC,"San Jose, CA",United States,True
+Hainan Airlines Company Limited,PEK,"Beijing, China",China,SJC,"San Jose, CA",United States,True
+Horizon Air,SLC,"Salt Lake City, UT",United States,SJC,"San Jose, CA",United States,True
+Jazz Aviation LP,YVR,"Vancouver, Canada",Canada,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,SLC,"Salt Lake City, UT",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,ORD,"Chicago, IL",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,PDX,"Portland, OR",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,SLC,"Salt Lake City, UT",United States,SJC,"San Jose, CA",United States,True
+Jazz Aviation LP,YVR,"Vancouver, Canada",Canada,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,PDX,"Portland, OR",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,LAS,"Las Vegas, NV",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,SJD,"San Jose del Cabo, Mexico",Mexico,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,EWR,"Newark, NJ",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,PHX,"Phoenix, AZ",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,ORD,"Chicago, IL",United States,SJC,"San Jose, CA",United States,True
+Hainan Airlines Company Limited,PEK,"Beijing, China",China,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,DEN,"Denver, CO",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,DEN,"Denver, CO",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,ORD,"Chicago, IL",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,BWI,"Baltimore, MD",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,DEN,"Denver, CO",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,HNL,"Honolulu, HI",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,PDX,"Portland, OR",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,EWR,"Newark, NJ",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,ONT,"Ontario, CA",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,MSP,"Minneapolis, MN",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+Horizon Air,BUR,"Burbank, CA",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,GDL,"Guadalajara, Mexico",Mexico,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,PDX,"Portland, OR",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,SJD,"San Jose del Cabo, Mexico",Mexico,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,SAN,"San Diego, CA",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,ORD,"Chicago, IL",United States,SJC,"San Jose, CA",United States,True
+Horizon Air,BUR,"Burbank, CA",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,SJD,"San Jose del Cabo, Mexico",Mexico,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,DEN,"Denver, CO",United States,SJC,"San Jose, CA",United States,True
+American Airlines Inc.,DFW,"Dallas/Fort Worth, TX",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,LAS,"Las Vegas, NV",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,EWR,"Newark, NJ",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,EWR,"Newark, NJ",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,PDX,"Portland, OR",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,LAS,"Las Vegas, NV",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,SAN,"San Diego, CA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,DAL,"Dallas, TX",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,SAN,"San Diego, CA",United States,SJC,"San Jose, CA",United States,True
+Compass Airlines,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,IAH,"Houston, TX",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,SLC,"Salt Lake City, UT",United States,SJC,"San Jose, CA",United States,True
+Horizon Air,BUR,"Burbank, CA",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,LAS,"Las Vegas, NV",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,DEN,"Denver, CO",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,ORD,"Chicago, IL",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,EWR,"Newark, NJ",United States,SJC,"San Jose, CA",United States,True
+Jazz Aviation LP,YVR,"Vancouver, Canada",Canada,SJC,"San Jose, CA",United States,True
+Hainan Airlines Company Limited,PEK,"Beijing, China",China,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,ATL,"Atlanta, GA",United States,SJC,"San Jose, CA",United States,True
+Horizon Air,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,BWI,"Baltimore, MD",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,KOA,"Kona, HI",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,ATL,"Atlanta, GA",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,ORD,"Chicago, IL",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,SLC,"Salt Lake City, UT",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,EWR,"Newark, NJ",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,SLC,"Salt Lake City, UT",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,HNL,"Honolulu, HI",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,DEN,"Denver, CO",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,SJD,"San Jose del Cabo, Mexico",Mexico,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,DEN,"Denver, CO",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,SAN,"San Diego, CA",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,DEN,"Denver, CO",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,SAN,"San Diego, CA",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,PDX,"Portland, OR",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,SJD,"San Jose del Cabo, Mexico",Mexico,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,HNL,"Honolulu, HI",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,LAS,"Las Vegas, NV",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,ORD,"Chicago, IL",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,DEN,"Denver, CO",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,IAH,"Houston, TX",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,IAH,"Houston, TX",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,MSP,"Minneapolis, MN",United States,SJC,"San Jose, CA",United States,True
+Jazz Aviation LP,YVR,"Vancouver, Canada",Canada,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,IAH,"Houston, TX",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,PDX,"Portland, OR",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,DEN,"Denver, CO",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,IAH,"Houston, TX",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,PHX,"Phoenix, AZ",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,ORD,"Chicago, IL",United States,SJC,"San Jose, CA",United States,True
+Hainan Airlines Company Limited,PEK,"Beijing, China",China,SJC,"San Jose, CA",United States,True
+Horizon Air,SLC,"Salt Lake City, UT",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,KOA,"Kona, HI",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,ORD,"Chicago, IL",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,TUS,"Tucson, AZ",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,SJD,"San Jose del Cabo, Mexico",Mexico,SJC,"San Jose, CA",United States,True
+Hainan Airlines Company Limited,PEK,"Beijing, China",China,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+Hainan Airlines Company Limited,PEK,"Beijing, China",China,SJC,"San Jose, CA",United States,True
+Horizon Air,EUG,"Eugene, OR",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,PHX,"Phoenix, AZ",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,ORD,"Chicago, IL",United States,SJC,"San Jose, CA",United States,True
+Air China,PVG,"Shanghai, China",China,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,ORD,"Chicago, IL",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,SJD,"San Jose del Cabo, Mexico",Mexico,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,AUS,"Austin, TX",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,IAH,"Houston, TX",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+Jazz Aviation LP,YVR,"Vancouver, Canada",Canada,SJC,"San Jose, CA",United States,True
+Compass Airlines,SLC,"Salt Lake City, UT",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,SAN,"San Diego, CA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,LAS,"Las Vegas, NV",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,SJD,"San Jose del Cabo, Mexico",Mexico,SJC,"San Jose, CA",United States,True
+Air China,PVG,"Shanghai, China",China,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,PHX,"Phoenix, AZ",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,BUR,"Burbank, CA",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,KOA,"Kona, HI",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,SAN,"San Diego, CA",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,SJD,"San Jose del Cabo, Mexico",Mexico,SJC,"San Jose, CA",United States,True
+Horizon Air,EUG,"Eugene, OR",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,IAH,"Houston, TX",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,KOA,"Kona, HI",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,PHX,"Phoenix, AZ",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,SAN,"San Diego, CA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,MDW,"Chicago, IL",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,DEN,"Denver, CO",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,LAS,"Las Vegas, NV",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,EWR,"Newark, NJ",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,SLC,"Salt Lake City, UT",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,SJD,"San Jose del Cabo, Mexico",Mexico,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+Horizon Air,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,IAH,"Houston, TX",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,PHX,"Phoenix, AZ",United States,SJC,"San Jose, CA",United States,True
+Horizon Air,EUG,"Eugene, OR",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,ATL,"Atlanta, GA",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+Horizon Air,EUG,"Eugene, OR",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,PDX,"Portland, OR",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,RNO,"Reno, NV",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,KOA,"Kona, HI",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,ORD,"Chicago, IL",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,ORD,"Chicago, IL",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,HNL,"Honolulu, HI",United States,SJC,"San Jose, CA",United States,True
+Horizon Air,EUG,"Eugene, OR",United States,SJC,"San Jose, CA",United States,True
+Horizon Air,BOI,"Boise, ID",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,EWR,"Newark, NJ",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+Horizon Air,EUG,"Eugene, OR",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,DEN,"Denver, CO",United States,SJC,"San Jose, CA",United States,True
+Horizon Air,BOI,"Boise, ID",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,LAS,"Las Vegas, NV",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,EWR,"Newark, NJ",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,PDX,"Portland, OR",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,KOA,"Kona, HI",United States,SJC,"San Jose, CA",United States,True
+Horizon Air,SLC,"Salt Lake City, UT",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,DEN,"Denver, CO",United States,SJC,"San Jose, CA",United States,True
+Horizon Air,BOI,"Boise, ID",United States,SJC,"San Jose, CA",United States,True
+Horizon Air,EUG,"Eugene, OR",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,KOA,"Kona, HI",United States,SJC,"San Jose, CA",United States,True
+Horizon Air,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,PDX,"Portland, OR",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+Jazz Aviation LP,YVR,"Vancouver, Canada",Canada,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,TUS,"Tucson, AZ",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,ORD,"Chicago, IL",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,EWR,"Newark, NJ",United States,SJC,"San Jose, CA",United States,True
+Hainan Airlines Company Limited,PEK,"Beijing, China",China,SJC,"San Jose, CA",United States,True
+Hainan Airlines Company Limited,PEK,"Beijing, China",China,SJC,"San Jose, CA",United States,True
+American Airlines Inc.,CLT,"Charlotte, NC",United States,SJC,"San Jose, CA",United States,True
+Horizon Air,EUG,"Eugene, OR",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,DEN,"Denver, CO",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,DEN,"Denver, CO",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,ORD,"Chicago, IL",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,EWR,"Newark, NJ",United States,SJC,"San Jose, CA",United States,True
+Horizon Air,EUG,"Eugene, OR",United States,SJC,"San Jose, CA",United States,True
+Lufthansa German Airlines,FRA,"Frankfurt, Germany",Germany,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,HNL,"Honolulu, HI",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,KOA,"Kona, HI",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,KOA,"Kona, HI",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,SJD,"San Jose del Cabo, Mexico",Mexico,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,PDX,"Portland, OR",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,TUS,"Tucson, AZ",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,HNL,"Honolulu, HI",United States,SJC,"San Jose, CA",United States,True
+Horizon Air,PDX,"Portland, OR",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,IAH,"Houston, TX",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,KOA,"Kona, HI",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,TUS,"Tucson, AZ",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,KOA,"Kona, HI",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,AUS,"Austin, TX",United States,SJC,"San Jose, CA",United States,True
+JetBlue Airways,JFK,"New York, NY",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,LIH,"Lihue, HI",United States,SJC,"San Jose, CA",United States,True
+Horizon Air,BOI,"Boise, ID",United States,SJC,"San Jose, CA",United States,True
+Horizon Air,SLC,"Salt Lake City, UT",United States,SJC,"San Jose, CA",United States,True
+Air China,PVG,"Shanghai, China",China,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,GDL,"Guadalajara, Mexico",Mexico,SJC,"San Jose, CA",United States,True
+Horizon Air,SLC,"Salt Lake City, UT",United States,SJC,"San Jose, CA",United States,True
+Horizon Air,SLC,"Salt Lake City, UT",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,PDX,"Portland, OR",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,AUS,"Austin, TX",United States,SJC,"San Jose, CA",United States,True
+JetBlue Airways,JFK,"New York, NY",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+Horizon Air,BOI,"Boise, ID",United States,SJC,"San Jose, CA",United States,True
+Horizon Air,EUG,"Eugene, OR",United States,SJC,"San Jose, CA",United States,True
+Horizon Air,EUG,"Eugene, OR",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,RNO,"Reno, NV",United States,SJC,"San Jose, CA",United States,True
+Horizon Air,EUG,"Eugene, OR",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,KOA,"Kona, HI",United States,SJC,"San Jose, CA",United States,True
+Horizon Air,BOI,"Boise, ID",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,AUS,"Austin, TX",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,PDX,"Portland, OR",United States,SJC,"San Jose, CA",United States,True
+Horizon Air,BOI,"Boise, ID",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,AUS,"Austin, TX",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,SJD,"San Jose del Cabo, Mexico",Mexico,SJC,"San Jose, CA",United States,True
+Compass Airlines,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,DEN,"Denver, CO",United States,SJC,"San Jose, CA",United States,True
+Horizon Air,BOI,"Boise, ID",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,PDX,"Portland, OR",United States,SJC,"San Jose, CA",United States,True
+Horizon Air,SLC,"Salt Lake City, UT",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,EWR,"Newark, NJ",United States,SJC,"San Jose, CA",United States,True
+Horizon Air,BOI,"Boise, ID",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,MDW,"Chicago, IL",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,AUS,"Austin, TX",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,MSP,"Minneapolis, MN",United States,SJC,"San Jose, CA",United States,True
+Horizon Air,BOI,"Boise, ID",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,SJD,"San Jose del Cabo, Mexico",Mexico,SJC,"San Jose, CA",United States,True
+Air China,PVG,"Shanghai, China",China,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,HNL,"Honolulu, HI",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,HNL,"Honolulu, HI",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,BWI,"Baltimore, MD",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+Horizon Air,BOI,"Boise, ID",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,PDX,"Portland, OR",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,HNL,"Honolulu, HI",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,DEN,"Denver, CO",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,PDX,"Portland, OR",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,EWR,"Newark, NJ",United States,SJC,"San Jose, CA",United States,True
+Horizon Air,BOI,"Boise, ID",United States,SJC,"San Jose, CA",United States,True
+Air China,PVG,"Shanghai, China",China,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,SLC,"Salt Lake City, UT",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,DEN,"Denver, CO",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,OGG,"Kahului, HI",United States,SJC,"San Jose, CA",United States,True
+Horizon Air,PDX,"Portland, OR",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,AUS,"Austin, TX",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,HNL,"Honolulu, HI",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,IAH,"Houston, TX",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,MDW,"Chicago, IL",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,IAH,"Houston, TX",United States,SJC,"San Jose, CA",United States,True
+Hainan Airlines Company Limited,PEK,"Beijing, China",China,SJC,"San Jose, CA",United States,True
+JetBlue Airways,JFK,"New York, NY",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,PDX,"Portland, OR",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,GDL,"Guadalajara, Mexico",Mexico,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,SLC,"Salt Lake City, UT",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,DEN,"Denver, CO",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,LIH,"Lihue, HI",United States,SJC,"San Jose, CA",United States,True
+Air China,PVG,"Shanghai, China",China,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,EWR,"Newark, NJ",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,EWR,"Newark, NJ",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,LIH,"Lihue, HI",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,LIH,"Lihue, HI",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,IAH,"Houston, TX",United States,SJC,"San Jose, CA",United States,True
+American Airlines Inc.,PHX,"Phoenix, AZ",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,ORD,"Chicago, IL",United States,SJC,"San Jose, CA",United States,True
+Hainan Airlines Company Limited,PEK,"Beijing, China",China,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,LIH,"Lihue, HI",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,LAS,"Las Vegas, NV",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,BUR,"Burbank, CA",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,DEN,"Denver, CO",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,RNO,"Reno, NV",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,SJD,"San Jose del Cabo, Mexico",Mexico,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,SLC,"Salt Lake City, UT",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,SAN,"San Diego, CA",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,LIH,"Lihue, HI",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,BUR,"Burbank, CA",United States,SJC,"San Jose, CA",United States,True
+Aeromexico,GDL,"Guadalajara, Mexico",Mexico,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,DEN,"Denver, CO",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,LIH,"Lihue, HI",United States,SJC,"San Jose, CA",United States,True
+Jazz Aviation LP,YVR,"Vancouver, Canada",Canada,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+Air China,PVG,"Shanghai, China",China,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,SJD,"San Jose del Cabo, Mexico",Mexico,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,OGG,"Kahului, HI",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,SJD,"San Jose del Cabo, Mexico",Mexico,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,DEN,"Denver, CO",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,DEN,"Denver, CO",United States,SJC,"San Jose, CA",United States,True
+JetBlue Airways,BOS,"Boston, MA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,ONT,"Ontario, CA",United States,SJC,"San Jose, CA",United States,True
+Jazz Aviation LP,YVR,"Vancouver, Canada",Canada,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,HNL,"Honolulu, HI",United States,SJC,"San Jose, CA",United States,True
+Frontier Airlines Inc.,LAS,"Las Vegas, NV",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,MSP,"Minneapolis, MN",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,PDX,"Portland, OR",United States,SJC,"San Jose, CA",United States,True
+Air China,PVG,"Shanghai, China",China,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,BWI,"Baltimore, MD",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,DEN,"Denver, CO",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,HNL,"Honolulu, HI",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,GDL,"Guadalajara, Mexico",Mexico,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,HNL,"Honolulu, HI",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,IAH,"Houston, TX",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,PDX,"Portland, OR",United States,SJC,"San Jose, CA",United States,True
+Frontier Airlines Inc.,LAS,"Las Vegas, NV",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,PDX,"Portland, OR",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,LIH,"Lihue, HI",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,SJD,"San Jose del Cabo, Mexico",Mexico,SJC,"San Jose, CA",United States,True
+JetBlue Airways,BOS,"Boston, MA",United States,SJC,"San Jose, CA",United States,True
+Air China,PVG,"Shanghai, China",China,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,LIH,"Lihue, HI",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,ATL,"Atlanta, GA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,PDX,"Portland, OR",United States,SJC,"San Jose, CA",United States,True
+JetBlue Airways,BOS,"Boston, MA",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,SJD,"San Jose del Cabo, Mexico",Mexico,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,LIH,"Lihue, HI",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,LIH,"Lihue, HI",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,LIH,"Lihue, HI",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,GDL,"Guadalajara, Mexico",Mexico,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,DEN,"Denver, CO",United States,SJC,"San Jose, CA",United States,True
+Air China,PVG,"Shanghai, China",China,SJC,"San Jose, CA",United States,True
+Compass Airlines,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+Hainan Airlines Company Limited,PEK,"Beijing, China",China,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,DEN,"Denver, CO",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,GDL,"Guadalajara, Mexico",Mexico,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,ORD,"Chicago, IL",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,RNO,"Reno, NV",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+JetBlue Airways,BOS,"Boston, MA",United States,SJC,"San Jose, CA",United States,True
+Air China,PVG,"Shanghai, China",China,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,DEN,"Denver, CO",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,SLC,"Salt Lake City, UT",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,SJD,"San Jose del Cabo, Mexico",Mexico,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,PDX,"Portland, OR",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,EWR,"Newark, NJ",United States,SJC,"San Jose, CA",United States,True
+American Airlines Inc.,PHX,"Phoenix, AZ",United States,SJC,"San Jose, CA",United States,True
+Horizon Air,RNO,"Reno, NV",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,EWR,"Newark, NJ",United States,SJC,"San Jose, CA",United States,True
+Concesionaria Vuela Compania De Aviacion SA de CV (Volaris),GDL,"Guadalajara, Mexico",Mexico,SJC,"San Jose, CA",United States,True
+Hainan Airlines Company Limited,PEK,"Beijing, China",China,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,PDX,"Portland, OR",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,PDX,"Portland, OR",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,ORD,"Chicago, IL",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,RNO,"Reno, NV",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,ORD,"Chicago, IL",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,SLC,"Salt Lake City, UT",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,OGG,"Kahului, HI",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,DEN,"Denver, CO",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,DEN,"Denver, CO",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,MDW,"Chicago, IL",United States,SJC,"San Jose, CA",United States,True
+Air China,PVG,"Shanghai, China",China,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,PDX,"Portland, OR",United States,SJC,"San Jose, CA",United States,True
+JetBlue Airways,BOS,"Boston, MA",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,DEN,"Denver, CO",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,MSP,"Minneapolis, MN",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,SLC,"Salt Lake City, UT",United States,SJC,"San Jose, CA",United States,True
+Aeromexico,GDL,"Guadalajara, Mexico",Mexico,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,DEN,"Denver, CO",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,GDL,"Guadalajara, Mexico",Mexico,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,EWR,"Newark, NJ",United States,SJC,"San Jose, CA",United States,True
+Aeromexico,GDL,"Guadalajara, Mexico",Mexico,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,SJD,"San Jose del Cabo, Mexico",Mexico,SJC,"San Jose, CA",United States,True
+JetBlue Airways,BOS,"Boston, MA",United States,SJC,"San Jose, CA",United States,True
+Horizon Air,RNO,"Reno, NV",United States,SJC,"San Jose, CA",United States,True
+JetBlue Airways,JFK,"New York, NY",United States,SJC,"San Jose, CA",United States,True
+American Airlines Inc.,CLT,"Charlotte, NC",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,MSP,"Minneapolis, MN",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,BUR,"Burbank, CA",United States,SJC,"San Jose, CA",United States,True
+JetBlue Airways,BOS,"Boston, MA",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,BUR,"Burbank, CA",United States,SJC,"San Jose, CA",United States,True
+American Airlines Inc.,PHX,"Phoenix, AZ",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,ORD,"Chicago, IL",United States,SJC,"San Jose, CA",United States,True
+Lufthansa German Airlines,FRA,"Frankfurt, Germany",Germany,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,HNL,"Honolulu, HI",United States,SJC,"San Jose, CA",United States,True
+Lufthansa German Airlines,FRA,"Frankfurt, Germany",Germany,SJC,"San Jose, CA",United States,True
+JetBlue Airways,JFK,"New York, NY",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,SLC,"Salt Lake City, UT",United States,SJC,"San Jose, CA",United States,True
+JetBlue Airways,JFK,"New York, NY",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,HNL,"Honolulu, HI",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,RNO,"Reno, NV",United States,SJC,"San Jose, CA",United States,True
+JetBlue Airways,BOS,"Boston, MA",United States,SJC,"San Jose, CA",United States,True
+Horizon Air,RNO,"Reno, NV",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+American Airlines Inc.,PHX,"Phoenix, AZ",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+Horizon Air,RNO,"Reno, NV",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,SJD,"San Jose del Cabo, Mexico",Mexico,SJC,"San Jose, CA",United States,True
+American Airlines Inc.,CLT,"Charlotte, NC",United States,SJC,"San Jose, CA",United States,True
+British Airways Plc,LHR,"London, United Kingdom",United Kingdom,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,EWR,"Newark, NJ",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,ATL,"Atlanta, GA",United States,SJC,"San Jose, CA",United States,True
+Hainan Airlines Company Limited,PEK,"Beijing, China",China,SJC,"San Jose, CA",United States,True
+Jazz Aviation LP,YVR,"Vancouver, Canada",Canada,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,IAH,"Houston, TX",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,IAH,"Houston, TX",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,DEN,"Denver, CO",United States,SJC,"San Jose, CA",United States,True
+Horizon Air,RNO,"Reno, NV",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,DEN,"Denver, CO",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,EWR,"Newark, NJ",United States,SJC,"San Jose, CA",United States,True
+Aeromexico,GDL,"Guadalajara, Mexico",Mexico,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,ORD,"Chicago, IL",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,EWR,"Newark, NJ",United States,SJC,"San Jose, CA",United States,True
+Horizon Air,RNO,"Reno, NV",United States,SJC,"San Jose, CA",United States,True
+Jazz Aviation LP,YVR,"Vancouver, Canada",Canada,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,BWI,"Baltimore, MD",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,DEN,"Denver, CO",United States,SJC,"San Jose, CA",United States,True
+Horizon Air,RNO,"Reno, NV",United States,SJC,"San Jose, CA",United States,True
+American Airlines Inc.,PHX,"Phoenix, AZ",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,LAS,"Las Vegas, NV",United States,SJC,"San Jose, CA",United States,True
+American Airlines Inc.,DFW,"Dallas/Fort Worth, TX",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,ATL,"Atlanta, GA",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,PDX,"Portland, OR",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,DAL,"Dallas, TX",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,IAH,"Houston, TX",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,MSP,"Minneapolis, MN",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,OGG,"Kahului, HI",United States,SJC,"San Jose, CA",United States,True
+Compass Airlines,LAS,"Las Vegas, NV",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,DEN,"Denver, CO",United States,SJC,"San Jose, CA",United States,True
+Horizon Air,RNO,"Reno, NV",United States,SJC,"San Jose, CA",United States,True
+American Airlines Inc.,CLT,"Charlotte, NC",United States,SJC,"San Jose, CA",United States,True
+JetBlue Airways,JFK,"New York, NY",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,PDX,"Portland, OR",United States,SJC,"San Jose, CA",United States,True
+Concesionaria Vuela Compania De Aviacion SA de CV (Volaris),GDL,"Guadalajara, Mexico",Mexico,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,DEN,"Denver, CO",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,DEN,"Denver, CO",United States,SJC,"San Jose, CA",United States,True
+JetBlue Airways,JFK,"New York, NY",United States,SJC,"San Jose, CA",United States,True
+JetBlue Airways,BOS,"Boston, MA",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,ORD,"Chicago, IL",United States,SJC,"San Jose, CA",United States,True
+Hainan Airlines Company Limited,PEK,"Beijing, China",China,SJC,"San Jose, CA",United States,True
+Lufthansa German Airlines,FRA,"Frankfurt, Germany",Germany,SJC,"San Jose, CA",United States,True
+JetBlue Airways,BOS,"Boston, MA",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,PDX,"Portland, OR",United States,SJC,"San Jose, CA",United States,True
+American Airlines Inc.,PHX,"Phoenix, AZ",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,GDL,"Guadalajara, Mexico",Mexico,SJC,"San Jose, CA",United States,True
+Hainan Airlines Company Limited,PEK,"Beijing, China",China,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,BWI,"Baltimore, MD",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,GDL,"Guadalajara, Mexico",Mexico,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,MDW,"Chicago, IL",United States,SJC,"San Jose, CA",United States,True
+Horizon Air,RNO,"Reno, NV",United States,SJC,"San Jose, CA",United States,True
+Horizon Air,RNO,"Reno, NV",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,MDW,"Chicago, IL",United States,SJC,"San Jose, CA",United States,True
+Concesionaria Vuela Compania De Aviacion SA de CV (Volaris),GDL,"Guadalajara, Mexico",Mexico,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,BUR,"Burbank, CA",United States,SJC,"San Jose, CA",United States,True
+Horizon Air,RNO,"Reno, NV",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,MSP,"Minneapolis, MN",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,DEN,"Denver, CO",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,BUR,"Burbank, CA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,AUS,"Austin, TX",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,DEN,"Denver, CO",United States,SJC,"San Jose, CA",United States,True
+Hainan Airlines Company Limited,PEK,"Beijing, China",China,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,PDX,"Portland, OR",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,OGG,"Kahului, HI",United States,SJC,"San Jose, CA",United States,True
+Hainan Airlines Company Limited,PEK,"Beijing, China",China,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,BUR,"Burbank, CA",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,DEN,"Denver, CO",United States,SJC,"San Jose, CA",United States,True
+Horizon Air,RNO,"Reno, NV",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,BUR,"Burbank, CA",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,ATL,"Atlanta, GA",United States,SJC,"San Jose, CA",United States,True
+American Airlines Inc.,CLT,"Charlotte, NC",United States,SJC,"San Jose, CA",United States,True
+Concesionaria Vuela Compania De Aviacion SA de CV (Volaris),GDL,"Guadalajara, Mexico",Mexico,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,MDW,"Chicago, IL",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,LAS,"Las Vegas, NV",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,ATL,"Atlanta, GA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,BWI,"Baltimore, MD",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,PHX,"Phoenix, AZ",United States,SJC,"San Jose, CA",United States,True
+Jazz Aviation LP,YVR,"Vancouver, Canada",Canada,SJC,"San Jose, CA",United States,True
+Jazz Aviation LP,YVR,"Vancouver, Canada",Canada,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,MDW,"Chicago, IL",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,OGG,"Kahului, HI",United States,SJC,"San Jose, CA",United States,True
+Jazz Aviation LP,YVR,"Vancouver, Canada",Canada,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,EWR,"Newark, NJ",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,EWR,"Newark, NJ",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,MDW,"Chicago, IL",United States,SJC,"San Jose, CA",United States,True
+Compass Airlines,LAS,"Las Vegas, NV",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,BUR,"Burbank, CA",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,PDX,"Portland, OR",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,DAL,"Dallas, TX",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,SLC,"Salt Lake City, UT",United States,SJC,"San Jose, CA",United States,True
+All Nippon Airways Co.,NRT,"Tokyo, Japan",Japan,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,EWR,"Newark, NJ",United States,SJC,"San Jose, CA",United States,True
+American Airlines Inc.,DFW,"Dallas/Fort Worth, TX",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,MDW,"Chicago, IL",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,PDX,"Portland, OR",United States,SJC,"San Jose, CA",United States,True
+Frontier Airlines Inc.,DEN,"Denver, CO",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,GDL,"Guadalajara, Mexico",Mexico,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,HNL,"Honolulu, HI",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,DEN,"Denver, CO",United States,SJC,"San Jose, CA",United States,True
+JetBlue Airways,JFK,"New York, NY",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,EWR,"Newark, NJ",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,DEN,"Denver, CO",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,SLC,"Salt Lake City, UT",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,EWR,"Newark, NJ",United States,SJC,"San Jose, CA",United States,True
+All Nippon Airways Co.,NRT,"Tokyo, Japan",Japan,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+JetBlue Airways,JFK,"New York, NY",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,DAL,"Dallas, TX",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,OGG,"Kahului, HI",United States,SJC,"San Jose, CA",United States,True
+British Airways Plc,LHR,"London, United Kingdom",United Kingdom,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,PDX,"Portland, OR",United States,SJC,"San Jose, CA",United States,True
+American Airlines Inc.,PHX,"Phoenix, AZ",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,ORD,"Chicago, IL",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,BWI,"Baltimore, MD",United States,SJC,"San Jose, CA",United States,True
+British Airways Plc,LHR,"London, United Kingdom",United Kingdom,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,LAS,"Las Vegas, NV",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,BWI,"Baltimore, MD",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,DAL,"Dallas, TX",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,BWI,"Baltimore, MD",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,PDX,"Portland, OR",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,EWR,"Newark, NJ",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+American Airlines Inc.,CLT,"Charlotte, NC",United States,SJC,"San Jose, CA",United States,True
+All Nippon Airways Co.,NRT,"Tokyo, Japan",Japan,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,SLC,"Salt Lake City, UT",United States,SJC,"San Jose, CA",United States,True
+All Nippon Airways Co.,NRT,"Tokyo, Japan",Japan,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,AUS,"Austin, TX",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,PHX,"Phoenix, AZ",United States,SJC,"San Jose, CA",United States,True
+American Airlines Inc.,PHX,"Phoenix, AZ",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,BWI,"Baltimore, MD",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,PDX,"Portland, OR",United States,SJC,"San Jose, CA",United States,True
+American Airlines Inc.,PHX,"Phoenix, AZ",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,ORD,"Chicago, IL",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,DAL,"Dallas, TX",United States,SJC,"San Jose, CA",United States,True
+All Nippon Airways Co.,NRT,"Tokyo, Japan",Japan,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,LAS,"Las Vegas, NV",United States,SJC,"San Jose, CA",United States,True
+American Airlines Inc.,DFW,"Dallas/Fort Worth, TX",United States,SJC,"San Jose, CA",United States,True
+Lufthansa German Airlines,FRA,"Frankfurt, Germany",Germany,SJC,"San Jose, CA",United States,True
+Frontier Airlines Inc.,DEN,"Denver, CO",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,BUR,"Burbank, CA",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,PDX,"Portland, OR",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,PDX,"Portland, OR",United States,SJC,"San Jose, CA",United States,True
+All Nippon Airways Co.,NRT,"Tokyo, Japan",Japan,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,PDX,"Portland, OR",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,PDX,"Portland, OR",United States,SJC,"San Jose, CA",United States,True
+British Airways Plc,LHR,"London, United Kingdom",United Kingdom,SJC,"San Jose, CA",United States,True
+All Nippon Airways Co.,NRT,"Tokyo, Japan",Japan,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,BWI,"Baltimore, MD",United States,SJC,"San Jose, CA",United States,True
+Compass Airlines,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+American Airlines Inc.,ORD,"Chicago, IL",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,GDL,"Guadalajara, Mexico",Mexico,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,DAL,"Dallas, TX",United States,SJC,"San Jose, CA",United States,True
+American Airlines Inc.,DFW,"Dallas/Fort Worth, TX",United States,SJC,"San Jose, CA",United States,True
+Jazz Aviation LP,YVR,"Vancouver, Canada",Canada,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,EWR,"Newark, NJ",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,SAN,"San Diego, CA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,MDW,"Chicago, IL",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,PHX,"Phoenix, AZ",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,MDW,"Chicago, IL",United States,SJC,"San Jose, CA",United States,True
+All Nippon Airways Co.,NRT,"Tokyo, Japan",Japan,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,AUS,"Austin, TX",United States,SJC,"San Jose, CA",United States,True
+Hainan Airlines Company Limited,PEK,"Beijing, China",China,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,ATL,"Atlanta, GA",United States,SJC,"San Jose, CA",United States,True
+All Nippon Airways Co.,NRT,"Tokyo, Japan",Japan,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,DAL,"Dallas, TX",United States,SJC,"San Jose, CA",United States,True
+JetBlue Airways,JFK,"New York, NY",United States,SJC,"San Jose, CA",United States,True
+American Airlines Inc.,PHX,"Phoenix, AZ",United States,SJC,"San Jose, CA",United States,True
+American Airlines Inc.,ORD,"Chicago, IL",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+British Airways Plc,LHR,"London, United Kingdom",United Kingdom,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,GDL,"Guadalajara, Mexico",Mexico,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,BUR,"Burbank, CA",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+Lufthansa German Airlines,FRA,"Frankfurt, Germany",Germany,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,DAL,"Dallas, TX",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,OGG,"Kahului, HI",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,SLC,"Salt Lake City, UT",United States,SJC,"San Jose, CA",United States,True
+American Airlines Inc.,ORD,"Chicago, IL",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,ATL,"Atlanta, GA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,BWI,"Baltimore, MD",United States,SJC,"San Jose, CA",United States,True
+JetBlue Airways,BOS,"Boston, MA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,AUS,"Austin, TX",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,LAS,"Las Vegas, NV",United States,SJC,"San Jose, CA",United States,True
+Frontier Airlines Inc.,DEN,"Denver, CO",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,OGG,"Kahului, HI",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,MDW,"Chicago, IL",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,BWI,"Baltimore, MD",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,PDX,"Portland, OR",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,DEN,"Denver, CO",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,DAL,"Dallas, TX",United States,SJC,"San Jose, CA",United States,True
+Jazz Aviation LP,YVR,"Vancouver, Canada",Canada,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,GDL,"Guadalajara, Mexico",Mexico,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,DEN,"Denver, CO",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,LAS,"Las Vegas, NV",United States,SJC,"San Jose, CA",United States,True
+Hawaiian Airlines Inc.,OGG,"Kahului, HI",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,LAS,"Las Vegas, NV",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,OGG,"Kahului, HI",United States,SJC,"San Jose, CA",United States,True
+Compass Airlines,LAS,"Las Vegas, NV",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,SNA,"Santa Ana, CA",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,AUS,"Austin, TX",United States,SJC,"San Jose, CA",United States,True
+JetBlue Airways,BOS,"Boston, MA",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,OGG,"Kahului, HI",United States,SJC,"San Jose, CA",United States,True
+Concesionaria Vuela Compania De Aviacion SA de CV (Volaris),GDL,"Guadalajara, Mexico",Mexico,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,SAN,"San Diego, CA",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,DEN,"Denver, CO",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,SAN,"San Diego, CA",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,PDX,"Portland, OR",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+All Nippon Airways Co.,NRT,"Tokyo, Japan",Japan,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,SNA,"Santa Ana, CA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,BWI,"Baltimore, MD",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,ATL,"Atlanta, GA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,DAL,"Dallas, TX",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,SNA,"Santa Ana, CA",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,DEN,"Denver, CO",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,IAH,"Houston, TX",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,SNA,"Santa Ana, CA",United States,SJC,"San Jose, CA",United States,True
+Hawaiian Airlines Inc.,HNL,"Honolulu, HI",United States,SJC,"San Jose, CA",United States,True
+All Nippon Airways Co.,NRT,"Tokyo, Japan",Japan,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,PDX,"Portland, OR",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,GDL,"Guadalajara, Mexico",Mexico,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,SLC,"Salt Lake City, UT",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,LAS,"Las Vegas, NV",United States,SJC,"San Jose, CA",United States,True
+Hawaiian Airlines Inc.,HNL,"Honolulu, HI",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,MDW,"Chicago, IL",United States,SJC,"San Jose, CA",United States,True
+Concesionaria Vuela Compania De Aviacion SA de CV (Volaris),GDL,"Guadalajara, Mexico",Mexico,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,OGG,"Kahului, HI",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,RNO,"Reno, NV",United States,SJC,"San Jose, CA",United States,True
+Concesionaria Vuela Compania De Aviacion SA de CV (Volaris),GDL,"Guadalajara, Mexico",Mexico,SJC,"San Jose, CA",United States,True
+American Airlines Inc.,PHX,"Phoenix, AZ",United States,SJC,"San Jose, CA",United States,True
+Jazz Aviation LP,YVR,"Vancouver, Canada",Canada,SJC,"San Jose, CA",United States,True
+All Nippon Airways Co.,NRT,"Tokyo, Japan",Japan,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,AUS,"Austin, TX",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,DAL,"Dallas, TX",United States,SJC,"San Jose, CA",United States,True
+American Airlines Inc.,PHX,"Phoenix, AZ",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,PDX,"Portland, OR",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,RNO,"Reno, NV",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,GDL,"Guadalajara, Mexico",Mexico,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,SLC,"Salt Lake City, UT",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,PDX,"Portland, OR",United States,SJC,"San Jose, CA",United States,True
+Lufthansa German Airlines,FRA,"Frankfurt, Germany",Germany,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,RNO,"Reno, NV",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,SLC,"Salt Lake City, UT",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,PDX,"Portland, OR",United States,SJC,"San Jose, CA",United States,True
+British Airways Plc,LHR,"London, United Kingdom",United Kingdom,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,ATL,"Atlanta, GA",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,SAN,"San Diego, CA",United States,SJC,"San Jose, CA",United States,True
+Aeromexico,GDL,"Guadalajara, Mexico",Mexico,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,DEN,"Denver, CO",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,SNA,"Santa Ana, CA",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+Concesionaria Vuela Compania De Aviacion SA de CV (Volaris),GDL,"Guadalajara, Mexico",Mexico,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,SNA,"Santa Ana, CA",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,SLC,"Salt Lake City, UT",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,DAL,"Dallas, TX",United States,SJC,"San Jose, CA",United States,True
+American Airlines Inc.,ORD,"Chicago, IL",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+Compass Airlines,LAS,"Las Vegas, NV",United States,SJC,"San Jose, CA",United States,True
+British Airways Plc,LHR,"London, United Kingdom",United Kingdom,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+Compass Airlines,LAS,"Las Vegas, NV",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,SNA,"Santa Ana, CA",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,SNA,"Santa Ana, CA",United States,SJC,"San Jose, CA",United States,True
+Hawaiian Airlines Inc.,OGG,"Kahului, HI",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,SAN,"San Diego, CA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,SLC,"Salt Lake City, UT",United States,SJC,"San Jose, CA",United States,True
+JetBlue Airways,JFK,"New York, NY",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,PDX,"Portland, OR",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,SAN,"San Diego, CA",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,DEN,"Denver, CO",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,SAN,"San Diego, CA",United States,SJC,"San Jose, CA",United States,True
+Concesionaria Vuela Compania De Aviacion SA de CV (Volaris),GDL,"Guadalajara, Mexico",Mexico,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,SLC,"Salt Lake City, UT",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,PDX,"Portland, OR",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,ATL,"Atlanta, GA",United States,SJC,"San Jose, CA",United States,True
+British Airways Plc,LHR,"London, United Kingdom",United Kingdom,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,ORD,"Chicago, IL",United States,SJC,"San Jose, CA",United States,True
+Jazz Aviation LP,YVR,"Vancouver, Canada",Canada,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+Hawaiian Airlines Inc.,OGG,"Kahului, HI",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,SNA,"Santa Ana, CA",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,SAN,"San Diego, CA",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,SAN,"San Diego, CA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,DEN,"Denver, CO",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+Lufthansa German Airlines,FRA,"Frankfurt, Germany",Germany,SJC,"San Jose, CA",United States,True
+Compass Airlines,LAS,"Las Vegas, NV",United States,SJC,"San Jose, CA",United States,True
+Jazz Aviation LP,YVR,"Vancouver, Canada",Canada,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,MSP,"Minneapolis, MN",United States,SJC,"San Jose, CA",United States,True
+Compass Airlines,LAS,"Las Vegas, NV",United States,SJC,"San Jose, CA",United States,True
+Compass Airlines,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,SLC,"Salt Lake City, UT",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,SLC,"Salt Lake City, UT",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,SNA,"Santa Ana, CA",United States,SJC,"San Jose, CA",United States,True
+Compass Airlines,LAS,"Las Vegas, NV",United States,SJC,"San Jose, CA",United States,True
+Concesionaria Vuela Compania De Aviacion SA de CV (Volaris),GDL,"Guadalajara, Mexico",Mexico,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,SLC,"Salt Lake City, UT",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,SNA,"Santa Ana, CA",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+JetBlue Airways,JFK,"New York, NY",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,SNA,"Santa Ana, CA",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,ORD,"Chicago, IL",United States,SJC,"San Jose, CA",United States,True
+Aeromexico,GDL,"Guadalajara, Mexico",Mexico,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,ORD,"Chicago, IL",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,PDX,"Portland, OR",United States,SJC,"San Jose, CA",United States,True
+British Airways Plc,LHR,"London, United Kingdom",United Kingdom,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,ATL,"Atlanta, GA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,AUS,"Austin, TX",United States,SJC,"San Jose, CA",United States,True
+Compass Airlines,LAS,"Las Vegas, NV",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,SAN,"San Diego, CA",United States,SJC,"San Jose, CA",United States,True
+Hawaiian Airlines Inc.,OGG,"Kahului, HI",United States,SJC,"San Jose, CA",United States,True
+Hawaiian Airlines Inc.,HNL,"Honolulu, HI",United States,SJC,"San Jose, CA",United States,True
+Lufthansa German Airlines,FRA,"Frankfurt, Germany",Germany,SJC,"San Jose, CA",United States,True
+Concesionaria Vuela Compania De Aviacion SA de CV (Volaris),GDL,"Guadalajara, Mexico",Mexico,SJC,"San Jose, CA",United States,True
+British Airways Plc,LHR,"London, United Kingdom",United Kingdom,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,AUS,"Austin, TX",United States,SJC,"San Jose, CA",United States,True
+Compass Airlines,LAS,"Las Vegas, NV",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,SAN,"San Diego, CA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,SLC,"Salt Lake City, UT",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,ATL,"Atlanta, GA",United States,SJC,"San Jose, CA",United States,True
+British Airways Plc,LHR,"London, United Kingdom",United Kingdom,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,PDX,"Portland, OR",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,AUS,"Austin, TX",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,LAS,"Las Vegas, NV",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,SAN,"San Diego, CA",United States,SJC,"San Jose, CA",United States,True
+Hawaiian Airlines Inc.,OGG,"Kahului, HI",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,SAN,"San Diego, CA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,SLC,"Salt Lake City, UT",United States,SJC,"San Jose, CA",United States,True
+British Airways Plc,LHR,"London, United Kingdom",United Kingdom,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+Compass Airlines,LAS,"Las Vegas, NV",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,PDX,"Portland, OR",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,MSP,"Minneapolis, MN",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,PDX,"Portland, OR",United States,SJC,"San Jose, CA",United States,True
+Hawaiian Airlines Inc.,HNL,"Honolulu, HI",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,SLC,"Salt Lake City, UT",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,SAN,"San Diego, CA",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,DEN,"Denver, CO",United States,SJC,"San Jose, CA",United States,True
+Compass Airlines,LAS,"Las Vegas, NV",United States,SJC,"San Jose, CA",United States,True
+Compass Airlines,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,AUS,"Austin, TX",United States,SJC,"San Jose, CA",United States,True
+Hawaiian Airlines Inc.,OGG,"Kahului, HI",United States,SJC,"San Jose, CA",United States,True
+Hawaiian Airlines Inc.,HNL,"Honolulu, HI",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,PDX,"Portland, OR",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,SAN,"San Diego, CA",United States,SJC,"San Jose, CA",United States,True
+Compass Airlines,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,SLC,"Salt Lake City, UT",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,DEN,"Denver, CO",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,DEN,"Denver, CO",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,PDX,"Portland, OR",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,AUS,"Austin, TX",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,SAN,"San Diego, CA",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+Lufthansa German Airlines,FRA,"Frankfurt, Germany",Germany,SJC,"San Jose, CA",United States,True
+American Airlines Inc.,ORD,"Chicago, IL",United States,SJC,"San Jose, CA",United States,True
+American Airlines Inc.,PHX,"Phoenix, AZ",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,ATL,"Atlanta, GA",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,SLC,"Salt Lake City, UT",United States,SJC,"San Jose, CA",United States,True
+American Airlines Inc.,PHX,"Phoenix, AZ",United States,SJC,"San Jose, CA",United States,True
+American Airlines Inc.,PHX,"Phoenix, AZ",United States,SJC,"San Jose, CA",United States,True
+American Airlines Inc.,PHX,"Phoenix, AZ",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,SAN,"San Diego, CA",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+Hawaiian Airlines Inc.,HNL,"Honolulu, HI",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+Hawaiian Airlines Inc.,OGG,"Kahului, HI",United States,SJC,"San Jose, CA",United States,True
+American Airlines Inc.,PHX,"Phoenix, AZ",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,SAN,"San Diego, CA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,PHX,"Phoenix, AZ",United States,SJC,"San Jose, CA",United States,True
+Hawaiian Airlines Inc.,OGG,"Kahului, HI",United States,SJC,"San Jose, CA",United States,True
+American Airlines Inc.,PHX,"Phoenix, AZ",United States,SJC,"San Jose, CA",United States,True
+Hawaiian Airlines Inc.,OGG,"Kahului, HI",United States,SJC,"San Jose, CA",United States,True
+Compass Airlines,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,ATL,"Atlanta, GA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,AUS,"Austin, TX",United States,SJC,"San Jose, CA",United States,True
+SkyWest Airlines Inc.,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,ORD,"Chicago, IL",United States,SJC,"San Jose, CA",United States,True
+Compass Airlines,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+Hawaiian Airlines Inc.,HNL,"Honolulu, HI",United States,SJC,"San Jose, CA",United States,True
+Hawaiian Airlines Inc.,OGG,"Kahului, HI",United States,SJC,"San Jose, CA",United States,True
+Hawaiian Airlines Inc.,HNL,"Honolulu, HI",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,DEN,"Denver, CO",United States,SJC,"San Jose, CA",United States,True
+Hawaiian Airlines Inc.,HNL,"Honolulu, HI",United States,SJC,"San Jose, CA",United States,True
+Hawaiian Airlines Inc.,OGG,"Kahului, HI",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,AUS,"Austin, TX",United States,SJC,"San Jose, CA",United States,True
+Hawaiian Airlines Inc.,HNL,"Honolulu, HI",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,SLC,"Salt Lake City, UT",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,SAN,"San Diego, CA",United States,SJC,"San Jose, CA",United States,True
+Compass Airlines,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,DEN,"Denver, CO",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,PDX,"Portland, OR",United States,SJC,"San Jose, CA",United States,True
+American Airlines Inc.,PHX,"Phoenix, AZ",United States,SJC,"San Jose, CA",United States,True
+Hawaiian Airlines Inc.,OGG,"Kahului, HI",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+Hawaiian Airlines Inc.,HNL,"Honolulu, HI",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,DEN,"Denver, CO",United States,SJC,"San Jose, CA",United States,True
+Compass Airlines,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,PDX,"Portland, OR",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,MSP,"Minneapolis, MN",United States,SJC,"San Jose, CA",United States,True
+American Airlines Inc.,PHX,"Phoenix, AZ",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,DEN,"Denver, CO",United States,SJC,"San Jose, CA",United States,True
+American Airlines Inc.,PHX,"Phoenix, AZ",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,DEN,"Denver, CO",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,PHX,"Phoenix, AZ",United States,SJC,"San Jose, CA",United States,True
+American Airlines Inc.,ORD,"Chicago, IL",United States,SJC,"San Jose, CA",United States,True
+American Airlines Inc.,PHX,"Phoenix, AZ",United States,SJC,"San Jose, CA",United States,True
+Hawaiian Airlines Inc.,HNL,"Honolulu, HI",United States,SJC,"San Jose, CA",United States,True
+Concesionaria Vuela Compania De Aviacion SA de CV (Volaris),GDL,"Guadalajara, Mexico",Mexico,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,ATL,"Atlanta, GA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,AUS,"Austin, TX",United States,SJC,"San Jose, CA",United States,True
+American Airlines Inc.,ORD,"Chicago, IL",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,DEN,"Denver, CO",United States,SJC,"San Jose, CA",United States,True
+Compass Airlines,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,MSP,"Minneapolis, MN",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,PDX,"Portland, OR",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,SAN,"San Diego, CA",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,SLC,"Salt Lake City, UT",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,DEN,"Denver, CO",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,SLC,"Salt Lake City, UT",United States,SJC,"San Jose, CA",United States,True
+American Airlines Inc.,ORD,"Chicago, IL",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,SLC,"Salt Lake City, UT",United States,SJC,"San Jose, CA",United States,True
+American Airlines Inc.,PHX,"Phoenix, AZ",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,ATL,"Atlanta, GA",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,SLC,"Salt Lake City, UT",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,DEN,"Denver, CO",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,SLC,"Salt Lake City, UT",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,MSP,"Minneapolis, MN",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,PHX,"Phoenix, AZ",United States,SJC,"San Jose, CA",United States,True
+American Airlines Inc.,ORD,"Chicago, IL",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+United Air Lines Inc.,DEN,"Denver, CO",United States,SJC,"San Jose, CA",United States,True
+JetBlue Airways,LGB,"Long Beach, CA",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,ATL,"Atlanta, GA",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+American Airlines Inc.,PHX,"Phoenix, AZ",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,PDX,"Portland, OR",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,ATL,"Atlanta, GA",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,ATL,"Atlanta, GA",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,MSP,"Minneapolis, MN",United States,SJC,"San Jose, CA",United States,True
+JetBlue Airways,LGB,"Long Beach, CA",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,MSP,"Minneapolis, MN",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+American Airlines Inc.,PHX,"Phoenix, AZ",United States,SJC,"San Jose, CA",United States,True
+American Airlines Inc.,PHX,"Phoenix, AZ",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,ONT,"Ontario, CA",United States,SJC,"San Jose, CA",United States,True
+JetBlue Airways,LGB,"Long Beach, CA",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,SLC,"Salt Lake City, UT",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,PDX,"Portland, OR",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,ONT,"Ontario, CA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+JetBlue Airways,LGB,"Long Beach, CA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,PHX,"Phoenix, AZ",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,ONT,"Ontario, CA",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,SLC,"Salt Lake City, UT",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,SLC,"Salt Lake City, UT",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,ATL,"Atlanta, GA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,DEN,"Denver, CO",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,PDX,"Portland, OR",United States,SJC,"San Jose, CA",United States,True
+American Airlines Inc.,PHX,"Phoenix, AZ",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,SLC,"Salt Lake City, UT",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,PDX,"Portland, OR",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,PDX,"Portland, OR",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,PDX,"Portland, OR",United States,SJC,"San Jose, CA",United States,True
+JetBlue Airways,LGB,"Long Beach, CA",United States,SJC,"San Jose, CA",United States,True
+American Airlines Inc.,PHX,"Phoenix, AZ",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,ONT,"Ontario, CA",United States,SJC,"San Jose, CA",United States,True
+JetBlue Airways,LGB,"Long Beach, CA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+Compass Airlines,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,ONT,"Ontario, CA",United States,SJC,"San Jose, CA",United States,True
+American Airlines Inc.,PHX,"Phoenix, AZ",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,ONT,"Ontario, CA",United States,SJC,"San Jose, CA",United States,True
+American Airlines Inc.,ORD,"Chicago, IL",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,ONT,"Ontario, CA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,ONT,"Ontario, CA",United States,SJC,"San Jose, CA",United States,True
+American Airlines Inc.,PHX,"Phoenix, AZ",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,ONT,"Ontario, CA",United States,SJC,"San Jose, CA",United States,True
+JetBlue Airways,LGB,"Long Beach, CA",United States,SJC,"San Jose, CA",United States,True
+American Airlines Inc.,ORD,"Chicago, IL",United States,SJC,"San Jose, CA",United States,True
+JetBlue Airways,LGB,"Long Beach, CA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+JetBlue Airways,LGB,"Long Beach, CA",United States,SJC,"San Jose, CA",United States,True
+JetBlue Airways,LGB,"Long Beach, CA",United States,SJC,"San Jose, CA",United States,True
+American Airlines Inc.,ORD,"Chicago, IL",United States,SJC,"San Jose, CA",United States,True
+Delta Air Lines Inc.,SLC,"Salt Lake City, UT",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,PDX,"Portland, OR",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,PDX,"Portland, OR",United States,SJC,"San Jose, CA",United States,True
+Compass Airlines,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+JetBlue Airways,LGB,"Long Beach, CA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,PDX,"Portland, OR",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,ONT,"Ontario, CA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,DEN,"Denver, CO",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,DEN,"Denver, CO",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,PHX,"Phoenix, AZ",United States,SJC,"San Jose, CA",United States,True
+American Airlines Inc.,DFW,"Dallas/Fort Worth, TX",United States,SJC,"San Jose, CA",United States,True
+JetBlue Airways,LGB,"Long Beach, CA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,DEN,"Denver, CO",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,PHX,"Phoenix, AZ",United States,SJC,"San Jose, CA",United States,True
+Compass Airlines,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,DEN,"Denver, CO",United States,SJC,"San Jose, CA",United States,True
+Compass Airlines,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,PHX,"Phoenix, AZ",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,PDX,"Portland, OR",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,PHX,"Phoenix, AZ",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,ONT,"Ontario, CA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,PDX,"Portland, OR",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+American Airlines Inc.,DFW,"Dallas/Fort Worth, TX",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,PHX,"Phoenix, AZ",United States,SJC,"San Jose, CA",United States,True
+Compass Airlines,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,PHX,"Phoenix, AZ",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,DEN,"Denver, CO",United States,SJC,"San Jose, CA",United States,True
+Compass Airlines,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,BUR,"Burbank, CA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,PHX,"Phoenix, AZ",United States,SJC,"San Jose, CA",United States,True
+American Airlines Inc.,DFW,"Dallas/Fort Worth, TX",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,ONT,"Ontario, CA",United States,SJC,"San Jose, CA",United States,True
+American Airlines Inc.,DFW,"Dallas/Fort Worth, TX",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,PDX,"Portland, OR",United States,SJC,"San Jose, CA",United States,True
+American Airlines Inc.,DFW,"Dallas/Fort Worth, TX",United States,SJC,"San Jose, CA",United States,True
+Compass Airlines,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+American Airlines Inc.,DFW,"Dallas/Fort Worth, TX",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+American Airlines Inc.,DFW,"Dallas/Fort Worth, TX",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,PHX,"Phoenix, AZ",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,BUR,"Burbank, CA",United States,SJC,"San Jose, CA",United States,True
+American Airlines Inc.,DFW,"Dallas/Fort Worth, TX",United States,SJC,"San Jose, CA",United States,True
+Compass Airlines,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+American Airlines Inc.,DFW,"Dallas/Fort Worth, TX",United States,SJC,"San Jose, CA",United States,True
+Compass Airlines,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+Compass Airlines,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+American Airlines Inc.,DFW,"Dallas/Fort Worth, TX",United States,SJC,"San Jose, CA",United States,True
+American Airlines Inc.,DFW,"Dallas/Fort Worth, TX",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+American Airlines Inc.,DFW,"Dallas/Fort Worth, TX",United States,SJC,"San Jose, CA",United States,True
+Compass Airlines,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+Compass Airlines,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,PHX,"Phoenix, AZ",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,BUR,"Burbank, CA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,PHX,"Phoenix, AZ",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,BUR,"Burbank, CA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,BUR,"Burbank, CA",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+Alaska Airlines Inc.,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,BUR,"Burbank, CA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,LAS,"Las Vegas, NV",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,LAS,"Las Vegas, NV",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,BUR,"Burbank, CA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,BUR,"Burbank, CA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,BUR,"Burbank, CA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,LAS,"Las Vegas, NV",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,BUR,"Burbank, CA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,LAS,"Las Vegas, NV",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,LAS,"Las Vegas, NV",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,SNA,"Santa Ana, CA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,LAS,"Las Vegas, NV",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,LAS,"Las Vegas, NV",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,BUR,"Burbank, CA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,SNA,"Santa Ana, CA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,LAS,"Las Vegas, NV",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,SAN,"San Diego, CA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,LAS,"Las Vegas, NV",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,SAN,"San Diego, CA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,BUR,"Burbank, CA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,SNA,"Santa Ana, CA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,LAS,"Las Vegas, NV",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,SNA,"Santa Ana, CA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,SNA,"Santa Ana, CA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,SNA,"Santa Ana, CA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,LAS,"Las Vegas, NV",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,LAS,"Las Vegas, NV",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,SAN,"San Diego, CA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,SAN,"San Diego, CA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,SNA,"Santa Ana, CA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,SNA,"Santa Ana, CA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,SNA,"Santa Ana, CA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,SAN,"San Diego, CA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,SAN,"San Diego, CA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,SAN,"San Diego, CA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,SNA,"Santa Ana, CA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,SAN,"San Diego, CA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,SAN,"San Diego, CA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,SNA,"Santa Ana, CA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,SAN,"San Diego, CA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,SAN,"San Diego, CA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,SNA,"Santa Ana, CA",United States,SJC,"San Jose, CA",United States,True
+Southwest Airlines Co.,SAN,"San Diego, CA",United States,SJC,"San Jose, CA",United States,True
