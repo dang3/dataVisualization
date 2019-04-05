@@ -14,28 +14,33 @@ const options = {
 const mappa = new Mappa('Mapbox', key);
 let myMap;
 let canvas;
-let airData = [];
+let airportData = [];
+let airportLocation;
 
 function preload() {
-  airData.push(loadTable('../data/2017.csv', 'csv', 'header'));
-  airData.push(loadTable('../data/2018.csv', 'csv', 'header'));
+  airportData.push(loadTable('../data/filtered/SFO_2017-outbound.csv', 'csv', 'header'));
+  airportLocation = loadTable('../data/airports.csv', 'csv', 'header');
 }
 
 function setup() {
+    // Create a tile map and overlay the canvas on top.
   canvas = createCanvas(window.innerWidth, window.innerHeight);
-
-  // Create a tile map and overlay the canvas on top.
   myMap = mappa.tileMap(options);
   myMap.overlay(canvas);
 
-  for(let row of airData[0].rows) {
-    
-  }
-
-
+  // for debugging
 } 
 
 function draw() {
     clear();
-    //ellipse(50,50,200,200);
+    
+
+    for(let row of airportData[0].rows) {
+      let city = row.get('DEST');
+      let locationRow = airportLocation.findRow(city, 'airport_code');
+      let lat = locationRow.get('latitude');
+      let long = locationRow.get('longitude');
+      const pos = myMap.latLngToPixel(lat, long);
+      ellipse(pos.x, pos.y, 20, 20);
+    }
 }
