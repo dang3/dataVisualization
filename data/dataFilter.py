@@ -1,7 +1,7 @@
 import csv
 
 fieldnames = ['CARRIER_NAME', 'ORIGIN', 'ORIGIN_CITY_NAME', 'ORIGIN_COUNTRY_NAME', 'DEST',
-'DEST_CITY_NAME', 'DEST_COUNTRY_NAME', 'PASSENGER']
+'DEST_CITY_NAME', 'DEST_COUNTRY_NAME', 'PASSENGER', 'INSTANCES']
 
 # Copy row if origin airport matches parameter airport
 def filter(fileName, city, year):
@@ -10,8 +10,8 @@ def filter(fileName, city, year):
         
         # write to output for inbound and outbound flights in separate files
         outputFileNames = ['filtered/' + city + '_' + year + '-inbound.csv', 'filtered/' + city + '_' + year + '-outbound.csv']
-        with open(outputFileNames[0], mode='wb') as outputFileInbound:
-            with open(outputFileNames[1], mode='wb') as outputFileOutbound:
+        with open(outputFileNames[0], mode='wb') as outputFileInbound:      # open inbound flights file
+            with open(outputFileNames[1], mode='wb') as outputFileOutbound: # open outbound flights file
                 fileWriter_inbound = csv.DictWriter(outputFileInbound, fieldnames)
                 fileWriter_outbound = csv.DictWriter(outputFileOutbound, fieldnames)
                 fileWriter_inbound.writeheader()

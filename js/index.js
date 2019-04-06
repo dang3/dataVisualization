@@ -19,7 +19,7 @@ let airportLocation;
 
 function preload() {
   airportData.push(loadTable('../data/filtered/SFO_2017-outbound.csv', 'csv', 'header'));
-  airportLocation = loadTable('../data/airports.csv', 'csv', 'header');
+  airportLocation = loadJSON('../data/airports.json');
 }
 
 function setup() {
@@ -33,14 +33,14 @@ function setup() {
 
 function draw() {
     clear();
-    
-
     for(let row of airportData[0].rows) {
-      let city = row.get('DEST');
-      let locationRow = airportLocation.findRow(city, 'airport_code');
-      let lat = locationRow.get('latitude');
-      let long = locationRow.get('longitude');
-      const pos = myMap.latLngToPixel(lat, long);
-      ellipse(pos.x, pos.y, 20, 20);
+       let city = row.get('DEST');
+       console.log(city);
+      // let cityLocation = airportLocation[city];
+      // let lat = cityLocation['latitude'];
+      // let long = cityLocation['longitude'];
+      // const pos = myMap.latLngToPixel(lat, long);
+      //ellipse(200, 500, 5, 5);
     }
+    noLoop();
 }
