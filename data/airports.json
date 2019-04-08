@@ -4955,6 +4955,42 @@
       "timezone":"0",
       "dst":"E"
    },
+   "ECS":{
+      "name":"Newcastle Airport",
+      "city":"",
+      "country":"",
+      "iata":"",
+      "icao":"",
+      "latitude":"33.942222",
+      "longitude":"-96.394444",
+      "altitude":"",
+      "timezone":"",
+      "dst":""
+   },
+   "DUA":{
+      "name":"Durant Regional Airport–Eaker Field",
+      "city":"",
+      "country":"",
+      "iata":"",
+      "icao":"",
+      "latitude":"43.89",
+      "longitude":"-104.32",
+      "altitude":"",
+      "timezone":"",
+      "dst":""
+   },
+   "CWF":{
+      "name":"Chennault International Airport",
+      "city":"",
+      "country":"",
+      "iata":"",
+      "icao":"",
+      "latitude":"30.210556",
+      "longitude":"-93.143056",
+      "altitude":"",
+      "timezone":"",
+      "dst":""
+   },
    "MME":{
       "name":"Durham Tees Valley Airport",
       "city":"Teesside",
@@ -12323,6 +12359,18 @@
       "timezone":"1",
       "dst":"E"
    },
+   "CMA2":{
+      "name":"Camarillo Airport",
+      "city":"Camarill",
+      "country":"United States",
+      "iata":"CMA2",
+      "icao":"",
+      "latitude":"34.21369934",
+      "longitude":"-119.0940018",
+      "altitude":"",
+      "timezone":"",
+      "dst":""
+   },
    "RHE":{
       "name":"Reims-Champagne (BA 112) Air Base",
       "city":"Reims",
@@ -12334,6 +12382,18 @@
       "altitude":"312",
       "timezone":"1",
       "dst":"E"
+   },
+   "BWC":{
+      "name":"Brawley Municipal Airport",
+      "city":"Brawley",
+      "country":"United States",
+      "iata":"BWC",
+      "icao":"KBWC",
+      "latitude":"32.993056",
+      "longitude":"-115.516944",
+      "altitude":"",
+      "timezone":"",
+      "dst":""
    },
    "SXB":{
       "name":"Strasbourg Airport",
@@ -51287,6 +51347,18 @@
       "timezone":"3",
       "dst":"N"
    },
+   "DOH":{
+      "name":"Hamad International Airport",
+      "city":"Doha",
+      "country":"Qatar",
+      "iata":"DOH",
+      "icao":"OTHH",
+      "latitude":"25.273056",
+      "longitude":"51.608056",
+      "altitude":"",
+      "timezone":"",
+      "dst":""
+   },
    "GBZ":{
       "name":"Great Barrier Aerodrome",
       "city":"Claris",
@@ -55882,6 +55954,102 @@
       "altitude":"5301",
       "timezone":"-7",
       "dst":"A"
+   },
+   "SWO":{
+      "name":"Stillwater Regional Airport",
+      "city":"Stillwater",
+      "country":"United States",
+      "iata":"SWO",
+      "icao":"KSWO",
+      "latitude":"36.161111",
+      "longitude":"-97.085556",
+      "altitude":"",
+      "timezone":"",
+      "dst":""
+   },
+   "MQY":{
+      "name":"Smyrna Airport",
+      "city":"",
+      "country":"United States",
+      "iata":"",
+      "icao":"",
+      "latitude":"36.008889",
+      "longitude":"-86.52",
+      "altitude":"",
+      "timezone":"",
+      "dst":""
+   },
+   "CSL":{
+      "name":"Cabo San Lucas International Airport",
+      "city":"",
+      "country":"Mexico",
+      "iata":"",
+      "icao":"",
+      "latitude":"22.9475",
+      "longitude":"-109.936944",
+      "altitude":"",
+      "timezone":"",
+      "dst":""
+   },
+   "QQN":{
+      "name":"Woodlake Airport",
+      "city":"",
+      "country":"United States",
+      "iata":"",
+      "icao":"",
+      "latitude":"36.39888888",
+      "longitude":"-119.10638888",
+      "altitude":"",
+      "timezone":"",
+      "dst":""
+   },
+   "HLI":{
+      "name":"Hollister Municipal Airport",
+      "city":"",
+      "country":"United States",
+      "iata":"",
+      "icao":"",
+      "latitude":"36.893333",
+      "longitude":"-121.410278",
+      "altitude":"",
+      "timezone":"",
+      "dst":""
+   },
+   "VWD":{
+      "name":"Hanford Municipal Airport",
+      "city":"",
+      "country":"United States",
+      "iata":"",
+      "icao":"",
+      "latitude":"36.316667",
+      "longitude":"-119.627778",
+      "altitude":"",
+      "timezone":"",
+      "dst":""
+   },
+   "MTO":{
+      "name":"Coles County Memorial Airport",
+      "city":"",
+      "country":"United States",
+      "iata":"",
+      "icao":"",
+      "latitude":"39.478056",
+      "longitude": "-88.279167",
+      "altitude":"",
+      "timezone":"",
+      "dst":""
+   },
+   "IFP":{
+      "name":"Laughlin/Bullhead International Airport",
+      "city":"Bullhead/Laughlin",
+      "country":"United States",
+      "iata":"IFP",
+      "icao":"KIFP",
+      "latitude":"35.156111",
+      "longitude":"-114.559444",
+      "altitude":"",
+      "timezone":"",
+      "dst":""
    },
    "PUC":{
       "name":"Carbon County Regional/Buck Davis Field",

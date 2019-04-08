@@ -1,0 +1,366 @@
+CARRIER_NAME,ORIGIN,ORIGIN_CITY_NAME,ORIGIN_COUNTRY_NAME,DEST,DEST_CITY_NAME,DEST_COUNTRY_NAME,PASSENGER,INSTANCES
+Avjet Corporation,LAX,"Los Angeles, CA",United States,CPH,"Copenhagen, Denmark",Denmark,TRUE,21
+Federal Express Corporation,LAX,"Los Angeles, CA",United States,ROC,"Rochester, NY",United States,FALSE,1
+SkyWest Airlines Inc.,LAX,"Los Angeles, CA",United States,YUM,"Yuma, AZ",United States,TRUE,1
+Air Canada,LAX,"Los Angeles, CA",United States,YUL,"Montreal, Canada",Canada,TRUE,23
+Concesionaria Vuela Compania De Aviacion SA de CV (Volaris),LAX,"Los Angeles, CA",United States,AGU,"Aguascalientes, Mexico",Mexico,TRUE,21
+Air Canada,LAX,"Los Angeles, CA",United States,CPS,"St. Louis, MO",United States,TRUE,4
+United Air Lines Inc.,LAX,"Los Angeles, CA",United States,SIN,"Singapore, Singapore",Singapore,TRUE,3
+Comlux Aruba NV,LAX,"Los Angeles, CA",United States,AGP,"Malaga, Spain",Spain,TRUE,1
+"Mokulele Flight Services, Inc.",LAX,"Los Angeles, CA",United States,BWC,"Brawley, CA",United States,TRUE,1
+ACM AIR CHARTER GmbH,LAX,"Los Angeles, CA",United States,BWI,"Baltimore, MD",United States,TRUE,90
+"Xiamen Airlines Co., Ltd.",LAX,"Los Angeles, CA",United States,TAO,"Qingdao, China",China,TRUE,1
+VistaJet Limited,LAX,"Los Angeles, CA",United States,GIG,"Rio de Janeiro, Brazil",Brazil,TRUE,2
+Virgin Atlantic Airways,LAX,"Los Angeles, CA",United States,LHR,"London, United Kingdom",United Kingdom,TRUE,86
+Delta Air Lines Inc.,LAX,"Los Angeles, CA",United States,SNA,"Santa Ana, CA",United States,TRUE,27
+Lufthansa German Airlines,LAX,"Los Angeles, CA",United States,SNN,"Shannon, Ireland",Ireland,FALSE,1
+VistaJet Limited,LAX,"Los Angeles, CA",United States,MAD,"Madrid, Spain",Spain,TRUE,18
+Southwest Airlines Co.,LAX,"Los Angeles, CA",United States,MAF,"Midland/Odessa, TX",United States,TRUE,1
+Delta Air Lines Inc.,LAX,"Los Angeles, CA",United States,LAP,"La Paz, Mexico",Mexico,TRUE,4
+SkyWest Airlines Inc.,LAX,"Los Angeles, CA",United States,LAR,"Laramie, WY",United States,TRUE,1
+Lufthansa German Airlines,LAX,"Los Angeles, CA",United States,MAN,"Manchester, United Kingdom",United Kingdom,FALSE,19
+Horizon Air,LAX,"Los Angeles, CA",United States,GUC,"Gunnison, CO",United States,TRUE,3
+ABX Air Inc,LAX,"Los Angeles, CA",United States,GUA,"Guatemala City, Guatemala",Guatemala,FALSE,32
+"Jet Aviation Flight Services, Inc.",LAX,"Los Angeles, CA",United States,CMH,"Columbus, OH",United States,TRUE,37
+Western Global,LAX,"Los Angeles, CA",United States,BEG,"Belgrade, Serbia",Serbia,FALSE,1
+Polar Air Cargo Airways,LAX,"Los Angeles, CA",United States,GUM,"Guam, TT",United States,FALSE,9
+Federal Express Corporation,LAX,"Los Angeles, CA",United States,DTW,"Detroit, MI",United States,FALSE,76
+Avjet Corporation,LAX,"Los Angeles, CA",United States,GRU,"Sao Paulo, Brazil",Brazil,TRUE,17
+Sun Country Airlines d/b/a MN Airlines,LAX,"Los Angeles, CA",United States,GRR,"Grand Rapids, MI",United States,TRUE,2
+SkyWest Airlines Inc.,LAX,"Los Angeles, CA",United States,FTW,"Dallas/Fort Worth, TX",United States,TRUE,1
+Southwest Airlines Co.,LAX,"Los Angeles, CA",United States,DSM,"Des Moines, IA",United States,TRUE,8
+Allegiant Air,LAX,"Los Angeles, CA",United States,BLI,"Bellingham, WA",United States,TRUE,12
+Cargolux Airlines International S.A,LAX,"Los Angeles, CA",United States,MXP,"Milan, Italy",Italy,FALSE,13
+SkyWest Airlines Inc.,LAX,"Los Angeles, CA",United States,HLN,"Helena, MT",United States,TRUE,1
+Avjet Corporation,LAX,"Los Angeles, CA",United States,OKC,"Oklahoma City, OK",United States,TRUE,39
+Federal Express Corporation,LAX,"Los Angeles, CA",United States,IND,"Indianapolis, IN",United States,FALSE,111
+London Air Services Limited,LAX,"Los Angeles, CA",United States,YYJ,"Victoria, Canada",Canada,TRUE,2
+Hainan Airlines Company Limited,LAX,"Los Angeles, CA",United States,CTU,"Chengdu, China",China,TRUE,15
+Qatar Airways (Q.C.S.C),LAX,"Los Angeles, CA",United States,DOH,"Doha, Qatar",Qatar,TRUE,12
+Cargologicair Limited,LAX,"Los Angeles, CA",United States,VBG,"Lompoc, CA",United States,FALSE,1
+VistaJet Limited,LAX,"Los Angeles, CA",United States,DOL,"Deauville, France",France,TRUE,1
+VistaJet Limited,LAX,"Los Angeles, CA",United States,CTS,"Sapporo, Japan",Japan,TRUE,2
+"Jet Aviation Flight Services, Inc.",LAX,"Los Angeles, CA",United States,EIS,"Road Town, British Virgin Islands",British Virgin Islands,TRUE,1
+American Airlines Inc.,LAX,"Los Angeles, CA",United States,BZE,"Belize City, Belize",Belize,TRUE,24
+Atlas Air Inc.,LAX,"Los Angeles, CA",United States,AKL,"Auckland, New Zealand",New Zealand,FALSE,35
+Delta Air Lines Inc.,LAX,"Los Angeles, CA",United States,BZN,"Bozeman, MT",United States,TRUE,26
+Western Global,LAX,"Los Angeles, CA",United States,DOV,"Dover, DE",United States,FALSE,3
+Atlas Air Inc.,LAX,"Los Angeles, CA",United States,LFI,"Newport News/Hampton, VA",United States,FALSE,1
+SkyWest Airlines Inc.,LAX,"Los Angeles, CA",United States,FCA,"Kalispell, MT",United States,TRUE,9
+Delta Air Lines Inc.,LAX,"Los Angeles, CA",United States,MDW,"Chicago, IL",United States,TRUE,31
+American Airlines Inc.,LAX,"Los Angeles, CA",United States,MDT,"Harrisburg, PA",United States,TRUE,8
+Norwegian Air Shuttle ASA,LAX,"Los Angeles, CA",United States,FCO,"Rome, Italy",Italy,TRUE,12
+Etihad Airways,LAX,"Los Angeles, CA",United States,AUH,"Abu Dhabi, United Arab Emirates",United Arab Emirates,TRUE,12
+United Parcel Service,LAX,"Los Angeles, CA",United States,DFW,"Dallas/Fort Worth, TX",United States,FALSE,160
+Atlas Air Inc.,LAX,"Los Angeles, CA",United States,AUS,"Austin, TX",United States,FALSE,135
+Blue Jet SP Z o o,LAX,"Los Angeles, CA",United States,MVD,"Montevideo, Uruguay",Uruguay,TRUE,1
+Saudi Arabian Airlines Corp,LAX,"Los Angeles, CA",United States,JED,"Jeddah, Saudi Arabia",Saudi Arabia,TRUE,12
+Alaska Airlines Inc.,LAX,"Los Angeles, CA",United States,LTO,"Loreto, Mexico",Mexico,TRUE,49
+VistaJet Limited,LAX,"Los Angeles, CA",United States,LTN,"London, United Kingdom",United Kingdom,TRUE,4
+"Mokulele Flight Services, Inc.",LAX,"Los Angeles, CA",United States,SBP,"San Luis Obispo, CA",United States,TRUE,16
+Etihad Airways,LAX,"Los Angeles, CA",United States,EDI,"Edinburgh, United Kingdom",United Kingdom,TRUE,1
+SkyWest Airlines Inc.,LAX,"Los Angeles, CA",United States,SBA,"Santa Barbara, CA",United States,TRUE,22
+Horizon Air,LAX,"Los Angeles, CA",United States,MMH,"Mammoth Lakes, CA",United States,TRUE,12
+London Air Services Limited,LAX,"Los Angeles, CA",United States,SBD,"San Bernardino, CA",United States,TRUE,1
+American Airlines Inc.,LAX,"Los Angeles, CA",United States,ORF,"Norfolk, VA",United States,TRUE,2
+AirBridgeCargo Airlines Limited,LAX,"Los Angeles, CA",United States,ORD,"Chicago, IL",United States,FALSE,221
+United Air Lines Inc.,LAX,"Los Angeles, CA",United States,SBN,"South Bend, IN",United States,TRUE,1
+Korean Air Lines Co. Ltd.,LAX,"Los Angeles, CA",United States,PUS,"Busan, South Korea",South Korea,FALSE,1
+Kalitta Air LLC,LAX,"Los Angeles, CA",United States,KOA,"Kona, HI",United States,FALSE,64
+China Southern Airlines,LAX,"Los Angeles, CA",United States,CAN,"Guangzhou, China",China,FALSE,36
+Atlas Air Inc.,LAX,"Los Angeles, CA",United States,VPS,"Valparaiso, FL",United States,TRUE,1
+Atlas Air Inc.,LAX,"Los Angeles, CA",United States,HIF,"Ogden, UT",United States,FALSE,1
+CFM Inc d/b/a Contour Airlines,LAX,"Los Angeles, CA",United States,HII,"Lake Havasu City, AZ",United States,TRUE,1
+Federal Express Corporation,LAX,"Los Angeles, CA",United States,ONT,"Ontario, CA",United States,FALSE,20
+"Swift Air, LLC",LAX,"Los Angeles, CA",United States,STL,"St. Louis, MO",United States,TRUE,52
+Titan Airways,LAX,"Los Angeles, CA",United States,STN,"London, United Kingdom",United Kingdom,TRUE,2
+Federal Express Corporation,LAX,"Los Angeles, CA",United States,ABQ,"Albuquerque, NM",United States,FALSE,74
+Air Atlanta Icelandic,LAX,"Los Angeles, CA",United States,STR,"Stuttgart, Germany",Germany,FALSE,1
+SkyWest Airlines Inc.,LAX,"Los Angeles, CA",United States,STS,"Santa Rosa, CA",United States,TRUE,13
+CAT Aviation,LAX,"Los Angeles, CA",United States,ZRH,"Zurich, Switzerland",Switzerland,TRUE,14
+Southwest Airlines Co.,LAX,"Los Angeles, CA",United States,BHM,"Birmingham, AL",United States,TRUE,3
+Sun Country Airlines d/b/a MN Airlines,LAX,"Los Angeles, CA",United States,RST,"Rochester, MN",United States,TRUE,1
+Allegiant Air,LAX,"Los Angeles, CA",United States,OGD,"Ogden, UT",United States,TRUE,3
+Delta Air Lines Inc.,LAX,"Los Angeles, CA",United States,OGG,"Kahului, HI",United States,TRUE,77
+Western Global,LAX,"Los Angeles, CA",United States,RSW,"Fort Myers, FL",United States,FALSE,5
+VistaJet Limited,LAX,"Los Angeles, CA",United States,NCE,"Nice, France",France,TRUE,3
+Federal Express Corporation,LAX,"Los Angeles, CA",United States,JFK,"New York, NY",United States,FALSE,117
+Federal Express Corporation,LAX,"Los Angeles, CA",United States,MIA,"Miami, FL",United States,FALSE,61
+Lan-Chile Airlines,LAX,"Los Angeles, CA",United States,LIM,"Lima, Peru",Peru,TRUE,30
+VistaJet Limited,LAX,"Los Angeles, CA",United States,LIN,"Milan, Italy",Italy,TRUE,1
+ABS JETS A.S,LAX,"Los Angeles, CA",United States,LIH,"Lihue, HI",United States,TRUE,60
+Allegiant Air,LAX,"Los Angeles, CA",United States,LIT,"Little Rock, AR",United States,TRUE,3
+Delta Air Lines Inc.,LAX,"Los Angeles, CA",United States,LIR,"Liberia, Costa Rica",Costa Rica,TRUE,40
+Avjet Corporation,LAX,"Los Angeles, CA",United States,EGE,"Eagle, CO",United States,TRUE,8
+Delta Air Lines Inc.,LAX,"Los Angeles, CA",United States,SAN,"San Diego, CA",United States,TRUE,109
+Great Lakes Airlines,LAX,"Los Angeles, CA",United States,PRC,"Prescott, AZ",United States,TRUE,18
+Lacsa,LAX,"Los Angeles, CA",United States,SAL,"San Salvador, El Salvador",El Salvador,TRUE,65
+Spirit Air Lines,LAX,"Los Angeles, CA",United States,LBB,"Lubbock, TX",United States,TRUE,1
+Compagnie Natl Air France,LAX,"Los Angeles, CA",United States,RAR,"Avarua, Cook Islands",Cook Islands,TRUE,13
+Alaska Airlines Inc.,LAX,"Los Angeles, CA",United States,HAV,"Havana, Cuba",Cuba,TRUE,13
+Albinati aviation Limited,LAX,"Los Angeles, CA",United States,LBG,"Paris, France",France,TRUE,7
+Delta Air Lines Inc.,LAX,"Los Angeles, CA",United States,SAT,"San Antonio, TX",United States,TRUE,76
+China Airlines Ltd.,LAX,"Los Angeles, CA",United States,TPE,"Taipei, Taiwan",Taiwan,FALSE,40
+"Jet Aviation Flight Services, Inc.",LAX,"Los Angeles, CA",United States,MRY,"Monterey, CA",United States,TRUE,22
+Delta Air Lines Inc.,LAX,"Los Angeles, CA",United States,JAX,"Jacksonville, FL",United States,TRUE,3
+Nolinor Aviation,LAX,"Los Angeles, CA",United States,YMX,"Montreal, Canada",Canada,TRUE,1
+Lynden Air Cargo Airlines,LAX,"Los Angeles, CA",United States,BFI,"Seattle, WA",United States,FALSE,4
+"Jet Aviation Flight Services, Inc.",LAX,"Los Angeles, CA",United States,CHO,"Charlottesville, VA",United States,TRUE,1
+Triair Bermuda Flt Operations,LAX,"Los Angeles, CA",United States,BFS,"Belfast, United Kingdom",United Kingdom,TRUE,1
+Southwest Airlines Co.,LAX,"Los Angeles, CA",United States,CHS,"Charleston, SC",United States,TRUE,1
+"Jet Aviation Flight Services, Inc.",LAX,"Los Angeles, CA",United States,JAC,"Jackson, WY",United States,TRUE,15
+Alaska Airlines Inc.,LAX,"Los Angeles, CA",United States,ZIH,"Ixtapa/Zihuatanejo, Mexico",Mexico,TRUE,42
+Austrian Airlines,LAX,"Los Angeles, CA",United States,VIE,"Vienna, Austria",Austria,TRUE,7
+Delta Air Lines Inc.,LAX,"Los Angeles, CA",United States,PHL,"Philadelphia, PA",United States,TRUE,48
+ACM AIR CHARTER GmbH,LAX,"Los Angeles, CA",United States,APW,"Apia, Samoa",Samoa,TRUE,1
+"Mokulele Flight Services, Inc.",LAX,"Los Angeles, CA",United States,IPL,"El Centro, CA",United States,TRUE,12
+China Airlines Ltd.,LAX,"Los Angeles, CA",United States,SFO,"San Francisco, CA",United States,FALSE,331
+Lufthansa German Airlines,LAX,"Los Angeles, CA",United States,VIT,"Vitoria, Spain",Spain,FALSE,1
+"Jet Aviation Flight Services, Inc.",LAX,"Los Angeles, CA",United States,APC,"Napa, CA",United States,TRUE,1
+Delta Air Lines Inc.,LAX,"Los Angeles, CA",United States,TYS,"Knoxville, TN",United States,TRUE,2
+SkyWest Airlines Inc.,LAX,"Los Angeles, CA",United States,IFP,"Bullhead City, AZ",United States,TRUE,1
+"Swift Air, LLC",LAX,"Los Angeles, CA",United States,AZA,"Phoenix, AZ",United States,TRUE,2
+SkyWest Airlines Inc.,LAX,"Los Angeles, CA",United States,HDN,"Hayden, CO",United States,TRUE,7
+Air Alsie A/S,LAX,"Los Angeles, CA",United States,BMA,"Stockholm, Sweden",Sweden,TRUE,1
+Philippine Airlines Inc.,LAX,"Los Angeles, CA",United States,CEB,"Lapu-Lapu City, Philippines",Philippines,TRUE,5
+Air Alsie A/S,LAX,"Los Angeles, CA",United States,RTM,"Rotterdam, Netherlands",Netherlands,TRUE,1
+Air China,LAX,"Los Angeles, CA",United States,SZX,"Shenzhen, China",China,TRUE,1
+"Jet Aviation Flight Services, Inc.",LAX,"Los Angeles, CA",United States,HMO,"Hermosillo, Mexico",Mexico,TRUE,3
+Cayman Airways Limited,LAX,"Los Angeles, CA",United States,GCM,"Grand Cayman, Cayman Islands",Cayman Islands,FALSE,1
+Hainan Airlines Company Limited,LAX,"Los Angeles, CA",United States,CSX,"Changsha, China",China,TRUE,17
+United Parcel Service,LAX,"Los Angeles, CA",United States,RFD,"Rockford, IL",United States,FALSE,3
+Allegiant Air,LAX,"Los Angeles, CA",United States,PVU,"Provo, UT",United States,TRUE,15
+Federal Express Corporation,LAX,"Los Angeles, CA",United States,AFW,"Dallas/Fort Worth, TX",United States,FALSE,46
+Delta Air Lines Inc.,LAX,"Los Angeles, CA",United States,MGA,"Managua, Nicaragua",Nicaragua,TRUE,2
+Delta Air Lines Inc.,LAX,"Los Angeles, CA",United States,BTR,"Baton Rouge, LA",United States,TRUE,1
+United Air Lines Inc.,LAX,"Los Angeles, CA",United States,CZM,"Cozumel, Mexico",Mexico,TRUE,1
+SkyWest Airlines Inc.,LAX,"Los Angeles, CA",United States,LAS,"Las Vegas, NV",United States,TRUE,245
+"Swift Air, LLC",LAX,"Los Angeles, CA",United States,HPN,"White Plains, NY",United States,TRUE,2
+Sichuan Airlines Co Ltd.,LAX,"Los Angeles, CA",United States,HGH,"Hangzhou, China",China,TRUE,12
+Cargojet Airways Ltd.,LAX,"Los Angeles, CA",United States,YHM,"Hamilton, Canada",Canada,FALSE,2
+Cargolux Airlines International S.A,LAX,"Los Angeles, CA",United States,LUX,"Luxembourg, Luxembourg",Luxembourg,FALSE,12
+AirBridgeCargo Airlines Limited,LAX,"Los Angeles, CA",United States,ATL,"Atlanta, GA",United States,FALSE,190
+DCA,LAX,"Los Angeles, CA",United States,ATH,"Athens, Greece",Greece,TRUE,1
+Turk Hava Yollari A.O.,LAX,"Los Angeles, CA",United States,IST,"Istanbul, Turkey",Turkey,TRUE,12
+Sun Country Airlines d/b/a MN Airlines,LAX,"Los Angeles, CA",United States,ATW,"Appleton, WI",United States,TRUE,2
+AirBridgeCargo Airlines Limited,LAX,"Los Angeles, CA",United States,MUC,"Munich, Germany",Germany,FALSE,13
+TAG Aviation (UK) Ltd.,LAX,"Los Angeles, CA",United States,PVR,"Puerto Vallarta, Mexico",Mexico,TRUE,130
+"Jet Aviation Flight Services, Inc.",LAX,"Los Angeles, CA",United States,LNY,"Lanai, HI",United States,TRUE,1
+Western Global,LAX,"Los Angeles, CA",United States,NUW,"Whidbey Island, WA",United States,FALSE,1
+Concesionaria Vuela Compania De Aviacion SA de CV (Volaris),LAX,"Los Angeles, CA",United States,DGO,"Durango, Mexico",Mexico,TRUE,18
+"Jet Aviation Flight Services, Inc.",LAX,"Los Angeles, CA",United States,ASE,"Aspen, CO",United States,TRUE,14
+Cargolux Airlines International S.A,LAX,"Los Angeles, CA",United States,TLS,"Toulouse, France",France,FALSE,12
+Lufthansa German Airlines,LAX,"Los Angeles, CA",United States,FRA,"Frankfurt, Germany",Germany,FALSE,41
+"Swift Air, LLC",LAX,"Los Angeles, CA",United States,FRG,"East Farmingdale, NY",United States,TRUE,1
+Air China,LAX,"Los Angeles, CA",United States,PVG,"Shanghai, China",China,FALSE,101
+Atlas Air Inc.,LAX,"Los Angeles, CA",United States,PDX,"Portland, OR",United States,FALSE,177
+"Jet Aviation Flight Services, Inc.",LAX,"Los Angeles, CA",United States,CLD,"Carlsbad, CA",United States,TRUE,3
+Delta Air Lines Inc.,LAX,"Los Angeles, CA",United States,CLE,"Cleveland, OH",United States,TRUE,53
+Lufthansa German Airlines,LAX,"Los Angeles, CA",United States,DUB,"Dublin, Ireland",Ireland,TRUE,13
+Concesionaria Vuela Compania De Aviacion SA de CV (Volaris),LAX,"Los Angeles, CA",United States,TLC,"Toluca, Mexico",Mexico,TRUE,1
+"Jet Aviation Flight Services, Inc.",LAX,"Los Angeles, CA",United States,PDK,"Atlanta, GA",United States,TRUE,2
+Federal Express Corporation,LAX,"Los Angeles, CA",United States,CLT,"Charlotte, NC",United States,FALSE,23
+American Airlines Inc.,LAX,"Los Angeles, CA",United States,TLH,"Tallahassee, FL",United States,TRUE,1
+Unijet,LAX,"Los Angeles, CA",United States,TLN,"Toulon/Hyeres, France",France,TRUE,1
+United Air Lines Inc.,LAX,"Los Angeles, CA",United States,ITO,"Hilo, HI",United States,TRUE,12
+American Airlines Inc.,LAX,"Los Angeles, CA",United States,OMA,"Omaha, NE",United States,TRUE,17
+Acropolis Aviation Ltd.,LAX,"Los Angeles, CA",United States,KEF,"Keflavik/Reykjavik, Iceland",Iceland,TRUE,17
+Atlas Air Inc.,LAX,"Los Angeles, CA",United States,TUS,"Tucson, AZ",United States,FALSE,79
+Federal Express Corporation,LAX,"Los Angeles, CA",United States,TUL,"Tulsa, OK",United States,FALSE,17
+Mesa Airlines Inc.,LAX,"Los Angeles, CA",United States,CLL,"College Station/Bryan, TX",United States,TRUE,4
+SkyWest Airlines Inc.,LAX,"Los Angeles, CA",United States,SWO,"Stillwater, OK",United States,TRUE,1
+United Air Lines Inc.,LAX,"Los Angeles, CA",United States,SWF,"Newburgh/Poughkeepsie, NY",United States,TRUE,1
+Miami Air International,LAX,"Los Angeles, CA",United States,YWG,"Winnipeg, Canada",Canada,TRUE,3
+El Al Israel Airlines Ltd.,LAX,"Los Angeles, CA",United States,TLV,"Tel Aviv, Israel",Israel,TRUE,12
+American Airlines Inc.,LAX,"Los Angeles, CA",United States,CYS,"Cheyenne, WY",United States,TRUE,2
+Allegiant Air,LAX,"Los Angeles, CA",United States,BIL,"Billings, MT",United States,TRUE,3
+Sun Country Airlines d/b/a MN Airlines,LAX,"Los Angeles, CA",United States,BIS,"Bismarck/Mandan, ND",United States,TRUE,1
+VistaJet Limited,LAX,"Los Angeles, CA",United States,VCE,"Venice, Italy",Italy,TRUE,1
+VistaJet Limited,LAX,"Los Angeles, CA",United States,FKB,"Karlsruhe/Baden-Baden, Germany",Germany,TRUE,2
+American Airlines Inc.,LAX,"Los Angeles, CA",United States,MLI,"Moline, IL",United States,TRUE,1
+Concesionaria Vuela Compania De Aviacion SA de CV (Volaris),LAX,"Los Angeles, CA",United States,MLM,"Morelia, Mexico",Mexico,TRUE,24
+Alaska Airlines Inc.,LAX,"Los Angeles, CA",United States,SLE,"Salem, OR",United States,TRUE,1
+Delta Air Lines Inc.,LAX,"Los Angeles, CA",United States,SLC,"Salt Lake City, UT",United States,TRUE,217
+Delta Air Lines Inc.,LAX,"Los Angeles, CA",United States,MCO,"Orlando, FL",United States,TRUE,130
+Spirit Air Lines,LAX,"Los Angeles, CA",United States,MCI,"Kansas City, MO",United States,TRUE,69
+Delta Air Lines Inc.,LAX,"Los Angeles, CA",United States,LGB,"Long Beach, CA",United States,TRUE,7
+Boutique Air,LAX,"Los Angeles, CA",United States,MCE,"Merced, CA",United States,TRUE,12
+Avjet Corporation,LAX,"Los Angeles, CA",United States,LGW,"London, United Kingdom",United Kingdom,TRUE,17
+Atlas Air Inc.,LAX,"Los Angeles, CA",United States,NRT,"Tokyo, Japan",Japan,FALSE,94
+Hainan Airlines Company Limited,LAX,"Los Angeles, CA",United States,CKG,"Chongqing, China",China,TRUE,12
+Volga-Dnepr Airlines,LAX,"Los Angeles, CA",United States,BGR,"Bangor, ME",United States,FALSE,1
+Delta Air Lines Inc.,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,TRUE,136
+Nippon Cargo Airlines,LAX,"Los Angeles, CA",United States,ADL,"Adelaide, Australia",Australia,FALSE,1
+Air Berlin PLC and CO,LAX,"Los Angeles, CA",United States,DUS,"Dusseldorf, Germany",Germany,TRUE,9
+Avjet Corporation,LAX,"Los Angeles, CA",United States,HSH,"Las Vegas, NV",United States,TRUE,1
+Avjet Corporation,LAX,"Los Angeles, CA",United States,DCA,"Washington, DC",United States,TRUE,36
+Atlas Air Inc.,LAX,"Los Angeles, CA",United States,HSV,"Huntsville, AL",United States,FALSE,2
+"Jet Aviation Flight Services, Inc.",LAX,"Los Angeles, CA",United States,MQY,"Smyrna, TN",United States,TRUE,1
+Miami Air International,LAX,"Los Angeles, CA",United States,RIC,"Richmond, VA",United States,TRUE,2
+"Jet Aviation Flight Services, Inc.",LAX,"Los Angeles, CA",United States,VNY,"Van Nuys, CA",United States,TRUE,1
+Volga-Dnepr Airlines,LAX,"Los Angeles, CA",United States,IAH,"Houston, TX",United States,FALSE,108
+Federal Express Corporation,LAX,"Los Angeles, CA",United States,IAD,"Washington, DC",United States,FALSE,95
+Federal Express Corporation,LAX,"Los Angeles, CA",United States,BNA,"Nashville, TN",United States,FALSE,67
+Delta Air Lines Inc.,LAX,"Los Angeles, CA",United States,BNE,"Brisbane, Australia",Australia,TRUE,26
+Alaska Airlines Inc.,LAX,"Los Angeles, CA",United States,MZT,"Mazatlan, Mexico",Mexico,TRUE,64
+China Airlines Ltd.,LAX,"Los Angeles, CA",United States,KIX,"Osaka, Japan",Japan,FALSE,27
+Atlas Air Inc.,LAX,"Los Angeles, CA",United States,SYD,"Sydney, Australia",Australia,FALSE,76
+Delta Air Lines Inc.,LAX,"Los Angeles, CA",United States,YEG,"Edmonton, Canada",Canada,TRUE,29
+United Air Lines Inc.,LAX,"Los Angeles, CA",United States,SYR,"Syracuse, NY",United States,TRUE,3
+Kalitta Charters II,LAX,"Los Angeles, CA",United States,PHX,"Phoenix, AZ",United States,FALSE,215
+Singapore Airlines Ltd.,LAX,"Los Angeles, CA",United States,BRU,"Brussels, Belgium",Belgium,FALSE,13
+Atlas Air Inc.,LAX,"Los Angeles, CA",United States,MZJ,"Marana, AZ",United States,FALSE,1
+Compass Airlines,LAX,"Los Angeles, CA",United States,CRP,"Corpus Christi, TX",United States,TRUE,4
+SkyWest Airlines Inc.,LAX,"Los Angeles, CA",United States,DRO,"Durango, CO",United States,TRUE,3
+"Swift Air, LLC",LAX,"Los Angeles, CA",United States,AEX,"Alexandria, LA",United States,TRUE,1
+Philippine Airlines Inc.,LAX,"Los Angeles, CA",United States,CRK,"Luzon Island, Philippines",Philippines,TRUE,1
+Allegiant Air,LAX,"Los Angeles, CA",United States,MFE,"Mission/McAllen/Edinburg, TX",United States,TRUE,7
+Federal Express Corporation,LAX,"Los Angeles, CA",United States,BUR,"Burbank, CA",United States,FALSE,33
+Cathay Pacific Airways Ltd.,LAX,"Los Angeles, CA",United States,MFM,"Macau, Macau",Macau,TRUE,1
+Horizon Air,LAX,"Los Angeles, CA",United States,MFR,"Medford, OR",United States,TRUE,32
+Compass Airlines,LAX,"Los Angeles, CA",United States,GEG,"Spokane, WA",United States,TRUE,14
+Concesionaria Vuela Compania De Aviacion SA de CV (Volaris),LAX,"Los Angeles, CA",United States,OAX,"Oaxaca, Mexico",Mexico,TRUE,10
+Delta Air Lines Inc.,LAX,"Los Angeles, CA",United States,BUF,"Buffalo, NY",United States,TRUE,15
+VistaJet Limited,LAX,"Los Angeles, CA",United States,BUD,"Budapest, Hungary",Hungary,TRUE,2
+Chartright Air Inc.,LAX,"Los Angeles, CA",United States,YKF,"Kitchener, Canada",Canada,TRUE,1
+Western Global,LAX,"Los Angeles, CA",United States,MHV,"Mojave, CA",United States,FALSE,5
+Avjet Corporation,LAX,"Los Angeles, CA",United States,MHR,"Sacramento, CA",United States,TRUE,1
+Kalitta Charters II,LAX,"Los Angeles, CA",United States,RNO,"Reno, NV",United States,FALSE,73
+Singapore Airlines Ltd.,LAX,"Los Angeles, CA",United States,ANC,"Anchorage, AK",United States,FALSE,95
+Allegiant Air,LAX,"Los Angeles, CA",United States,PSC,"Pasco/Kennewick/Richland, WA",United States,TRUE,3
+London Air Services Limited,LAX,"Los Angeles, CA",United States,PSP,"Palm Springs, CA",United States,TRUE,29
+Federal Express Corporation,LAX,"Los Angeles, CA",United States,LCK,"Columbus, OH",United States,FALSE,2
+Norwegian Air Shuttle ASA,LAX,"Los Angeles, CA",United States,BCN,"Barcelona, Spain",Spain,TRUE,14
+Allegiant Air,LAX,"Los Angeles, CA",United States,FSD,"Sioux Falls, SD",United States,TRUE,4
+VistaJet Limited,LAX,"Los Angeles, CA",United States,HND,"Tokyo, Japan",Japan,TRUE,43
+Qantas Airways Ltd.,LAX,"Los Angeles, CA",United States,HNL,"Honolulu, HI",United States,FALSE,215
+American Airlines Inc.,LAX,"Los Angeles, CA",United States,PEK,"Beijing, China",China,TRUE,26
+VistaJet Limited,LAX,"Los Angeles, CA",United States,OLB,"Olbia, Italy",Italy,TRUE,1
+SkyWest Airlines Inc.,LAX,"Los Angeles, CA",United States,LWS,"Lewiston, ID",United States,TRUE,2
+"Xiamen Airlines Co., Ltd.",LAX,"Los Angeles, CA",United States,XMN,"Xiamen, China",China,TRUE,12
+Delta Air Lines Inc.,LAX,"Los Angeles, CA",United States,SRQ,"Sarasota/Bradenton, FL",United States,TRUE,1
+Polskie Linie Lotnicze,LAX,"Los Angeles, CA",United States,WAW,"Warsaw, Poland",Poland,TRUE,9
+Antonov Company,LAX,"Los Angeles, CA",United States,XMR,"Marmande, France",France,FALSE,1
+Saudi Arabian Airlines Corp,LAX,"Los Angeles, CA",United States,RUH,"Riyadh, Saudi Arabia",Saudi Arabia,TRUE,6
+Norwegian Air Shuttle ASA,LAX,"Los Angeles, CA",United States,CDG,"Paris, France",France,TRUE,67
+"Jet Aviation Flight Services, Inc.",LAX,"Los Angeles, CA",United States,BJC,"Broomfield, CO",United States,TRUE,1
+ACM AIR CHARTER GmbH,LAX,"Los Angeles, CA",United States,PSM,"Portsmouth, NH",United States,TRUE,1
+"Jet Aviation Flight Services, Inc.",LAX,"Los Angeles, CA",United States,YYZ,"Toronto, Canada",Canada,TRUE,126
+Delta Air Lines Inc.,LAX,"Los Angeles, CA",United States,YYC,"Calgary, Canada",Canada,TRUE,71
+SkyWest Airlines Inc.,LAX,"Los Angeles, CA",United States,BJX,"Leon/Guanajuato, Mexico",Mexico,TRUE,50
+Federal Express Corporation,LAX,"Los Angeles, CA",United States,MKE,"Milwaukee, WI",United States,FALSE,25
+United Air Lines Inc.,LAX,"Los Angeles, CA",United States,MKC,"Kansas City, MO",United States,TRUE,1
+Boutique Air,LAX,"Los Angeles, CA",United States,IYK,"Inyokern, CA",United States,TRUE,4
+ABX Air Inc,LAX,"Los Angeles, CA",United States,CVG,"Cincinnati, OH",United States,FALSE,73
+Western Global,LAX,"Los Angeles, CA",United States,RCA,"Rapid City, SD",United States,FALSE,1
+"Mokulele Flight Services, Inc.",LAX,"Los Angeles, CA",United States,SMX,"Santa Maria, CA",United States,TRUE,10
+Federal Express Corporation,LAX,"Los Angeles, CA",United States,TPA,"Tampa, FL",United States,FALSE,24
+American Airlines Inc.,LAX,"Los Angeles, CA",United States,MBJ,"Montego Bay, Jamaica",Jamaica,TRUE,10
+SkyWest Airlines Inc.,LAX,"Los Angeles, CA",United States,FAR,"Fargo, ND",United States,TRUE,6
+SkyWest Airlines Inc.,LAX,"Los Angeles, CA",United States,FAT,"Fresno, CA",United States,TRUE,37
+"Jet Aviation Flight Services, Inc.",LAX,"Los Angeles, CA",United States,QRO,"Queretaro, Mexico",Mexico,TRUE,20
+Compagnie Natl Air France,LAX,"Los Angeles, CA",United States,PPT,"Papeete, French Polynesia",French Polynesia,TRUE,27
+TAG Aviation (UK) Ltd.,LAX,"Los Angeles, CA",United States,FAB,"Farnborough, United Kingdom",United Kingdom,TRUE,8
+Aerounion Aerotransporte de Carga Union SA de CV,LAX,"Los Angeles, CA",United States,MTY,"Monterrey, Mexico",Mexico,FALSE,18
+SkyWest Airlines Inc.,LAX,"Los Angeles, CA",United States,EUG,"Eugene, OR",United States,TRUE,32
+Delta Air Lines Inc.,LAX,"Los Angeles, CA",United States,MTJ,"Montrose/Delta, CO",United States,TRUE,13
+CFM Inc d/b/a Contour Airlines,LAX,"Los Angeles, CA",United States,MTO,"Mattoon/Charleston, IL",United States,TRUE,1
+VistaJet Limited,LAX,"Los Angeles, CA",United States,VKO,"Moscow, Russia",Russia,TRUE,1
+VistaJet Limited,LAX,"Los Angeles, CA",United States,NAN,"Nadi, Fiji",Fiji,TRUE,25
+Western Global,LAX,"Los Angeles, CA",United States,EBB,"Entebbe/Kampala, Uganda",Uganda,FALSE,1
+United Parcel Service,LAX,"Los Angeles, CA",United States,SDF,"Louisville, KY",United States,FALSE,20
+CFM Inc d/b/a Contour Airlines,LAX,"Los Angeles, CA",United States,SDM,"San Diego, CA",United States,TRUE,1
+Scandinavian Airlines Sys.,LAX,"Los Angeles, CA",United States,ARN,"Stockholm, Sweden",Sweden,TRUE,31
+Virgin America,LAX,"Los Angeles, CA",United States,BOX,"Borroloola, Australia",Australia,TRUE,1
+Southwest Airlines Co.,LAX,"Los Angeles, CA",United States,GSP,"Greer, SC",United States,TRUE,1
+Virgin Atlantic Airways,LAX,"Los Angeles, CA",United States,BOS,"Boston, MA",United States,TRUE,100
+Federal Express Corporation,LAX,"Los Angeles, CA",United States,OAK,"Oakland, CA",United States,FALSE,148
+SkyWest Airlines Inc.,LAX,"Los Angeles, CA",United States,COS,"Colorado Springs, CO",United States,TRUE,38
+Avjet Corporation,LAX,"Los Angeles, CA",United States,CCR,"Concord, CA",United States,TRUE,1
+"Swift Air, LLC",LAX,"Los Angeles, CA",United States,BOI,"Boise, ID",United States,TRUE,37
+VistaJet Limited,LAX,"Los Angeles, CA",United States,NAP,"Naples, Italy",Italy,TRUE,1
+"Aeroenlaces Nacionales, S.A. de C.V. d/b/a VivaAerobus",LAX,"Los Angeles, CA",United States,TIJ,"Tijuana, Mexico",Mexico,TRUE,2
+VistaJet Limited,LAX,"Los Angeles, CA",United States,BOB,"Bora Bora, French Polynesia",French Polynesia,TRUE,1
+Kalitta Air LLC,LAX,"Los Angeles, CA",United States,BOD,"Bordeaux, France",France,FALSE,2
+Lan-Chile Airlines,LAX,"Los Angeles, CA",United States,BOG,"Bogota, Colombia",Colombia,FALSE,14
+Cargolux Airlines International S.A,LAX,"Los Angeles, CA",United States,PIK,"Glasgow/Prestwick, United Kingdom",United Kingdom,FALSE,12
+Spirit Air Lines,LAX,"Los Angeles, CA",United States,MYR,"Myrtle Beach, SC",United States,TRUE,1
+Atlas Air Inc.,LAX,"Los Angeles, CA",United States,UIO,"Quito, Ecuador",Ecuador,FALSE,3
+Miami Air International,LAX,"Los Angeles, CA",United States,PIT,"Pittsburgh, PA",United States,TRUE,42
+Sky Lease Cargo,LAX,"Los Angeles, CA",United States,HKG,"Hong Kong, Hong Kong",Hong Kong,FALSE,37
+Aeroflot Russian Airlines,LAX,"Los Angeles, CA",United States,SVO,"Moscow, Russia",Russia,TRUE,16
+"Jet Aviation Flight Services, Inc.",LAX,"Los Angeles, CA",United States,YVR,"Vancouver, Canada",Canada,TRUE,130
+VistaJet Limited,LAX,"Los Angeles, CA",United States,NAS,"Nassau, The Bahamas",The Bahamas,TRUE,1
+"Mokulele Flight Services, Inc.",LAX,"Los Angeles, CA",United States,CXL,"Calexico, CA",United States,TRUE,1
+Alaska Airlines Inc.,LAX,"Los Angeles, CA",United States,ZLO,"Manzanillo, Mexico",Mexico,TRUE,39
+JetBlue Airways,LAX,"Los Angeles, CA",United States,FLL,"Fort Lauderdale, FL",United States,TRUE,53
+Delta Air Lines Inc.,LAX,"Los Angeles, CA",United States,DEN,"Denver, CO",United States,TRUE,241
+Federal Express Corporation,LAX,"Los Angeles, CA",United States,SMF,"Sacramento, CA",United States,FALSE,104
+SkyWest Airlines Inc.,LAX,"Los Angeles, CA",United States,FLG,"Flagstaff, AZ",United States,TRUE,1
+Lan-Chile Airlines,LAX,"Los Angeles, CA",United States,SCL,"Santiago, Chile",Chile,TRUE,17
+Delta Air Lines Inc.,LAX,"Los Angeles, CA",United States,PTK,"Pontiac, MI",United States,TRUE,3
+"Jet Aviation Flight Services, Inc.",LAX,"Los Angeles, CA",United States,SCE,"State College, PA",United States,TRUE,1
+Avjet Corporation,LAX,"Los Angeles, CA",United States,SCF,"Phoenix, AZ",United States,TRUE,2
+Philippine Airlines Inc.,LAX,"Los Angeles, CA",United States,MNL,"Manila, Philippines",Philippines,TRUE,20
+Air Alsie A/S,LAX,"Los Angeles, CA",United States,OSL,"Oslo, Norway",Norway,TRUE,17
+Atlas Air Inc.,LAX,"Los Angeles, CA",United States,PTY,"Panama City, Panama",Panama,FALSE,14
+Singapore Airlines Ltd.,LAX,"Los Angeles, CA",United States,AMS,"Amsterdam, Netherlands",Netherlands,FALSE,41
+Concesionaria Vuela Compania De Aviacion SA de CV (Volaris),LAX,"Los Angeles, CA",United States,UPN,"Uruapan, Mexico",Mexico,TRUE,20
+Avjet Corporation,LAX,"Los Angeles, CA",United States,TRM,"Thermal, CA",United States,TRUE,1
+Federal Express Corporation,LAX,"Los Angeles, CA",United States,BDL,"Hartford, CT",United States,FALSE,13
+Federal Express Corporation,LAX,"Los Angeles, CA",United States,EWR,"Newark, NJ",United States,FALSE,103
+Spirit Air Lines,LAX,"Los Angeles, CA",United States,PBI,"West Palm Beach/Palm Beach, FL",United States,TRUE,2
+Korean Air Lines Co. Ltd.,LAX,"Los Angeles, CA",United States,CJU,"Jeju, South Korea",South Korea,FALSE,2
+Amerijet International,LAX,"Los Angeles, CA",United States,LRD,"Laredo, TX",United States,FALSE,1
+American Airlines Inc.,LAX,"Los Angeles, CA",United States,AVP,"Scranton/Wilkes-Barre, PA",United States,TRUE,1
+Concesionaria Vuela Compania De Aviacion SA de CV (Volaris),LAX,"Los Angeles, CA",United States,ACA,"Acapulco, Mexico",Mexico,TRUE,1
+SkyWest Airlines Inc.,LAX,"Los Angeles, CA",United States,SUN,"Sun Valley/Hailey/Ketchum, ID",United States,TRUE,17
+Delta Air Lines Inc.,LAX,"Los Angeles, CA",United States,XNA,"Fayetteville, AR",United States,TRUE,17
+Atlas Air Inc.,LAX,"Los Angeles, CA",United States,SUU,"Fairfield, CA",United States,FALSE,4
+SkyWest Airlines Inc.,LAX,"Los Angeles, CA",United States,ACT,"Waco, TX",United States,TRUE,2
+"Jet Aviation Flight Services, Inc.",LAX,"Los Angeles, CA",United States,ACY,"Atlantic City, NJ",United States,TRUE,2
+SkyWest Airlines Inc.,LAX,"Los Angeles, CA",United States,IDA,"Idaho Falls, ID",United States,TRUE,6
+"Jet Aviation Flight Services, Inc.",LAX,"Los Angeles, CA",United States,TEB,"Teterboro, NJ",United States,TRUE,10
+SkyWest Airlines Inc.,LAX,"Los Angeles, CA",United States,GJT,"Grand Junction, CO",United States,TRUE,13
+American Airlines Inc.,LAX,"Los Angeles, CA",United States,RDU,"Raleigh/Durham, NC",United States,TRUE,33
+JetBlue Airways,LAX,"Los Angeles, CA",United States,SJU,"San Juan, PR",United States,TRUE,1
+Ethiopian Airlines,LAX,"Los Angeles, CA",United States,ADD,"Addis Ababa, Ethiopia",Ethiopia,TRUE,12
+ABX Air Inc,LAX,"Los Angeles, CA",United States,SJO,"San Jose, Costa Rica",Costa Rica,FALSE,38
+SkyWest Airlines Inc.,LAX,"Los Angeles, CA",United States,RDM,"Bend/Redmond, OR",United States,TRUE,13
+VistaJet Limited,LAX,"Los Angeles, CA",United States,CUN,"Cancun, Mexico",Mexico,TRUE,93
+Federal Express Corporation,LAX,"Los Angeles, CA",United States,ELP,"El Paso, TX",United States,FALSE,35
+Korean Air Lines Co. Ltd.,LAX,"Los Angeles, CA",United States,GMP,"Seoul, South Korea",South Korea,TRUE,1
+United Air Lines Inc.,LAX,"Los Angeles, CA",United States,SJD,"San Jose del Cabo, Mexico",Mexico,TRUE,133
+Saudi Arabian Airlines Corp,LAX,"Los Angeles, CA",United States,MED,"Medina, Saudi Arabia",Saudi Arabia,TRUE,1
+Federal Express Corporation,LAX,"Los Angeles, CA",United States,MEM,"Memphis, TN",United States,FALSE,124
+Atlas Air Inc.,LAX,"Los Angeles, CA",United States,MEL,"Melbourne, Australia",Australia,FALSE,39
+Southern Air Inc.,LAX,"Los Angeles, CA",United States,LEJ,"Leipzig, Germany",Germany,FALSE,13
+ABX Air Inc,LAX,"Los Angeles, CA",United States,GDL,"Guadalajara, Mexico",Mexico,FALSE,133
+ABX Air Inc,LAX,"Los Angeles, CA",United States,MEX,"Mexico City, Mexico",Mexico,FALSE,179
+VistaJet Limited,LAX,"Los Angeles, CA",United States,CIA,"Rome, Italy",Italy,TRUE,1
+SkyWest Airlines Inc.,LAX,"Los Angeles, CA",United States,TWF,"Twin Falls, ID",United States,TRUE,5
+Delta Air Lines Inc.,LAX,"Los Angeles, CA",United States,MSY,"New Orleans, LA",United States,TRUE,93
+Allegiant Air,LAX,"Los Angeles, CA",United States,CID,"Cedar Rapids/Iowa City, IA",United States,TRUE,4
+VistaJet Limited,LAX,"Los Angeles, CA",United States,IQT,"Iquitos, Peru",Peru,TRUE,1
+Delta Air Lines Inc.,LAX,"Los Angeles, CA",United States,MSP,"Minneapolis, MN",United States,TRUE,134
+Allegiant Air,LAX,"Los Angeles, CA",United States,MSO,"Missoula, MT",United States,TRUE,12
+United Air Lines Inc.,LAX,"Los Angeles, CA",United States,MSN,"Madison, WI",United States,TRUE,3
+Air Berlin PLC and CO,LAX,"Los Angeles, CA",United States,TXL,"Berlin, Germany",Germany,TRUE,5
+Delta Air Lines Inc.,LAX,"Los Angeles, CA",United States,DAB,"Daytona Beach, FL",United States,TRUE,1
+Delta Air Lines Inc.,LAX,"Los Angeles, CA",United States,DAL,"Dallas, TX",United States,TRUE,61
+SkyWest Airlines Inc.,LAX,"Los Angeles, CA",United States,SGU,"St. George, UT",United States,TRUE,6
+Alaska Airlines Inc.,LAX,"Los Angeles, CA",United States,SEA,"Seattle, WA",United States,TRUE,284
+Sun Country Airlines d/b/a MN Airlines,LAX,"Los Angeles, CA",United States,DAY,"Dayton, OH",United States,TRUE,1
+Allegiant Air,LAX,"Los Angeles, CA",United States,SGF,"Springfield, MO",United States,TRUE,13
+Korean Air Lines Co. Ltd.,LAX,"Los Angeles, CA",United States,ICN,"Seoul, South Korea",South Korea,FALSE,144
+VistaJet Limited,LAX,"Los Angeles, CA",United States,GVA,"Geneva, Switzerland",Switzerland,TRUE,4
+VistaJet Limited,LAX,"Los Angeles, CA",United States,KLU,"Klagenfurt, Austria",Austria,TRUE,1
+Comlux Aruba NV,LAX,"Los Angeles, CA",United States,TNG,"Tangier, Morocco",Morocco,TRUE,1
+XTRA Airways,LAX,"Los Angeles, CA",United States,HOU,"Houston, TX",United States,TRUE,36
+Sichuan Airlines Co Ltd.,LAX,"Los Angeles, CA",United States,TNA,"Jinan, China",China,TRUE,12
+Miami Air International,LAX,"Los Angeles, CA",United States,ICT,"Wichita, KS",United States,TRUE,9
+China Eastern Airlines,LAX,"Los Angeles, CA",United States,NKG,"Nanjing, China",China,TRUE,12
+Concesionaria Vuela Compania De Aviacion SA de CV (Volaris),LAX,"Los Angeles, CA",United States,ZCL,"Zacatecas, Mexico",Mexico,TRUE,21
+Southwest Airlines Co.,LAX,"Los Angeles, CA",United States,AMA,"Amarillo, TX",United States,TRUE,1
+"Jet Aviation Flight Services, Inc.",LAX,"Los Angeles, CA",United States,EZE,"Ezeiza, Argentina",Argentina,TRUE,1
+Emirates,LAX,"Los Angeles, CA",United States,DXB,"Dubai, United Arab Emirates",United Arab Emirates,FALSE,20
