@@ -1,7 +1,7 @@
 .leaflet-container {
-    border: 1px blue solid;
     z-index: 0;
 }
+
 
 .dropdown-check-list {
   display: inline-block;
@@ -46,4 +46,8 @@
 }
 .dropdown-check-list.visible .items {
   display: block;
+}
+
+.navbar {
+  margin-bottom: 0px !important;
 }

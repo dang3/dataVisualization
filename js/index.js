@@ -3,10 +3,13 @@ let myMap;
 let canvas;
 let airportData = [];
 let airportLocation = [];
-let positions = [];
+let outboundPositions = [];
+let inboundPositions = [];
 let maxCount = 0;
 let focusCityData;
-let focusCityName = 'LAX';
+let focusCityName = 'OAK';
+let bInbound = true;
+let bOutbound = true;
 
 let options = {
   lat: 35.6213,
@@ -50,17 +53,33 @@ function draw() {
   star(0, 0, 15, 35, 5);
   pop();
 
-  // draw cities in red
-  fill(255,0,0,100);  
-  for(let p of positions) {
+  if(bOutbound) drawOutboundCities();
+  //if(bInbound) drawInboundCities();
+
+}
+
+function drawOutboundCities() {
+  // draw outbound cities in red
+  fill(244, 66, 66,100);  
+  for(let p of outboundPositions) {
     ellipse(p.xPos, p.yPos, p.diameter*myMap.zoom());
   }
 }
 
+function drawInboundCities() {
+  // draw inbound cities in blue
+  fill(65, 181, 244, 100);
+  for(let p of inboundPositions) {
+    ellipse(p.xPos, p.yPos, p.diameter*myMap.zoom());
+  }
+}
 
 function updateLocations() {
-  positions = [];
+  outboundPositions = [];
   maxCount = 0;
+  updateFocusCity(focusCityName);
+
+  // update outbound flights
   for (let row of airportData[0][focusCityName]['outbound'].rows) { 
     let city = row.get('DEST');
     let cityLocation = airportLocation[city];
@@ -69,7 +88,7 @@ function updateLocations() {
     let instances = parseInt(row.get('INSTANCES'));
     let pos = myMap.latLngToPixel(lat, long);
     if(instances > maxCount) maxCount = instances;
-    positions.push( {
+    outboundPositions.push( {
       xPos: pos.x,
       yPos: pos.y,
       count: instances,
@@ -77,11 +96,35 @@ function updateLocations() {
   }
   let maxDiameter = sqrt(maxCount);
 
-  for(let pos of positions) {
+  for(let pos of outboundPositions) {
     pos.diameter = map(sqrt(pos.count), 1, maxDiameter, 2,15);
   }
-  updateFocusCity(focusCityName);
+
+    // update inbound flights
+    maxCount = 0;
+    for (let row of airportData[0][focusCityName]['inbound'].rows) { 
+      let city = row.get('ORIGIN');
+      let cityLocation = airportLocation[city];
+      let lat = cityLocation['latitude'];
+      let long = cityLocation['longitude'];
+      let instances = parseInt(row.get('INSTANCES'));
+      let pos = myMap.latLngToPixel(lat, long);
+      if(instances > maxCount) maxCount = instances;
+      inboundPositions.push( {
+        xPos: pos.x,
+        yPos: pos.y,
+        count: instances,
+      });
+    }
+    maxDiameter = sqrt(maxCount);
+  
+    for(let pos of inboundPositions) {
+      pos.diameter = map(sqrt(pos.count), 1, maxDiameter, 2,15);
+    }
 }
+
+
+
 
 function updateFocusCity(name) {
   let location = airportLocation[name];
@@ -112,4 +155,12 @@ function star(x, y, radius1, radius2, npoints) {
 function setFocusAirport(name) {
   focusCityName = name;
   updateLocations();
+}
+
+function setInbound() {
+  bInbound = !bInbound;
+}
+
+function setOutbound() {
+  bOutbound = !bOutbound;
 }

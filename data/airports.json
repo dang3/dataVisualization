@@ -4955,6 +4955,30 @@
       "timezone":"0",
       "dst":"E"
    },
+   "GYR":{
+      "name":"Phoenix Goodyear Airport",
+      "city":"",
+      "country":"",
+      "iata":"",
+      "icao":"",
+      "latitude":"33.428056",
+      "longitude":"-112.374444",
+      "altitude":"",
+      "timezone":"",
+      "dst":""
+   },
+   "UXK":{
+      "name":"Petaluma Municipal Airport",
+      "city":"",
+      "country":"",
+      "iata":"",
+      "icao":"",
+      "latitude":"38.257778",
+      "longitude":"-122.605556",
+      "altitude":"",
+      "timezone":"",
+      "dst":""
+   },
    "ECS":{
       "name":"Newcastle Airport",
       "city":"",

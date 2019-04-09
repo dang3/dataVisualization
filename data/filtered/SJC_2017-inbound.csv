@@ -1,130 +1,129 @@
 CARRIER_NAME,ORIGIN,ORIGIN_CITY_NAME,ORIGIN_COUNTRY_NAME,DEST,DEST_CITY_NAME,DEST_COUNTRY_NAME,PASSENGER,INSTANCES
-"Jet Aviation Flight Services, Inc.",JFK,"New York, NY",United States,SJC,"San Jose, CA",United States,True,19
-Avjet Corporation,YLW,"Kelowna, Canada",Canada,SJC,"San Jose, CA",United States,True,1
-Sun Country Airlines d/b/a MN Airlines,CKB,"Clarksburg/Fairmont, WV",United States,SJC,"San Jose, CA",United States,True,1
-American Airlines Inc.,MIA,"Miami, FL",United States,SJC,"San Jose, CA",United States,True,1
-"Jet Aviation Flight Services, Inc.",LIM,"Lima, Peru",Peru,SJC,"San Jose, CA",United States,True,2
-United Air Lines Inc.,BOS,"Boston, MA",United States,SJC,"San Jose, CA",United States,True,13
-Avjet Corporation,OAK,"Oakland, CA",United States,SJC,"San Jose, CA",United States,True,11
-Allegiant Air,FWA,"Fort Wayne, IN",United States,SJC,"San Jose, CA",United States,True,1
-SkyWest Airlines Inc.,BOI,"Boise, ID",United States,SJC,"San Jose, CA",United States,True,21
-Air Canada,YUL,"Montreal, Canada",Canada,SJC,"San Jose, CA",United States,True,1
-Concesionaria Vuela Compania De Aviacion SA de CV (Volaris),TIJ,"Tijuana, Mexico",Mexico,SJC,"San Jose, CA",United States,True,1
-"Jet Aviation Flight Services, Inc.",AGS,"Augusta, GA",United States,SJC,"San Jose, CA",United States,True,1
-Avjet Corporation,EGE,"Eagle, CO",United States,SJC,"San Jose, CA",United States,True,1
-Avjet Corporation,SAN,"San Diego, CA",United States,SJC,"San Jose, CA",United States,True,50
-Southwest Airlines Co.,BWI,"Baltimore, MD",United States,SJC,"San Jose, CA",United States,True,20
-Avjet Corporation,VNY,"Van Nuys, CA",United States,SJC,"San Jose, CA",United States,True,4
-Tradewind Aviation,SAT,"San Antonio, TX",United States,SJC,"San Jose, CA",United States,True,3
-"Jet Aviation Flight Services, Inc.",MRY,"Monterey, CA",United States,SJC,"San Jose, CA",United States,True,2
-"Jet Aviation Flight Services, Inc.",YVR,"Vancouver, Canada",Canada,SJC,"San Jose, CA",United States,True,30
-"Swift Air, LLC",YMX,"Montreal, Canada",Canada,SJC,"San Jose, CA",United States,True,1
-London Air Services Limited,BFI,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True,2
-British Airways Plc,LHR,"London, United Kingdom",United Kingdom,SJC,"San Jose, CA",United States,True,13
-"Swift Air, LLC",BNA,"Nashville, TN",United States,SJC,"San Jose, CA",United States,True,7
-Avjet Corporation,JAC,"Jackson, WY",United States,SJC,"San Jose, CA",United States,True,1
-"Jet Aviation Flight Services, Inc.",SMO,"Santa Monica, CA",United States,SJC,"San Jose, CA",United States,True,3
-Avjet Corporation,KIX,"Osaka, Japan",Japan,SJC,"San Jose, CA",United States,True,1
-United Parcel Service,PHL,"Philadelphia, PA",United States,SJC,"San Jose, CA",United States,False,3
-"Jet Aviation Flight Services, Inc.",SNA,"Santa Ana, CA",United States,SJC,"San Jose, CA",United States,True,29
-"KaiserAir, Inc.",YEG,"Edmonton, Canada",Canada,SJC,"San Jose, CA",United States,True,4
-"Jet Aviation Flight Services, Inc.",VIS,"Visalia, CA",United States,SJC,"San Jose, CA",United States,True,1
-Miami Air International,PHX,"Phoenix, AZ",United States,SJC,"San Jose, CA",United States,True,77
-Delta Air Lines Inc.,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,True,136
-"Jet Aviation Flight Services, Inc.",APA,"Denver, CO",United States,SJC,"San Jose, CA",United States,True,2
-Sun Country Airlines d/b/a MN Airlines,LAR,"Laramie, WY",United States,SJC,"San Jose, CA",United States,True,1
-"Swift Air, LLC",LAS,"Las Vegas, NV",United States,SJC,"San Jose, CA",United States,True,72
-Sun Country Airlines d/b/a MN Airlines,IFP,"Bullhead City, AZ",United States,SJC,"San Jose, CA",United States,True,3
-VistaJet Limited,NGO,"Nagoya, Japan",Japan,SJC,"San Jose, CA",United States,True,1
-"Jet Aviation Flight Services, Inc.",DET,"Detroit, MI",United States,SJC,"San Jose, CA",United States,True,1
-Delta Air Lines Inc.,DEN,"Denver, CO",United States,SJC,"San Jose, CA",United States,True,109
-Delta Air Lines Inc.,SMF,"Sacramento, CA",United States,SJC,"San Jose, CA",United States,True,3
-Chartright Air Inc.,YYZ,"Toronto, Canada",Canada,SJC,"San Jose, CA",United States,True,6
-Avjet Corporation,TKF,"Truckee, CA",United States,SJC,"San Jose, CA",United States,True,1
-VistaJet Limited,SCL,"Santiago, Chile",Chile,SJC,"San Jose, CA",United States,True,1
-SkyWest Airlines Inc.,SFO,"San Francisco, CA",United States,SJC,"San Jose, CA",United States,True,4
-Avjet Corporation,BUR,"Burbank, CA",United States,SJC,"San Jose, CA",United States,True,77
-Air China,PVG,"Shanghai, China",China,SJC,"San Jose, CA",United States,True,12
-SkyWest Airlines Inc.,GEG,"Spokane, WA",United States,SJC,"San Jose, CA",United States,True,3
-Alaska Airlines Inc.,LIH,"Lihue, HI",United States,SJC,"San Jose, CA",United States,True,13
-Delta Air Lines Inc.,BUF,"Buffalo, NY",United States,SJC,"San Jose, CA",United States,True,5
-VistaJet Limited,CSL,"Cabo San Lucas, Mexico",Mexico,SJC,"San Jose, CA",United States,True,1
-"Jet Aviation Flight Services, Inc.",BDL,"Hartford, CT",United States,SJC,"San Jose, CA",United States,True,1
-United Parcel Service,DSM,"Des Moines, IA",United States,SJC,"San Jose, CA",United States,False,1
-United Parcel Service,RFD,"Rockford, IL",United States,SJC,"San Jose, CA",United States,False,2
-United Parcel Service,EWR,"Newark, NJ",United States,SJC,"San Jose, CA",United States,False,50
-"KaiserAir, Inc.",GRI,"Grand Island, NE",United States,SJC,"San Jose, CA",United States,True,1
-SkyWest Airlines Inc.,RNO,"Reno, NV",United States,SJC,"San Jose, CA",United States,True,25
-Ameristar Air Cargo,LRD,"Laredo, TX",United States,SJC,"San Jose, CA",United States,False,1
-VistaJet Limited,ANC,"Anchorage, AK",United States,SJC,"San Jose, CA",United States,True,3
-Avjet Corporation,MKC,"Kansas City, MO",United States,SJC,"San Jose, CA",United States,True,1
-Federal Express Corporation,MEM,"Memphis, TN",United States,SJC,"San Jose, CA",United States,False,16
-Federal Express Corporation,IND,"Indianapolis, IN",United States,SJC,"San Jose, CA",United States,False,9
-SkyWest Airlines Inc.,PSP,"Palm Springs, CA",United States,SJC,"San Jose, CA",United States,True,1
-SkyWest Airlines Inc.,COS,"Colorado Springs, CO",United States,SJC,"San Jose, CA",United States,True,1
-VistaJet Limited,HND,"Tokyo, Japan",Japan,SJC,"San Jose, CA",United States,True,3
-VistaJet Limited,CTS,"Sapporo, Japan",Japan,SJC,"San Jose, CA",United States,True,1
-Delta Air Lines Inc.,ATL,"Atlanta, GA",United States,SJC,"San Jose, CA",United States,True,27
-Hawaiian Airlines Inc.,HNL,"Honolulu, HI",United States,SJC,"San Jose, CA",United States,True,33
-"Jet Aviation Flight Services, Inc.",XNA,"Fayetteville, AR",United States,SJC,"San Jose, CA",United States,True,2
-Hainan Airlines Company Limited,PEK,"Beijing, China",China,SJC,"San Jose, CA",United States,True,22
-Delux Public Charter LLC,BZN,"Bozeman, MT",United States,SJC,"San Jose, CA",United States,True,3
-Avjet Corporation,LNY,"Lanai, HI",United States,SJC,"San Jose, CA",United States,True,1
-"Jet Aviation Flight Services, Inc.",TEB,"Teterboro, NJ",United States,SJC,"San Jose, CA",United States,True,8
-SkyWest Airlines Inc.,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,True,121
-United Air Lines Inc.,LWS,"Lewiston, ID",United States,SJC,"San Jose, CA",United States,True,1
-Southwest Airlines Co.,MDW,"Chicago, IL",United States,SJC,"San Jose, CA",United States,True,20
-Sun Country Airlines d/b/a MN Airlines,RDU,"Raleigh/Durham, NC",United States,SJC,"San Jose, CA",United States,True,2
-Lufthansa German Airlines,FRA,"Frankfurt, Germany",Germany,SJC,"San Jose, CA",United States,True,10
-"Jet Aviation Flight Services, Inc.",LNK,"Lincoln, NE",United States,SJC,"San Jose, CA",United States,True,1
-SkyWest Airlines Inc.,PDX,"Portland, OR",United States,SJC,"San Jose, CA",United States,True,94
-Avjet Corporation,CLD,"Carlsbad, CA",United States,SJC,"San Jose, CA",United States,True,1
-United Parcel Service,DFW,"Dallas/Fort Worth, TX",United States,SJC,"San Jose, CA",United States,False,33
-Atlas Air Inc.,JAX,"Jacksonville, FL",United States,SJC,"San Jose, CA",United States,True,1
-SkyWest Airlines Inc.,AUS,"Austin, TX",United States,SJC,"San Jose, CA",United States,True,32
-VistaJet Limited,HEL,"Helsinki, Finland",Finland,SJC,"San Jose, CA",United States,True,1
-VistaJet Limited,LTN,"London, United Kingdom",United Kingdom,SJC,"San Jose, CA",United States,True,3
-Alaska Airlines Inc.,SJD,"San Jose del Cabo, Mexico",Mexico,SJC,"San Jose, CA",United States,True,43
-"Jet Aviation Flight Services, Inc.",CAK,"Akron, OH",United States,SJC,"San Jose, CA",United States,True,1
-"KaiserAir, Inc.",OMA,"Omaha, NE",United States,SJC,"San Jose, CA",United States,True,1
-"Jet Aviation Flight Services, Inc.",MMU,"Morristown, NJ",United States,SJC,"San Jose, CA",United States,True,1
-SkyWest Airlines Inc.,TUS,"Tucson, AZ",United States,SJC,"San Jose, CA",United States,True,8
-"Jet Aviation Flight Services, Inc.",ID1,"Driggs, ID",United States,SJC,"San Jose, CA",United States,True,1
-Concesionaria Vuela Compania De Aviacion SA de CV (Volaris),ZCL,"Zacatecas, Mexico",Mexico,SJC,"San Jose, CA",United States,True,1
-Jazz Aviation LP,YYC,"Calgary, Canada",Canada,SJC,"San Jose, CA",United States,True,4
-Sun Country Airlines d/b/a MN Airlines,LEX,"Lexington, KY",United States,SJC,"San Jose, CA",United States,True,1
-Federal Express Corporation,ORD,"Chicago, IL",United States,SJC,"San Jose, CA",United States,False,56
-Alaska Airlines Inc.,GDL,"Guadalajara, Mexico",Mexico,SJC,"San Jose, CA",United States,True,50
-London Air Services Limited,YYJ,"Victoria, Canada",Canada,SJC,"San Jose, CA",United States,True,1
-"Swift Air, LLC",MKE,"Milwaukee, WI",United States,SJC,"San Jose, CA",United States,True,1
-"Swift Air, LLC",GNV,"Gainesville, FL",United States,SJC,"San Jose, CA",United States,True,1
-"Jet Aviation Flight Services, Inc.",KOA,"Kona, HI",United States,SJC,"San Jose, CA",United States,True,19
-"Swift Air, LLC",AZA,"Phoenix, AZ",United States,SJC,"San Jose, CA",United States,True,2
-Delta Air Lines Inc.,MSP,"Minneapolis, MN",United States,SJC,"San Jose, CA",United States,True,28
-"KaiserAir, Inc.",YWG,"Winnipeg, Canada",Canada,SJC,"San Jose, CA",United States,True,2
-Sun Country Airlines d/b/a MN Airlines,MSN,"Madison, WI",United States,SJC,"San Jose, CA",United States,True,1
-Sun Country Airlines d/b/a MN Airlines,CVG,"Cincinnati, OH",United States,SJC,"San Jose, CA",United States,True,1
-"Jet Aviation Flight Services, Inc.",TOA,"Torrance, CA",United States,SJC,"San Jose, CA",United States,True,1
-United Parcel Service,CAE,"Columbia, SC",United States,SJC,"San Jose, CA",United States,False,1
-United Air Lines Inc.,IAH,"Houston, TX",United States,SJC,"San Jose, CA",United States,True,44
-Miami Air International,TPA,"Tampa, FL",United States,SJC,"San Jose, CA",United States,True,2
-VistaJet Limited,FAR,"Fargo, ND",United States,SJC,"San Jose, CA",United States,True,1
-SkyWest Airlines Inc.,FAT,"Fresno, CA",United States,SJC,"San Jose, CA",United States,True,1
-American Airlines Inc.,CLT,"Charlotte, NC",United States,SJC,"San Jose, CA",United States,True,10
-Delta Air Lines Inc.,IAD,"Washington, DC",United States,SJC,"San Jose, CA",United States,True,1
-Horizon Air,EUG,"Eugene, OR",United States,SJC,"San Jose, CA",United States,True,12
-SkyWest Airlines Inc.,ONT,"Ontario, CA",United States,SJC,"San Jose, CA",United States,True,29
-Southwest Airlines Co.,STL,"St. Louis, MO",United States,SJC,"San Jose, CA",United States,True,1
-Albinati Aeronautics SA,GVA,"Geneva, Switzerland",Switzerland,SJC,"San Jose, CA",United States,True,1
-Concesionaria Vuela Compania De Aviacion SA de CV (Volaris),MLM,"Morelia, Mexico",Mexico,SJC,"San Jose, CA",United States,True,1
-American Airlines Inc.,ABQ,"Albuquerque, NM",United States,SJC,"San Jose, CA",United States,True,4
-"Jet Aviation Flight Services, Inc.",HOU,"Houston, TX",United States,SJC,"San Jose, CA",United States,True,1
-"Jet Aviation Flight Services, Inc.",HPN,"White Plains, NY",United States,SJC,"San Jose, CA",United States,True,2
-Delta Air Lines Inc.,SLC,"Salt Lake City, UT",United States,SJC,"San Jose, CA",United States,True,100
-"KaiserAir, Inc.",LGB,"Long Beach, CA",United States,SJC,"San Jose, CA",United States,True,18
-Svenskt Industriflyg AB,BHD,"Belfast, United Kingdom",United Kingdom,SJC,"San Jose, CA",United States,True,1
-Southwest Airlines Co.,DAL,"Dallas, TX",United States,SJC,"San Jose, CA",United States,True,24
-United Parcel Service,SDF,"Louisville, KY",United States,SJC,"San Jose, CA",United States,False,26
-Avjet Corporation,OGG,"Kahului, HI",United States,SJC,"San Jose, CA",United States,True,31
-All Nippon Airways Co.,NRT,"Tokyo, Japan",Japan,SJC,"San Jose, CA",United States,True,13
-Allegiant Air,LGU,"Logan, UT",United States,SJC,"San Jose, CA",United States,True,1
+"Jet Aviation Flight Services, Inc.",JFK,"New York, NY",United States,SJC,"San Jose, CA",United States,TRUE,19
+Avjet Corporation,YLW,"Kelowna, Canada",Canada,SJC,"San Jose, CA",United States,TRUE,1
+Sun Country Airlines d/b/a MN Airlines,CKB,"Clarksburg/Fairmont, WV",United States,SJC,"San Jose, CA",United States,TRUE,1
+American Airlines Inc.,MIA,"Miami, FL",United States,SJC,"San Jose, CA",United States,TRUE,1
+"Jet Aviation Flight Services, Inc.",LIM,"Lima, Peru",Peru,SJC,"San Jose, CA",United States,TRUE,2
+United Air Lines Inc.,BOS,"Boston, MA",United States,SJC,"San Jose, CA",United States,TRUE,13
+Avjet Corporation,OAK,"Oakland, CA",United States,SJC,"San Jose, CA",United States,TRUE,11
+Allegiant Air,FWA,"Fort Wayne, IN",United States,SJC,"San Jose, CA",United States,TRUE,1
+SkyWest Airlines Inc.,BOI,"Boise, ID",United States,SJC,"San Jose, CA",United States,TRUE,21
+Air Canada,YUL,"Montreal, Canada",Canada,SJC,"San Jose, CA",United States,TRUE,1
+Concesionaria Vuela Compania De Aviacion SA de CV (Volaris),TIJ,"Tijuana, Mexico",Mexico,SJC,"San Jose, CA",United States,TRUE,1
+"Jet Aviation Flight Services, Inc.",AGS,"Augusta, GA",United States,SJC,"San Jose, CA",United States,TRUE,1
+Avjet Corporation,EGE,"Eagle, CO",United States,SJC,"San Jose, CA",United States,TRUE,1
+Avjet Corporation,SAN,"San Diego, CA",United States,SJC,"San Jose, CA",United States,TRUE,50
+Southwest Airlines Co.,BWI,"Baltimore, MD",United States,SJC,"San Jose, CA",United States,TRUE,20
+Avjet Corporation,VNY,"Van Nuys, CA",United States,SJC,"San Jose, CA",United States,TRUE,4
+Tradewind Aviation,SAT,"San Antonio, TX",United States,SJC,"San Jose, CA",United States,TRUE,3
+"Jet Aviation Flight Services, Inc.",MRY,"Monterey, CA",United States,SJC,"San Jose, CA",United States,TRUE,2
+"Jet Aviation Flight Services, Inc.",YVR,"Vancouver, Canada",Canada,SJC,"San Jose, CA",United States,TRUE,30
+"Swift Air, LLC",YMX,"Montreal, Canada",Canada,SJC,"San Jose, CA",United States,TRUE,1
+London Air Services Limited,BFI,"Seattle, WA",United States,SJC,"San Jose, CA",United States,TRUE,2
+British Airways Plc,LHR,"London, United Kingdom",United Kingdom,SJC,"San Jose, CA",United States,TRUE,13
+"Swift Air, LLC",BNA,"Nashville, TN",United States,SJC,"San Jose, CA",United States,TRUE,7
+Avjet Corporation,JAC,"Jackson, WY",United States,SJC,"San Jose, CA",United States,TRUE,1
+"Jet Aviation Flight Services, Inc.",SMO,"Santa Monica, CA",United States,SJC,"San Jose, CA",United States,TRUE,3
+Avjet Corporation,KIX,"Osaka, Japan",Japan,SJC,"San Jose, CA",United States,TRUE,1
+United Parcel Service,PHL,"Philadelphia, PA",United States,SJC,"San Jose, CA",United States,FALSE,3
+"Jet Aviation Flight Services, Inc.",SNA,"Santa Ana, CA",United States,SJC,"San Jose, CA",United States,TRUE,29
+"KaiserAir, Inc.",YEG,"Edmonton, Canada",Canada,SJC,"San Jose, CA",United States,TRUE,4
+"Jet Aviation Flight Services, Inc.",VIS,"Visalia, CA",United States,SJC,"San Jose, CA",United States,TRUE,1
+Miami Air International,PHX,"Phoenix, AZ",United States,SJC,"San Jose, CA",United States,TRUE,77
+Delta Air Lines Inc.,LAX,"Los Angeles, CA",United States,SJC,"San Jose, CA",United States,TRUE,136
+"Jet Aviation Flight Services, Inc.",APA,"Denver, CO",United States,SJC,"San Jose, CA",United States,TRUE,2
+Sun Country Airlines d/b/a MN Airlines,LAR,"Laramie, WY",United States,SJC,"San Jose, CA",United States,TRUE,1
+"Swift Air, LLC",LAS,"Las Vegas, NV",United States,SJC,"San Jose, CA",United States,TRUE,72
+Sun Country Airlines d/b/a MN Airlines,IFP,"Bullhead City, AZ",United States,SJC,"San Jose, CA",United States,TRUE,3
+VistaJet Limited,NGO,"Nagoya, Japan",Japan,SJC,"San Jose, CA",United States,TRUE,1
+"Jet Aviation Flight Services, Inc.",DET,"Detroit, MI",United States,SJC,"San Jose, CA",United States,TRUE,1
+Delta Air Lines Inc.,DEN,"Denver, CO",United States,SJC,"San Jose, CA",United States,TRUE,109
+Delta Air Lines Inc.,SMF,"Sacramento, CA",United States,SJC,"San Jose, CA",United States,TRUE,3
+Chartright Air Inc.,YYZ,"Toronto, Canada",Canada,SJC,"San Jose, CA",United States,TRUE,6
+Avjet Corporation,TKF,"Truckee, CA",United States,SJC,"San Jose, CA",United States,TRUE,1
+VistaJet Limited,SCL,"Santiago, Chile",Chile,SJC,"San Jose, CA",United States,TRUE,1
+SkyWest Airlines Inc.,SFO,"San Francisco, CA",United States,SJC,"San Jose, CA",United States,TRUE,4
+Avjet Corporation,BUR,"Burbank, CA",United States,SJC,"San Jose, CA",United States,TRUE,77
+Air China,PVG,"Shanghai, China",China,SJC,"San Jose, CA",United States,TRUE,12
+SkyWest Airlines Inc.,GEG,"Spokane, WA",United States,SJC,"San Jose, CA",United States,TRUE,3
+Alaska Airlines Inc.,LIH,"Lihue, HI",United States,SJC,"San Jose, CA",United States,TRUE,13
+Delta Air Lines Inc.,BUF,"Buffalo, NY",United States,SJC,"San Jose, CA",United States,TRUE,5
+VistaJet Limited,CSL,"Cabo San Lucas, Mexico",Mexico,SJC,"San Jose, CA",United States,TRUE,1
+"Jet Aviation Flight Services, Inc.",BDL,"Hartford, CT",United States,SJC,"San Jose, CA",United States,TRUE,1
+United Parcel Service,DSM,"Des Moines, IA",United States,SJC,"San Jose, CA",United States,FALSE,1
+United Parcel Service,RFD,"Rockford, IL",United States,SJC,"San Jose, CA",United States,FALSE,2
+United Parcel Service,EWR,"Newark, NJ",United States,SJC,"San Jose, CA",United States,FALSE,50
+"KaiserAir, Inc.",GRI,"Grand Island, NE",United States,SJC,"San Jose, CA",United States,TRUE,1
+SkyWest Airlines Inc.,RNO,"Reno, NV",United States,SJC,"San Jose, CA",United States,TRUE,25
+Ameristar Air Cargo,LRD,"Laredo, TX",United States,SJC,"San Jose, CA",United States,FALSE,1
+VistaJet Limited,ANC,"Anchorage, AK",United States,SJC,"San Jose, CA",United States,TRUE,3
+Avjet Corporation,MKC,"Kansas City, MO",United States,SJC,"San Jose, CA",United States,TRUE,1
+Federal Express Corporation,MEM,"Memphis, TN",United States,SJC,"San Jose, CA",United States,FALSE,16
+Federal Express Corporation,IND,"Indianapolis, IN",United States,SJC,"San Jose, CA",United States,FALSE,9
+SkyWest Airlines Inc.,PSP,"Palm Springs, CA",United States,SJC,"San Jose, CA",United States,TRUE,1
+SkyWest Airlines Inc.,COS,"Colorado Springs, CO",United States,SJC,"San Jose, CA",United States,TRUE,1
+VistaJet Limited,HND,"Tokyo, Japan",Japan,SJC,"San Jose, CA",United States,TRUE,3
+VistaJet Limited,CTS,"Sapporo, Japan",Japan,SJC,"San Jose, CA",United States,TRUE,1
+Delta Air Lines Inc.,ATL,"Atlanta, GA",United States,SJC,"San Jose, CA",United States,TRUE,27
+Hawaiian Airlines Inc.,HNL,"Honolulu, HI",United States,SJC,"San Jose, CA",United States,TRUE,33
+"Jet Aviation Flight Services, Inc.",XNA,"Fayetteville, AR",United States,SJC,"San Jose, CA",United States,TRUE,2
+Hainan Airlines Company Limited,PEK,"Beijing, China",China,SJC,"San Jose, CA",United States,TRUE,22
+Delux Public Charter LLC,BZN,"Bozeman, MT",United States,SJC,"San Jose, CA",United States,TRUE,3
+Avjet Corporation,LNY,"Lanai, HI",United States,SJC,"San Jose, CA",United States,TRUE,1
+"Jet Aviation Flight Services, Inc.",TEB,"Teterboro, NJ",United States,SJC,"San Jose, CA",United States,TRUE,8
+SkyWest Airlines Inc.,SEA,"Seattle, WA",United States,SJC,"San Jose, CA",United States,TRUE,121
+United Air Lines Inc.,LWS,"Lewiston, ID",United States,SJC,"San Jose, CA",United States,TRUE,1
+Southwest Airlines Co.,MDW,"Chicago, IL",United States,SJC,"San Jose, CA",United States,TRUE,20
+Sun Country Airlines d/b/a MN Airlines,RDU,"Raleigh/Durham, NC",United States,SJC,"San Jose, CA",United States,TRUE,2
+Lufthansa German Airlines,FRA,"Frankfurt, Germany",Germany,SJC,"San Jose, CA",United States,TRUE,10
+"Jet Aviation Flight Services, Inc.",LNK,"Lincoln, NE",United States,SJC,"San Jose, CA",United States,TRUE,1
+SkyWest Airlines Inc.,PDX,"Portland, OR",United States,SJC,"San Jose, CA",United States,TRUE,94
+Avjet Corporation,CLD,"Carlsbad, CA",United States,SJC,"San Jose, CA",United States,TRUE,1
+United Parcel Service,DFW,"Dallas/Fort Worth, TX",United States,SJC,"San Jose, CA",United States,FALSE,33
+Atlas Air Inc.,JAX,"Jacksonville, FL",United States,SJC,"San Jose, CA",United States,TRUE,1
+SkyWest Airlines Inc.,AUS,"Austin, TX",United States,SJC,"San Jose, CA",United States,TRUE,32
+VistaJet Limited,HEL,"Helsinki, Finland",Finland,SJC,"San Jose, CA",United States,TRUE,1
+VistaJet Limited,LTN,"London, United Kingdom",United Kingdom,SJC,"San Jose, CA",United States,TRUE,3
+Alaska Airlines Inc.,SJD,"San Jose del Cabo, Mexico",Mexico,SJC,"San Jose, CA",United States,TRUE,43
+"Jet Aviation Flight Services, Inc.",CAK,"Akron, OH",United States,SJC,"San Jose, CA",United States,TRUE,1
+"KaiserAir, Inc.",OMA,"Omaha, NE",United States,SJC,"San Jose, CA",United States,TRUE,1
+"Jet Aviation Flight Services, Inc.",MMU,"Morristown, NJ",United States,SJC,"San Jose, CA",United States,TRUE,1
+SkyWest Airlines Inc.,TUS,"Tucson, AZ",United States,SJC,"San Jose, CA",United States,TRUE,8
+Concesionaria Vuela Compania De Aviacion SA de CV (Volaris),ZCL,"Zacatecas, Mexico",Mexico,SJC,"San Jose, CA",United States,TRUE,1
+Jazz Aviation LP,YYC,"Calgary, Canada",Canada,SJC,"San Jose, CA",United States,TRUE,4
+Sun Country Airlines d/b/a MN Airlines,LEX,"Lexington, KY",United States,SJC,"San Jose, CA",United States,TRUE,1
+Federal Express Corporation,ORD,"Chicago, IL",United States,SJC,"San Jose, CA",United States,FALSE,56
+Alaska Airlines Inc.,GDL,"Guadalajara, Mexico",Mexico,SJC,"San Jose, CA",United States,TRUE,50
+London Air Services Limited,YYJ,"Victoria, Canada",Canada,SJC,"San Jose, CA",United States,TRUE,1
+"Swift Air, LLC",MKE,"Milwaukee, WI",United States,SJC,"San Jose, CA",United States,TRUE,1
+"Swift Air, LLC",GNV,"Gainesville, FL",United States,SJC,"San Jose, CA",United States,TRUE,1
+"Jet Aviation Flight Services, Inc.",KOA,"Kona, HI",United States,SJC,"San Jose, CA",United States,TRUE,19
+"Swift Air, LLC",AZA,"Phoenix, AZ",United States,SJC,"San Jose, CA",United States,TRUE,2
+Delta Air Lines Inc.,MSP,"Minneapolis, MN",United States,SJC,"San Jose, CA",United States,TRUE,28
+"KaiserAir, Inc.",YWG,"Winnipeg, Canada",Canada,SJC,"San Jose, CA",United States,TRUE,2
+Sun Country Airlines d/b/a MN Airlines,MSN,"Madison, WI",United States,SJC,"San Jose, CA",United States,TRUE,1
+Sun Country Airlines d/b/a MN Airlines,CVG,"Cincinnati, OH",United States,SJC,"San Jose, CA",United States,TRUE,1
+"Jet Aviation Flight Services, Inc.",TOA,"Torrance, CA",United States,SJC,"San Jose, CA",United States,TRUE,1
+United Parcel Service,CAE,"Columbia, SC",United States,SJC,"San Jose, CA",United States,FALSE,1
+United Air Lines Inc.,IAH,"Houston, TX",United States,SJC,"San Jose, CA",United States,TRUE,44
+Miami Air International,TPA,"Tampa, FL",United States,SJC,"San Jose, CA",United States,TRUE,2
+VistaJet Limited,FAR,"Fargo, ND",United States,SJC,"San Jose, CA",United States,TRUE,1
+SkyWest Airlines Inc.,FAT,"Fresno, CA",United States,SJC,"San Jose, CA",United States,TRUE,1
+American Airlines Inc.,CLT,"Charlotte, NC",United States,SJC,"San Jose, CA",United States,TRUE,10
+Delta Air Lines Inc.,IAD,"Washington, DC",United States,SJC,"San Jose, CA",United States,TRUE,1
+Horizon Air,EUG,"Eugene, OR",United States,SJC,"San Jose, CA",United States,TRUE,12
+SkyWest Airlines Inc.,ONT,"Ontario, CA",United States,SJC,"San Jose, CA",United States,TRUE,29
+Southwest Airlines Co.,STL,"St. Louis, MO",United States,SJC,"San Jose, CA",United States,TRUE,1
+Albinati Aeronautics SA,GVA,"Geneva, Switzerland",Switzerland,SJC,"San Jose, CA",United States,TRUE,1
+Concesionaria Vuela Compania De Aviacion SA de CV (Volaris),MLM,"Morelia, Mexico",Mexico,SJC,"San Jose, CA",United States,TRUE,1
+American Airlines Inc.,ABQ,"Albuquerque, NM",United States,SJC,"San Jose, CA",United States,TRUE,4
+"Jet Aviation Flight Services, Inc.",HOU,"Houston, TX",United States,SJC,"San Jose, CA",United States,TRUE,1
+"Jet Aviation Flight Services, Inc.",HPN,"White Plains, NY",United States,SJC,"San Jose, CA",United States,TRUE,2
+Delta Air Lines Inc.,SLC,"Salt Lake City, UT",United States,SJC,"San Jose, CA",United States,TRUE,100
+"KaiserAir, Inc.",LGB,"Long Beach, CA",United States,SJC,"San Jose, CA",United States,TRUE,18
+Svenskt Industriflyg AB,BHD,"Belfast, United Kingdom",United Kingdom,SJC,"San Jose, CA",United States,TRUE,1
+Southwest Airlines Co.,DAL,"Dallas, TX",United States,SJC,"San Jose, CA",United States,TRUE,24
+United Parcel Service,SDF,"Louisville, KY",United States,SJC,"San Jose, CA",United States,FALSE,26
+Avjet Corporation,OGG,"Kahului, HI",United States,SJC,"San Jose, CA",United States,TRUE,31
+All Nippon Airways Co.,NRT,"Tokyo, Japan",Japan,SJC,"San Jose, CA",United States,TRUE,13
+Allegiant Air,LGU,"Logan, UT",United States,SJC,"San Jose, CA",United States,TRUE,1
