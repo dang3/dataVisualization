@@ -42,30 +42,38 @@ function setup() {
   myMap.overlay(canvas);
   updateLocations();
   myMap.onChange(updateLocations);
+  textSize(25);
 }
 
 function draw() {
   clear();
-
-  // draw rotating star around focus city
-  fill(255,255,0, 100);
-  stroke(255,255,0);
-  push();
-  translate(focusCityData.xPos, focusCityData.yPos);
-  rotate(frameCount / 200.0);
-  star(0, 0, 15, 35, 5);
-  pop();
-
+  drawFocusCity();
   if(bOutbound) drawOutboundCities();
   if(bInbound) drawInboundCities();
+}
 
+function drawFocusCity() {
+// draw rotating star around focus city
+fill(0,0,0);
+stroke(0,0,0);
+text(focusCityName, focusCityData.xPos-25, focusCityData.yPos+10);
+
+
+fill(255,255,0, 100);
+stroke(255,255,0);
+push();
+translate(focusCityData.xPos, focusCityData.yPos);
+rotate(frameCount / 200.0);
+star(0, 0, 15, 35, 5);
+pop();
 }
 
 function drawOutboundCities() {
   // draw outbound cities in red
-  fill(244, 66, 66,100);  
-  stroke(244, 66, 66);
+
   for(let p of outboundPositions) {
+    fill(244, 66, 66,100);  
+    stroke(244, 66, 66);
     ellipse(p.xPos, p.yPos, p.diameter*myMap.zoom());
   }
 }
