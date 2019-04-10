@@ -10,6 +10,12 @@ let focusCityData;
 let focusCityName = 'SFO';
 let bInbound = false;
 let bOutbound = true;
+let legend = {
+  width: 180,
+  height: 120,
+  xPos: 20,
+  yPos: window.innerHeight-220,
+};
 
 let options = {
   lat: 35.6213,
@@ -50,6 +56,36 @@ function draw() {
   drawFocusCity();
   if(bOutbound) drawOutboundCities();
   if(bInbound) drawInboundCities();
+  drawLegend();
+}
+
+function drawLegend() {
+  // draw legend border
+  fill(25,25,25,95);
+  stroke(0);
+  rect(legend.xPos, legend.yPos, legend.width, legend.height);
+
+  // draw key for focus city
+  fill(255,255,0);
+  stroke(255,255,0);
+  star(legend.xPos+20, legend.yPos-35 + 60, 5, 15, 5);
+
+  // draw key for outbound flights
+  fill(244, 66, 66);
+  stroke(244, 66, 66);
+  rect(legend.xPos + 10, legend.yPos+30 + 20, 20,20);
+
+  // draw key for inbound flights
+  fill(66, 244, 137);
+  stroke(66, 244, 137);
+  rect(legend.xPos + 10, legend.yPos + 85, 20,20);
+  
+  fill(0);
+  stroke(0);
+  textSize(15);
+  text("Focus City", legend.xPos+40, legend.yPos + 30);
+  text("Outbound Flights", legend.xPos+40, legend.yPos + 65);
+  text("Inbound Flights", legend.xPos+40, legend.yPos + 100);
 }
 
 function drawFocusCity() {
@@ -57,8 +93,6 @@ function drawFocusCity() {
 fill(0,0,0);
 stroke(0,0,0);
 text(focusCityName, focusCityData.xPos-25, focusCityData.yPos+10);
-
-
 fill(255,255,0, 100);
 stroke(255,255,0);
 push();
@@ -70,7 +104,6 @@ pop();
 
 function drawOutboundCities() {
   // draw outbound cities in red
-
   for(let p of outboundPositions) {
     fill(244, 66, 66,100);  
     stroke(244, 66, 66);
