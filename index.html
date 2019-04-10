@@ -17,29 +17,29 @@
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
-
+  
 </head>
 
 <body>
       <nav class="navbar navbar-inverse navbar-static-top">
         <div class="container-fluid">
           <div class="navbar-header">
-            <a class="navbar-brand">Flights From/To Major California Airports</a>
+            <span class="navbar-brand">Flights From/To Major California Airports in 2017</span>
           </div>
           <ul class="nav navbar-nav">
-            <li><a>SFO</a></li>
             <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Focus Airport<span class="caret"></span></a>
               <ul class="dropdown-menu">
-                <li><input type="checkbox" onclick="setFocusAirport('SFO')"/>SFO </li>
-                <li><input type="checkbox" onclick="setFocusAirport('SJC')"/>SJC</li>
-                <li><input type="checkbox" onclick="setFocusAirport('OAK')"/>OAK </li>
-                <li><input type="checkbox" onclick="setFocusAirport('LAX')"/>LAX </li>
+                <li><input type="checkbox" name="focusCityCheckBox" id="sfoCheckBox" onclick="setFocusAirport('SFO')" checked/>San Francisco SFO</li>
+                <li><input type="checkbox" name="focusCityCheckBox" id="sjcCheckBox" onclick="setFocusAirport('SJC')"/>San Jose SJC</li>
+                <li><input type="checkbox" name="focusCityCheckBox" id="oakCheckBox" onclick="setFocusAirport('OAK')"/>Oakland OAK</li>
+                <li><input type="checkbox" name="focusCityCheckBox" id="laxCheckBox" onclick="setFocusAirport('LAX')"/>Los Angeles LAX</li>
+                <li><input type="checkbox" name="focusCityCheckBox" id="sanCheckBox" onclick="setFocusAirport('SAN')"/>San Diego SAN</li>
               </ul>
             </li>
             <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Inbound/Outbound<span class="caret"></span></a>
               <ul class="dropdown-menu">
-                <li><input type="checkbox" onclick="setInbound()"/>Inbound</li>
-                <li><input type="checkbox" onclick="setOutbound()"/>Outbound</li>
+                  <li><input type="checkbox" id="outboundBox" onclick="checkBox()" checked/>Outbound</li>
+                <li><input type="checkbox" id="inboundBox" onclick="checkBox()"/>Inbound</li>               
               </ul>
             </li>
           </ul>

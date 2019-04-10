@@ -1,0 +1,136 @@
+CARRIER_NAME,ORIGIN,ORIGIN_CITY_NAME,ORIGIN_COUNTRY_NAME,DEST,DEST_CITY_NAME,DEST_COUNTRY_NAME,PASSENGER,INSTANCES
+Delta Air Lines Inc.,SAN,"San Diego, CA",United States,JFK,"New York, NY",United States,True,65
+Delta Air Lines Inc.,SAN,"San Diego, CA",United States,GSP,"Greer, SC",United States,True,1
+American Airlines Inc.,SAN,"San Diego, CA",United States,MIA,"Miami, FL",United States,True,24
+Albinati Aeronautics SA,SAN,"San Diego, CA",United States,LIN,"Milan, Italy",Italy,True,1
+Alaska Airlines Inc.,SAN,"San Diego, CA",United States,BOS,"Boston, MA",United States,True,38
+Federal Express Corporation,SAN,"San Diego, CA",United States,OAK,"Oakland, CA",United States,False,48
+Southwest Airlines Co.,SAN,"San Diego, CA",United States,BOI,"Boise, ID",United States,True,25
+British Airways Plc,SAN,"San Diego, CA",United States,YUL,"Montreal, Canada",Canada,True,1
+Delta Air Lines Inc.,SAN,"San Diego, CA",United States,CPS,"St. Louis, MO",United States,True,2
+Delta Air Lines Inc.,SAN,"San Diego, CA",United States,AGS,"Augusta, GA",United States,True,1
+Avjet Corporation,SAN,"San Diego, CA",United States,SAC,"Sacramento, CA",United States,True,1
+Avjet Corporation,SAN,"San Diego, CA",United States,HSH,"Las Vegas, NV",United States,True,1
+Southwest Airlines Co.,SAN,"San Diego, CA",United States,LBB,"Lubbock, TX",United States,True,2
+Delta Air Lines Inc.,SAN,"San Diego, CA",United States,HSV,"Huntsville, AL",United States,True,1
+Spirit Air Lines,SAN,"San Diego, CA",United States,BWI,"Baltimore, MD",United States,True,55
+Delta Air Lines Inc.,SAN,"San Diego, CA",United States,PIT,"Pittsburgh, PA",United States,True,4
+United Air Lines Inc.,SAN,"San Diego, CA",United States,RIC,"Richmond, VA",United States,True,1
+"Jet Aviation Flight Services, Inc.",SAN,"San Diego, CA",United States,VNY,"Van Nuys, CA",United States,True,3
+Federal Express Corporation,SAN,"San Diego, CA",United States,SAT,"San Antonio, TX",United States,False,35
+United Air Lines Inc.,SAN,"San Diego, CA",United States,IAH,"Houston, TX",United States,True,80
+Southwest Airlines Co.,SAN,"San Diego, CA",United States,JAX,"Jacksonville, FL",United States,True,1
+Atlas Air Inc.,SAN,"San Diego, CA",United States,LIH,"Lihue, HI",United States,True,15
+SkyWest Airlines Inc.,SAN,"San Diego, CA",United States,BFL,"Bakersfield, CA",United States,True,1
+British Airways Plc,SAN,"San Diego, CA",United States,LHR,"London, United Kingdom",United Kingdom,True,15
+Southwest Airlines Co.,SAN,"San Diego, CA",United States,BNA,"Nashville, TN",United States,True,25
+Omni Air International LLC,SAN,"San Diego, CA",United States,LAN,"Lansing, MI",United States,True,1
+Delta Air Lines Inc.,SAN,"San Diego, CA",United States,PHL,"Philadelphia, PA",United States,True,28
+SkyWest Airlines Inc.,SAN,"San Diego, CA",United States,SNA,"Santa Ana, CA",United States,True,5
+Federal Express Corporation,SAN,"San Diego, CA",United States,IPL,"El Centro, CA",United States,False,12
+Delta Air Lines Inc.,SAN,"San Diego, CA",United States,SFO,"San Francisco, CA",United States,True,131
+Delta Air Lines Inc.,SAN,"San Diego, CA",United States,PHX,"Phoenix, AZ",United States,True,98
+Delta Air Lines Inc.,SAN,"San Diego, CA",United States,LAX,"Los Angeles, CA",United States,True,97
+Southwest Airlines Co.,SAN,"San Diego, CA",United States,MAF,"Midland/Odessa, TX",United States,True,1
+Delta Air Lines Inc.,SAN,"San Diego, CA",United States,LAS,"Las Vegas, NV",United States,True,77
+United Air Lines Inc.,SAN,"San Diego, CA",United States,CRP,"Corpus Christi, TX",United States,True,2
+SkyWest Airlines Inc.,SAN,"San Diego, CA",United States,IFP,"Bullhead City, AZ",United States,True,1
+"Caribbean Sun Airlines, Inc. d/b/a World Atlantic Airlines",SAN,"San Diego, CA",United States,AEX,"Alexandria, LA",United States,True,4
+Southwest Airlines Co.,SAN,"San Diego, CA",United States,FLL,"Fort Lauderdale, FL",United States,True,14
+Delta Air Lines Inc.,SAN,"San Diego, CA",United States,DEN,"Denver, CO",United States,True,137
+SkyWest Airlines Inc.,SAN,"San Diego, CA",United States,HDN,"Hayden, CO",United States,True,4
+Delta Air Lines Inc.,SAN,"San Diego, CA",United States,DTW,"Detroit, MI",United States,True,38
+Sun Country Airlines d/b/a MN Airlines,SAN,"San Diego, CA",United States,FLG,"Flagstaff, AZ",United States,True,1
+United Air Lines Inc.,SAN,"San Diego, CA",United States,MFE,"Mission/McAllen/Edinburg, TX",United States,True,1
+Allegiant Air,SAN,"San Diego, CA",United States,SCK,"Stockton, CA",United States,True,21
+Avjet Corporation,SAN,"San Diego, CA",United States,BUR,"Burbank, CA",United States,True,4
+Chartright Air Inc.,SAN,"San Diego, CA",United States,SCF,"Phoenix, AZ",United States,True,1
+Compass Airlines,SAN,"San Diego, CA",United States,GEG,"Spokane, WA",United States,True,6
+TAG Aviation (UK) Ltd.,SAN,"San Diego, CA",United States,OSL,"Oslo, Norway",Norway,True,1
+Edelweiss Air Ag,SAN,"San Diego, CA",United States,ZRH,"Zurich, Switzerland",Switzerland,True,4
+JetBlue Airways,SAN,"San Diego, CA",United States,BUF,"Buffalo, NY",United States,True,1
+Sun Country Airlines d/b/a MN Airlines,SAN,"San Diego, CA",United States,FTW,"Dallas/Fort Worth, TX",United States,True,1
+Southwest Airlines Co.,SAN,"San Diego, CA",United States,ORF,"Norfolk, VA",United States,True,1
+Allegiant Air,SAN,"San Diego, CA",United States,BLI,"Bellingham, WA",United States,True,12
+Allegiant Air,SAN,"San Diego, CA",United States,RFD,"Rockford, IL",United States,True,1
+United Air Lines Inc.,SAN,"San Diego, CA",United States,EWR,"Newark, NJ",United States,True,72
+Federal Express Corporation,SAN,"San Diego, CA",United States,AFW,"Dallas/Fort Worth, TX",United States,False,1
+JetBlue Airways,SAN,"San Diego, CA",United States,PBI,"West Palm Beach/Palm Beach, FL",United States,True,1
+Southwest Airlines Co.,SAN,"San Diego, CA",United States,RNO,"Reno, NV",United States,True,23
+Mjet GmbH,SAN,"San Diego, CA",United States,ANC,"Anchorage, AK",United States,True,1
+Compass Airlines,SAN,"San Diego, CA",United States,PSC,"Pasco/Kennewick/Richland, WA",United States,True,1
+Southwest Airlines Co.,SAN,"San Diego, CA",United States,OKC,"Oklahoma City, OK",United States,True,3
+Federal Express Corporation,SAN,"San Diego, CA",United States,IND,"Indianapolis, IN",United States,False,21
+Sun Country Airlines d/b/a MN Airlines,SAN,"San Diego, CA",United States,PSP,"Palm Springs, CA",United States,True,1
+American Airlines Inc.,SAN,"San Diego, CA",United States,TYS,"Knoxville, TN",United States,True,1
+Frontier Airlines Inc.,SAN,"San Diego, CA",United States,COS,"Colorado Springs, CO",United States,True,16
+Delta Air Lines Inc.,SAN,"San Diego, CA",United States,FSD,"Sioux Falls, SD",United States,True,1
+Delta Air Lines Inc.,SAN,"San Diego, CA",United States,ATL,"Atlanta, GA",United States,True,79
+"Jet Aviation Flight Services, Inc.",SAN,"San Diego, CA",United States,ISP,"Islip, NY",United States,True,1
+Sun Country Airlines d/b/a MN Airlines,SAN,"San Diego, CA",United States,HNL,"Honolulu, HI",United States,True,30
+Delta Air Lines Inc.,SAN,"San Diego, CA",United States,SMF,"Sacramento, CA",United States,True,46
+Alaska Airlines Inc.,SAN,"San Diego, CA",United States,PVR,"Puerto Vallarta, Mexico",Mexico,True,39
+Allegiant Air,SAN,"San Diego, CA",United States,PVU,"Provo, UT",United States,True,15
+Delta Air Lines Inc.,SAN,"San Diego, CA",United States,BKL,"Cleveland, OH",United States,True,1
+Avjet Corporation,SAN,"San Diego, CA",United States,TEB,"Teterboro, NJ",United States,True,2
+"Jet Aviation Flight Services, Inc.",SAN,"San Diego, CA",United States,TVL,"Lake Tahoe, CA",United States,True,1
+Horizon Air,SAN,"San Diego, CA",United States,SEA,"Seattle, WA",United States,True,116
+Avjet Corporation,SAN,"San Diego, CA",United States,ECP,"Panama City, FL",United States,True,1
+United Air Lines Inc.,SAN,"San Diego, CA",United States,ICT,"Wichita, KS",United States,True,1
+"Jet Aviation Flight Services, Inc.",SAN,"San Diego, CA",United States,MDW,"Chicago, IL",United States,True,28
+United Air Lines Inc.,SAN,"San Diego, CA",United States,RDU,"Raleigh/Durham, NC",United States,True,2
+Condor Flugdienst,SAN,"San Diego, CA",United States,FRA,"Frankfurt, Germany",Germany,True,6
+Compass Airlines,SAN,"San Diego, CA",United States,PDX,"Portland, OR",United States,True,87
+Frontier Airlines Inc.,SAN,"San Diego, CA",United States,CLE,"Cleveland, OH",United States,True,8
+Federal Express Corporation,SAN,"San Diego, CA",United States,DFW,"Dallas/Fort Worth, TX",United States,False,39
+Avjet Corporation,SAN,"San Diego, CA",United States,AUS,"Austin, TX",United States,True,55
+American Airlines Inc.,SAN,"San Diego, CA",United States,CLT,"Charlotte, NC",United States,True,16
+Avjet Corporation,SAN,"San Diego, CA",United States,SJC,"San Jose, CA",United States,True,50
+"Swift Air, LLC",SAN,"San Diego, CA",United States,ELP,"El Paso, TX",United States,True,19
+Alaska Airlines Inc.,SAN,"San Diego, CA",United States,SJD,"San Jose del Cabo, Mexico",Mexico,True,75
+SkyWest Airlines Inc.,SAN,"San Diego, CA",United States,OMA,"Omaha, NE",United States,True,6
+Federal Express Corporation,SAN,"San Diego, CA",United States,MEM,"Memphis, TN",United States,False,43
+Delta Air Lines Inc.,SAN,"San Diego, CA",United States,TUS,"Tucson, AZ",United States,True,28
+Chartright Air Inc.,SAN,"San Diego, CA",United States,YYZ,"Toronto, Canada",Canada,True,24
+American Airlines Inc.,SAN,"San Diego, CA",United States,TUL,"Tulsa, OK",United States,True,1
+Horizon Air,SAN,"San Diego, CA",United States,MMH,"Mammoth Lakes, CA",United States,True,5
+Westjet,SAN,"San Diego, CA",United States,YYC,"Calgary, Canada",Canada,True,26
+Kalitta Charters II,SAN,"San Diego, CA",United States,LEX,"Lexington, KY",United States,False,2
+Spirit Air Lines,SAN,"San Diego, CA",United States,ORD,"Chicago, IL",United States,True,96
+Alaska Airlines Inc.,SAN,"San Diego, CA",United States,GDL,"Guadalajara, Mexico",Mexico,True,1
+SkyWest Airlines Inc.,SAN,"San Diego, CA",United States,MEX,"Mexico City, Mexico",Mexico,True,2
+Delta Air Lines Inc.,SAN,"San Diego, CA",United States,MKE,"Milwaukee, WI",United States,True,18
+Avjet Corporation,SAN,"San Diego, CA",United States,MKC,"Kansas City, MO",United States,True,1
+Southwest Airlines Co.,SAN,"San Diego, CA",United States,MSY,"New Orleans, LA",United States,True,23
+Alaska Airlines Inc.,SAN,"San Diego, CA",United States,KOA,"Kona, HI",United States,True,13
+"Swift Air, LLC",SAN,"San Diego, CA",United States,AZA,"Phoenix, AZ",United States,True,12
+American Airlines Inc.,SAN,"San Diego, CA",United States,TPA,"Tampa, FL",United States,True,2
+Delta Air Lines Inc.,SAN,"San Diego, CA",United States,MSP,"Minneapolis, MN",United States,True,72
+United Air Lines Inc.,SAN,"San Diego, CA",United States,MSN,"Madison, WI",United States,True,2
+Atlas Air Inc.,SAN,"San Diego, CA",United States,CVG,"Cincinnati, OH",United States,False,17
+American Airlines Inc.,SAN,"San Diego, CA",United States,CAE,"Columbia, SC",United States,True,1
+Horizon Air,SAN,"San Diego, CA",United States,MRY,"Monterey, CA",United States,True,12
+London Air Services Limited,SAN,"San Diego, CA",United States,YVR,"Vancouver, Canada",Canada,True,48
+Atlas Air Inc.,SAN,"San Diego, CA",United States,DAL,"Dallas, TX",United States,True,29
+Delta Air Lines Inc.,SAN,"San Diego, CA",United States,SAV,"Savannah, GA",United States,True,1
+SkyWest Airlines Inc.,SAN,"San Diego, CA",United States,SGU,"St. George, UT",United States,True,1
+SkyWest Airlines Inc.,SAN,"San Diego, CA",United States,FAT,"Fresno, CA",United States,True,25
+United Air Lines Inc.,SAN,"San Diego, CA",United States,IAD,"Washington, DC",United States,True,40
+Sun Country Airlines d/b/a MN Airlines,SAN,"San Diego, CA",United States,EAU,"Eau Claire, WI",United States,True,1
+United Parcel Service,SAN,"San Diego, CA",United States,ONT,"Ontario, CA",United States,False,16
+United Air Lines Inc.,SAN,"San Diego, CA",United States,ABE,"Allentown/Bethlehem/Easton, PA",United States,True,1
+United Air Lines Inc.,SAN,"San Diego, CA",United States,STL,"St. Louis, MO",United States,True,27
+"Swift Air, LLC",SAN,"San Diego, CA",United States,ABQ,"Albuquerque, NM",United States,True,34
+Delta Air Lines Inc.,SAN,"San Diego, CA",United States,HOU,"Houston, TX",United States,True,26
+Horizon Air,SAN,"San Diego, CA",United States,STS,"Santa Rosa, CA",United States,True,12
+Delta Air Lines Inc.,SAN,"San Diego, CA",United States,SLC,"Salt Lake City, UT",United States,True,123
+Southwest Airlines Co.,SAN,"San Diego, CA",United States,MCO,"Orlando, FL",United States,True,62
+Southwest Airlines Co.,SAN,"San Diego, CA",United States,BHM,"Birmingham, AL",United States,True,1
+Southwest Airlines Co.,SAN,"San Diego, CA",United States,MCI,"Kansas City, MO",United States,True,25
+Delta Air Lines Inc.,SAN,"San Diego, CA",United States,LGB,"Long Beach, CA",United States,True,4
+Delta Air Lines Inc.,SAN,"San Diego, CA",United States,FAR,"Fargo, ND",United States,True,2
+United Parcel Service,SAN,"San Diego, CA",United States,SDF,"Louisville, KY",United States,False,15
+CFM Inc d/b/a Contour Airlines,SAN,"San Diego, CA",United States,SDM,"San Diego, CA",United States,True,1
+Alaska Airlines Inc.,SAN,"San Diego, CA",United States,OGG,"Kahului, HI",United States,True,12
+American Airlines Inc.,SAN,"San Diego, CA",United States,RSW,"Fort Myers, FL",United States,True,2
+Japan Air Lines Co. Ltd.,SAN,"San Diego, CA",United States,NRT,"Tokyo, Japan",Japan,True,12

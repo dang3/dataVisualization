@@ -7,8 +7,8 @@ let outboundPositions = [];
 let inboundPositions = [];
 let maxCount = 0;
 let focusCityData;
-let focusCityName = 'OAK';
-let bInbound = true;
+let focusCityName = 'SFO';
+let bInbound = false;
 let bOutbound = true;
 
 let options = {
@@ -28,6 +28,8 @@ function preload() {
                 'inbound' : loadTable('../data/filtered/SJC_2017-inbound.csv', 'csv', 'header')},
       'LAX' : { 'outbound' : loadTable('../data/filtered/LAX_2017-outbound.csv', 'csv', 'header'),
                 'inbound' : loadTable('../data/filtered/LAX_2017-inbound.csv', 'csv', 'header')},
+      'SAN' : { 'outbound' : loadTable('../data/filtered/SAN_2017-outbound.csv', 'csv', 'header'),
+                'inbound' : loadTable('../data/filtered/SAN_2017-inbound.csv', 'csv', 'header')},
     });
 
   airportLocation = loadJSON('../data/airports.json');
@@ -47,6 +49,7 @@ function draw() {
 
   // draw rotating star around focus city
   fill(255,255,0, 100);
+  stroke(255,255,0);
   push();
   translate(focusCityData.xPos, focusCityData.yPos);
   rotate(frameCount / 200.0);
@@ -54,13 +57,14 @@ function draw() {
   pop();
 
   if(bOutbound) drawOutboundCities();
-  //if(bInbound) drawInboundCities();
+  if(bInbound) drawInboundCities();
 
 }
 
 function drawOutboundCities() {
   // draw outbound cities in red
   fill(244, 66, 66,100);  
+  stroke(244, 66, 66);
   for(let p of outboundPositions) {
     ellipse(p.xPos, p.yPos, p.diameter*myMap.zoom());
   }
@@ -68,14 +72,17 @@ function drawOutboundCities() {
 
 function drawInboundCities() {
   // draw inbound cities in blue
-  fill(65, 181, 244, 100);
+  fill(66, 244, 137, 100);
+  stroke(66,244,137);
   for(let p of inboundPositions) {
-    ellipse(p.xPos, p.yPos, p.diameter*myMap.zoom());
+    ellipse(p.xPos+10, p.yPos+10, p.diameter*myMap.zoom());
   }
 }
 
 function updateLocations() {
+  // clear arrays before each update
   outboundPositions = [];
+  inboundPositions = [];
   maxCount = 0;
   updateFocusCity(focusCityName);
 
@@ -123,9 +130,6 @@ function updateLocations() {
     }
 }
 
-
-
-
 function updateFocusCity(name) {
   let location = airportLocation[name];
   let lat = location['latitude'];
@@ -153,14 +157,26 @@ function star(x, y, radius1, radius2, npoints) {
 }
 
 function setFocusAirport(name) {
+  let boxName = '';
   focusCityName = name;
   updateLocations();
+
+  for(let box of document.getElementsByName("focusCityCheckBox")) {
+    box.checked = false;
+  }
+
+  if(name == 'SFO') boxName = 'sfoCheckBox';
+  else if(name == 'SJC') boxName = 'sjcCheckBox';
+  else if(name == 'OAK') boxName = 'oakCheckBox';
+  else if(name == 'LAX') boxName = 'laxCheckBox';
+  else if(name == 'SAN') boxName = 'sanCheckBox';
+
+  document.getElementById(boxName).checked = true;
 }
 
-function setInbound() {
-  bInbound = !bInbound;
+function checkBox() {
+  bInbound = document.getElementById("inboundBox").checked;
+  bOutbound = document.getElementById("outboundBox").checked;
+  setCurrentFocusCityLabel()
 }
 
-function setOutbound() {
-  bOutbound = !bOutbound;
-}

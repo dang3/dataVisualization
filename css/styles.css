@@ -2,10 +2,21 @@
     z-index: 0;
 }
 
+.dropdown-menu {
+  padding: 8px !important;
+  background-color: #222 !important;
+  opacity: 0.8;
+  color: #9d9d9d;
+}
 
 .dropdown-check-list {
   display: inline-block;
 }
+
+li:hover {
+  color: white;
+}
+
 .dropdown-check-list .anchor {
   position: relative;
   cursor: pointer;

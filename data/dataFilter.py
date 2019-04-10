@@ -62,15 +62,8 @@ def writeToFile(fileName, dictHandler):
 
 
 if __name__ == '__main__':
-    # filter for year 2017
-    #filter('raw/2017-all.csv', 'SFO', '2017')
-    #filter('raw/2017-all.csv', 'SJC', '2017')
-    #filter('raw/2017-all.csv', 'OAK', '2017')
-    #filter('raw/2017-all.csv', 'LAX', '2017')
-    # print('2017 done')
-    # # filter for year 2018
-    # filter('raw/2018-all.csv', 'SFO', '2018')
-    # filter('raw/2018-all.csv', 'SJC', '2018')
-    # filter('raw/2018-all.csv', 'OAK', '2018')
-    # filter('raw/2018-all.csv', 'LAX', '2018')
-    print('2018 done')
+    filter('raw/2017-all.csv', 'SFO', '2017')
+    filter('raw/2017-all.csv', 'SJC', '2017')
+    filter('raw/2017-all.csv', 'OAK', '2017')
+    filter('raw/2017-all.csv', 'LAX', '2017')
+    filter('raw/2017-all.csv', 'SAN', '2017')
